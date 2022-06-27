@@ -1,3 +1,15 @@
+# Fork information
+This fork allows the generation of dataset for relations contained in specific DBpedia entities.
+In order to utilize this feature, you have to:
+
+1. Visit the DBpedia page you wish to extract the properties for (e.g. https://dbpedia.org/page/DBpedia)
+2. Press `Format` in the top bar
+3. Download the `Microdata` in JSON format.
+4. Build the program using `mvn clean compile package install && cd com.ibm.research.ai.ki.kb && mvn assembly:single && cd ..`
+5. Run the program with `java -Xmx8G -cp com.ibm.research.ai.ki.kb/target/kb-1.0.0-SNAPSHOT-jar-with-dependencies.jar com.ibm.research.ai.ki.kb.conversion.SelectRelations output /path/to/the/microdata.json /path/to/another/microdata.json`
+6. The extracted relations will be located in `output/relationSample.txt`. Move this file to `com.ibm.research.ai.ki.kb/src/main/resources/relationSample.txt`
+7. Follow the instructions of the original README below. It will generate a dataset using the newly generated relations.
+
 # cc-dbp
 
 A dataset for knowledge base population research using Common Crawl and DBpedia.
