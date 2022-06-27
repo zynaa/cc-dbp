@@ -49,5 +49,9 @@ com.ibm.research.ai.ki.kbp.GazetteerEDL -gazEntries $baseDir/kb/gazEntriesFilter
 java -Xmx8G -cp com.ibm.research.ai.ki.kbp/target/kbp-1.0.0-SNAPSHOT-jar-with-dependencies.jar \
 com.ibm.research.ai.ki.kbp.KBPBuildDataset -config $config -in $baseDir/docs-gaz.json.gz.b64 -out $baseDir/dataset -kb $baseDir/kb
 
+# dataset processing for seq2seq task
+java -Xmx8G -cp com.ibm.research.ai.ki.kb/target/kb-1.0.0-SNAPSHOT-jar-with-dependencies.jar \
+com.ibm.research.ai.ki.kb.conversion.MakeDatasetGeneric -config $config -kb $baseDir/kb -dataset $baseDir/dataset
+
 # show sample of positive context sets
 awk  -F $'\t' '$7!=""' $baseDir/dataset/contextSets/contexts-part0.tsv | head

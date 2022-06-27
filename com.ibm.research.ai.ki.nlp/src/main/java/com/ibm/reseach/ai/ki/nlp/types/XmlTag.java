@@ -42,6 +42,7 @@ import org.w3c.dom.NamedNodeMap;
  */
 public class XmlTag extends Annotation {
 	private static final long serialVersionUID = 1L;
+	public static final String TEXT_CONTENT = "textContent";
 	
 	public String name;
 	public Map<String,String> attributes;
@@ -105,8 +106,14 @@ public class XmlTag extends Annotation {
 
 	static XmlTag convert(Node node, StringBuilder buf, Document doc) {
 		if (node.getNodeType() == Node.TEXT_NODE) {
+			int start = buf.length();
 			buf.append(node.getTextContent());
-			return null;
+			int end = buf.length();
+			Map<String, String> map = new HashMap<>();
+			map.put(TEXT_CONTENT, node.getTextContent());
+			XmlTag t = new XmlTag(SOURCE, start, end, node.getNodeName(), map);
+			doc.addAnnotation(t);
+			return t;
 		} else if (node.getChildNodes().getLength() == 0) {
 			int start = buf.length();
 			buf.append(node.getTextContent());
