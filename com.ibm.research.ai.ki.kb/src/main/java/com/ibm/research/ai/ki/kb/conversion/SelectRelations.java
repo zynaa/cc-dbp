@@ -7,12 +7,36 @@ import java.util.*;
 
 import com.ibm.research.ai.ki.formats.*;
 import com.ibm.research.ai.ki.util.*;
+import org.apache.wink.json4j.*;
 
 public class SelectRelations {
     //The code used to create the original relationSample.txt file
     //this won't be run as part of the dataset construction, just here to document how it was done.
-    
-    private static void relationCountsAndTypes(DBpediaKBConfig config, int mostFrequentN) {
+
+    private static Set<String> getDBpediaMicroDataProperties(String[] microDataPaths) throws Exception {
+        Set<String> dbpediaFilter = new HashSet<String>();
+
+        for (String microDataPath: microDataPaths) {
+            try (InputStreamReader reader = new InputStreamReader(new FileInputStream(microDataPath))) {
+                JSONObject json = new JSONObject(reader);
+                JSONArray items = (JSONArray) json.get("items");
+                for (Object itemObj: items) {
+                    JSONObject item = (JSONObject) itemObj;
+                    JSONObject properties = (JSONObject) item.get("properties");
+
+                    Iterator<String> keyIter = properties.keys();
+                    while (keyIter.hasNext()) {
+                        String key = keyIter.next();
+                        dbpediaFilter.add(key);
+                    }
+                }
+            }
+        }
+
+        return dbpediaFilter;
+    }
+
+    private static void relationCountsAndTypes(DBpediaKBConfig config, String[] microDataPaths) throws Exception {
         File dbpediaDir = config.kbDir();
         //find the most frequently occurring N relations, both object and literal
         //examine what types of arguments they have
@@ -30,8 +54,9 @@ public class SelectRelations {
                 SparseVectors.increase(relCount, rel, 1.0);
             }
         }
-        Collection<String> freqRels = SparseVectors.getKeyDims(relCount, mostFrequentN);
-        HashMapUtil.retainAll(relCount, freqRels);
+
+        Set<String> dbpediaFilter = getDBpediaMicroDataProperties(microDataPaths);
+        HashMapUtil.retainAll(relCount, dbpediaFilter);
         System.out.println(SparseVectors.toString(relCount));
         Map<String,RandomUtil.Sample<String[]>> rel2trips = new HashMap<>();
         for (File f : new FileUtil.FileIterable(dbpediaDir)) {
@@ -135,10 +160,8 @@ public class SelectRelations {
         DBpediaKBConfig config = new DBpediaKBConfig();
         config.fromProperties(PropertyLoader.loadProperties("dbpediaConfig.properties"));
         config.kbDir = args[0];
-        int mostFrequentN = Integer.parseInt(args[1]);
-        
-        
+        String[] microDataPaths = Arrays.copyOfRange(args, 1, args.length);
         downloadDBpedia(config);
-        relationCountsAndTypes(config, mostFrequentN);
+        relationCountsAndTypes(config, microDataPaths);
     }
 }
