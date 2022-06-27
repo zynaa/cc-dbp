@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "id": "Olaf_Scholz",
+      "properties": {
+        "http://dbpedia.org/ontology/title": {},
+        "http://dbpedia.org/ontology/years": {},
+        "http://dbpedia.org/ontology/birthPlace": {},
+        "http://dbpedia.org/ontology/predecessor": {},
+        "http://dbpedia.org/ontology/office": {},
+        "http://dbpedia.org/ontology/residence": {},
+        "http://dbpedia.org/ontology/termPeriod": {},
+        "http://dbpedia.org/ontology/spouse": {},
+        "http://dbpedia.org/ontology/occupation": {},
+        "http://dbpedia.org/ontology/successor": {}
+      }
+    },
+    {
+      "id": "Russo-Ukrainian_War",
+      "properties": {
+        "http://dbpedia.org/ontology/commander": {},
+        "http://dbpedia.org/ontology/combatant": {},
+        "http://dbpedia.org/ontology/strength": {},
+        "http://dbpedia.org/ontology/status": {},
+        "http://dbpedia.org/ontology/causalties": {},
+        "http://dbpedia.org/ontology/date": {},
+        "http://dbpedia.org/ontology/place": {},
+        "http://dbpedia.org/ontology/isPartOfMilitaryConflict": {}
+      }
+    }
+  ]
+}

@@ -1,1743 +1,378 @@
-http://xmlns.com/foaf/0.1/name
-   http://dbpedia.org/resource/Pietrzykowice,_Silesian_Voivodeship	"Pietrzykowice"@en
-   http://dbpedia.org/resource/Diastematomyelia	"Diastematomyelia"@en
-   http://dbpedia.org/resource/Laneview,_Virginia	"Laneview, Virginia"@en
-   http://dbpedia.org/resource/Woodsmoke_and_Oranges	"Woodsmoke and Oranges"@en
-   http://dbpedia.org/resource/Gahen-e_Shavamel	"گاهن شوامل"@en
-   http://dbpedia.org/resource/Wonthella,_Western_Australia	"Wonthella"@en
-   http://dbpedia.org/resource/National_Moldavian_Party	"Partidul Național Moldovenesc"@en
-   http://dbpedia.org/resource/A-VCS-tec_Challenge	"A-VCS-tec Challenge"@en
-   http://dbpedia.org/resource/Charles_B._Warren	"Charles Warren"@en
-   http://dbpedia.org/resource/Elaphiti_Islands	"Elafitski otoci"@en
-   http://dbpedia.org/resource/Jerry_Only	"Jerry Only"@en
-   http://dbpedia.org/resource/Loret_Sadiku	"Loret Sadiku"@en
-   http://dbpedia.org/resource/Microsoft_Vizact	"Microsoft Vizact"@en
-   http://dbpedia.org/resource/Rafton_Pounder	"Rafton Pounder"@en
-   http://dbpedia.org/resource/Sahib's_Jazz_Party	"Sahib's Jazz Party"@en
-   http://dbpedia.org/resource/Old_Thomas_James_Store	"Old Thomas James Store"@en
-   http://dbpedia.org/resource/3362_Khufu	"3362 Khufu"@en
-   http://dbpedia.org/resource/Bhakarkhadi_7_km	"Bhakarkhadi7km"@en
-   http://dbpedia.org/resource/Declan_Lang	"Declan Lang"@en
-   http://dbpedia.org/resource/List_of_Coronation_Street_characters_(1987)	"Don Brennan"@en
-http://dbpedia.org/ontology/placeOfBurial
-   http://dbpedia.org/resource/Otto_III,_Count_of_Weimar-Orlamünde	http://dbpedia.org/resource/Himmelkron_Abbey
-   http://dbpedia.org/resource/Anthony_Browne_(died_1506)	http://dbpedia.org/resource/Calais
-   http://dbpedia.org/resource/Henry_V,_Duke_of_Legnica	http://dbpedia.org/resource/Poor_Clares
-   http://dbpedia.org/resource/Adelaide_of_Guelders	http://dbpedia.org/resource/Rijnsburg_Abbey
-   http://dbpedia.org/resource/Alice_Montacute,_5th_Countess_of_Salisbury	http://dbpedia.org/resource/Bisham_Abbey
-   http://dbpedia.org/resource/Tamelerdeamani	http://dbpedia.org/resource/Meroë
-   http://dbpedia.org/resource/Duchess_Sabine_of_Württemberg	http://dbpedia.org/resource/Martinskirche,_Kassel
-   http://dbpedia.org/resource/Albert_III,_Duke_of_Bavaria	http://dbpedia.org/resource/Andechs
-   http://dbpedia.org/resource/Wolfgang_of_the_Palatinate	http://dbpedia.org/resource/Church_of_the_Holy_Spirit,_Heidelberg
-   http://dbpedia.org/resource/Bernhard_Gustav_of_Baden-Durlach	http://dbpedia.org/resource/Hammelburg
-   http://dbpedia.org/resource/Hildegard_of_the_Vinzgau	http://dbpedia.org/resource/Metz
-   http://dbpedia.org/resource/Edmund_Mortimer,_5th_Earl_of_March	http://dbpedia.org/resource/Clare_Priory
-   http://dbpedia.org/resource/Barbara_of_Brandenburg-Ansbach-Kulmbach	http://dbpedia.org/resource/Pfreimd
-   http://dbpedia.org/resource/Henry_V,_Duke_of_Legnica	http://dbpedia.org/resource/Wrocław
-   http://dbpedia.org/resource/Abida_Sultan	http://dbpedia.org/resource/Sindh
-   http://dbpedia.org/resource/Sultan_Shah_Jahan,_Begum_of_Bhopal	http://dbpedia.org/resource/Madhya_Pradesh
-   http://dbpedia.org/resource/Frederick_I,_Duke_of_Swabia	http://dbpedia.org/resource/Lorch_(Württemberg)
-   http://dbpedia.org/resource/Đurađ_II_Balšić	http://dbpedia.org/resource/Ulcinj
-   http://dbpedia.org/resource/Dorothea_Hedwig_of_Brunswick-Wolfenbüttel	http://dbpedia.org/resource/Zerbst
-   http://dbpedia.org/resource/Marmaduke_Constable	http://dbpedia.org/resource/Flamborough
-http://dbpedia.org/ontology/origin
-   http://dbpedia.org/resource/Romano_R.82	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Civil_Aviation_Department_Ashvini	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Hass_avocado	http://dbpedia.org/resource/United_States_patent
-   http://dbpedia.org/resource/FN_SLP	http://dbpedia.org/resource/Belgium
-   http://dbpedia.org/resource/Nicholas-Beazley_NB-3	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Grapico	http://dbpedia.org/resource/Birmingham,_AL
-   http://dbpedia.org/resource/AutoGyro_MT-03	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/Peugeot_P4	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Avid_Catalina	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Canon_de_16_Gribeauval	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Irish_White_potato	http://dbpedia.org/resource/Ireland
-   http://dbpedia.org/resource/BM-27_Uragan	http://dbpedia.org/resource/Soviet_Union
-   http://dbpedia.org/resource/Hoffman_X-1	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Villiers_II	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Frontier_MD-II	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Koolhoven_F.K.45	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Delanne_20-T	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Piel_CP-20_Pinocchio	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Astra_680	http://dbpedia.org/resource/Spain
-   http://dbpedia.org/resource/TP-82	http://dbpedia.org/resource/Soviet_Union
-http://dbpedia.org/ontology/deathPlace
-   http://dbpedia.org/resource/Stanley_Lebor	http://dbpedia.org/resource/Kent
-   http://dbpedia.org/resource/Peter_Dawson_(politician)	http://dbpedia.org/resource/Edmonton
-   http://dbpedia.org/resource/Farkas_Kovacsóczy	http://dbpedia.org/resource/Szamosújvár
-   http://dbpedia.org/resource/Richard_Merrill_Atkinson	http://dbpedia.org/resource/Nashville,_Tennessee
-   http://dbpedia.org/resource/Andrey_Beketov	http://dbpedia.org/resource/Imperial_Russia
-   http://dbpedia.org/resource/T.N._Sadalakshmi	http://dbpedia.org/resource/Hyderabad,_Telangana
-   http://dbpedia.org/resource/Clifford_Evans_(actor)	http://dbpedia.org/resource/Wales
-   http://dbpedia.org/resource/George_Latham_Fletcher	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Philo_Carpenter	http://dbpedia.org/resource/Chicago,_Illinois
-   http://dbpedia.org/resource/Oscar_Ahnfelt	http://dbpedia.org/resource/Blekinge
-   http://dbpedia.org/resource/Giuseppe_Allamano	http://dbpedia.org/resource/Kingdom_of_Italy
-   http://dbpedia.org/resource/J._T._Krogh	http://dbpedia.org/resource/Østerlars
-   http://dbpedia.org/resource/Ahmed_Rushdi	http://dbpedia.org/resource/Karachi
-   http://dbpedia.org/resource/Austin_Rice	http://dbpedia.org/resource/New_London,_Connecticut
-   http://dbpedia.org/resource/Hilail_Gildin	http://dbpedia.org/resource/New_York_(state)
-   http://dbpedia.org/resource/Christiaan_Tonnet	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Carljörg_Lacherbauer	http://dbpedia.org/resource/Bavaria
-   http://dbpedia.org/resource/Helen_Lowell	http://dbpedia.org/resource/Los_Angeles,_California
-   http://dbpedia.org/resource/Hardial_Bains	http://dbpedia.org/resource/Quebec
-   http://dbpedia.org/resource/Barbara_Stuart	http://dbpedia.org/resource/Utah
-http://dbpedia.org/ontology/language
-   http://dbpedia.org/resource/Pinkeltje_(film)	http://dbpedia.org/resource/Dutch_language
-   http://dbpedia.org/resource/Pekhawaray_Mardanay	http://dbpedia.org/resource/Pashto_language
-   http://dbpedia.org/resource/Wife_Returns	http://dbpedia.org/resource/Korean_language
-   http://dbpedia.org/resource/Philipp-Reis-Schule,_Friedrichsdorf	http://dbpedia.org/resource/French_language
-   http://dbpedia.org/resource/Ready,_Steady,_Charlie!	http://dbpedia.org/resource/Swiss_German
-   http://dbpedia.org/resource/Tagalog_people	http://dbpedia.org/resource/Filipino_language
-   http://dbpedia.org/resource/Kaayamkulam_Kochunniyude_Makan	http://dbpedia.org/resource/Malayalam_Language
-   http://dbpedia.org/resource/Oorum_Uravum	http://dbpedia.org/resource/Tamil_language
-   http://dbpedia.org/resource/The_Akhenaten_Adventure	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Ivan_Yefremov	http://dbpedia.org/resource/Russian_language
-   http://dbpedia.org/resource/Finnish_New_Zealanders	http://dbpedia.org/resource/New_Zealand_English
-   http://dbpedia.org/resource/A_Gentleman_of_the_Ring_(1926_film)	http://dbpedia.org/resource/Intertitles
-   http://dbpedia.org/resource/Forelsket_i_København	http://dbpedia.org/resource/Swedish_language
-   http://dbpedia.org/resource/My_TV_(Bangladesh)	http://dbpedia.org/resource/Bengali_language
-   http://dbpedia.org/resource/BAFTA_Cymru	http://dbpedia.org/resource/Welsh_language
-   http://dbpedia.org/resource/TV_Nova_(Macedonia)	http://dbpedia.org/resource/Macedonian_language
-   http://dbpedia.org/resource/Agam_Puram	http://dbpedia.org/resource/Tamil_cinema
-   http://dbpedia.org/resource/Sandia_Pueblo	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Economics_Does_Not_Lie	http://dbpedia.org/resource/People_of_France
-   http://dbpedia.org/resource/The_Song_of_the_Rivers	http://dbpedia.org/resource/Dutch_language
-http://dbpedia.org/ontology/bodyDiscovered
-   http://dbpedia.org/resource/Murder_of_Roy_Tutill	http://dbpedia.org/resource/Surrey
-   http://dbpedia.org/resource/Murder_of_Thelma_Taylor	http://dbpedia.org/resource/St._Johns,_Portland,_Oregon
-   http://dbpedia.org/resource/Death_of_JonBenét_Ramsey	http://dbpedia.org/resource/Boulder,_Colorado
-   http://dbpedia.org/resource/Eklutna_Annie	http://dbpedia.org/resource/Alaska
-   http://dbpedia.org/resource/Murder_of_Amy_Mihaljevic	http://dbpedia.org/resource/Ohio
-   http://dbpedia.org/resource/Murder_of_Özgecan_Aslan	http://dbpedia.org/resource/Çamalan
-   http://dbpedia.org/resource/Huldremose_Woman	http://dbpedia.org/resource/Denmark
-   http://dbpedia.org/resource/Tempe_Girl	http://dbpedia.org/resource/Maricopa_County,_Arizona
-   http://dbpedia.org/resource/Luis_de_Jesús_Lima	http://dbpedia.org/resource/Zacapa
-   http://dbpedia.org/resource/Murder_of_Michelle_Garvey	http://dbpedia.org/resource/Texas
-   http://dbpedia.org/resource/Death_of_Andrew_Sadek	http://dbpedia.org/resource/Breckenridge,_Minnesota
-   http://dbpedia.org/resource/Lavender_Doe	http://dbpedia.org/resource/Gregg_County,_Texas
-   http://dbpedia.org/resource/Eliseo_Barrón	http://dbpedia.org/resource/Gómez_Palacio,_Durango
-   http://dbpedia.org/resource/St._Louis_Jane_Doe	http://dbpedia.org/resource/St._Louis_County,_Missouri
-   http://dbpedia.org/resource/Joyce_Vincent	http://dbpedia.org/resource/Wood_Green
-   http://dbpedia.org/resource/John_P._Wheeler_III	http://dbpedia.org/resource/Wilmington,_Delaware
-   http://dbpedia.org/resource/Murder_of_Rachel_Hoffman	http://dbpedia.org/resource/Perry,_Florida
-   http://dbpedia.org/resource/Murder_of_Amy_Mihaljevic	http://dbpedia.org/resource/Ashland_County,_Ohio
-   http://dbpedia.org/resource/Elling_Woman	http://dbpedia.org/resource/Silkeborg
-   http://dbpedia.org/resource/Günter_Litfin	http://dbpedia.org/resource/Berlin-Spandau_Ship_Canal
-http://www.w3.org/2003/01/geo/wgs84_pos#long
-   http://dbpedia.org/resource/Mount_Abundance_Homestead	"148.6965"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Upnor_Castle	"0.527114"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Khor_Virap	"44.576111"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Church_of_St._George,_Kurbinovo	"21.06833"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Hemmant_Gun_Battery	"153.1312"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Home_of_Lotta_Crabtree	"-121.06392"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Targmanchats_monastery,_Aygeshat	"44.288905"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Monumental_Square_(Alcaraz)	"-2.491103"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Aldrich_Coal_Mine_Museum__Montevallo_Coal_Mine_Company_Store__1	"-86.8939"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/San_Francisco_de_Asis_Mission_Church	"-105.6078"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/George_and_Dragon,_Great_Budworth	"-2.5051"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Klagenfurt_Cathedral	"14.312207"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Círculo_de_Bellas_Artes	"-3.696575"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Wajihuddin's_Tomb	"72.5788483"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Palacio_del_Marqués_de_Montana	"-6.136922"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Castle_of_Chinchilla	"-1.728525"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Beenleigh_Rum_Distillery	"153.2224"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Telford's_Warehouse	"-2.8987"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Mary_Watson's_Monument	"145.2496"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Monastery_of_the_Miracles	"42.7028"^^<http://www.w3.org/2001/XMLSchema#float>
-http://dbpedia.org/ontology/namedAfter
-   http://dbpedia.org/resource/Space_Shuttle_Enterprise	http://dbpedia.org/resource/Star_Trek
-   http://dbpedia.org/resource/Gurugram_Bhim_Kund	http://dbpedia.org/resource/Bhima
-   http://dbpedia.org/resource/Space_Shuttle_Endeavour	http://dbpedia.org/resource/HMS_Endeavour
-   http://dbpedia.org/resource/Space_Shuttle_Atlantis	http://dbpedia.org/resource/RV_Atlantis
-   http://dbpedia.org/resource/Space_Shuttle_Discovery	http://dbpedia.org/resource/Discovery_(1602_ship)
-   http://dbpedia.org/resource/Lagoa_do_Negro	http://dbpedia.org/resource/Slave
-   http://dbpedia.org/resource/Lake_Murchison	http://dbpedia.org/resource/Murchison_River_(Tasmania)
-   http://dbpedia.org/resource/Loch_Lomond_(Algoma_District)	http://dbpedia.org/resource/Loch_Lomond
-   http://dbpedia.org/resource/Laura_Bay	http://dbpedia.org/resource/Bloomfield_Douglas
-   http://dbpedia.org/resource/Lake_Murchison	http://dbpedia.org/resource/Mount_Murchison,_Tasmania
-   http://dbpedia.org/resource/Gulf_of_Castellammare	http://dbpedia.org/resource/Castellammare_del_Golfo
-   http://dbpedia.org/resource/Macquarie_Harbour	http://dbpedia.org/resource/Governor_of_New_South_Wales
-   http://dbpedia.org/resource/Trinity_Bay_(Queensland)	http://dbpedia.org/resource/Trinity_Sunday
-   http://dbpedia.org/resource/Port_Hacking	http://dbpedia.org/resource/Port_Jackson
-   http://dbpedia.org/resource/Recherche_Bay	http://dbpedia.org/resource/French_ship_Recherche_(1787)
-   http://dbpedia.org/resource/Sleaford_Mere	http://dbpedia.org/resource/Lincolnshire
-   http://dbpedia.org/resource/Hardwicke_Bay	http://dbpedia.org/resource/Earl_of_Hardwicke
-   http://dbpedia.org/resource/Lake_Rosebery_(Tasmania)	http://dbpedia.org/resource/Tasmania
-   http://dbpedia.org/resource/Lipson_Cove	http://dbpedia.org/resource/Thomas_Lipson
-   http://dbpedia.org/resource/Chichagof_Harbor	http://dbpedia.org/resource/Vasily_Chichagov
-http://dbpedia.org/ontology/routeEnd
-   http://dbpedia.org/resource/State_Highway_5_(Karnataka)	http://dbpedia.org/resource/Bangarpet
-   http://dbpedia.org/resource/Goshen_Avenue	http://dbpedia.org/resource/Lovers_Lane,_Visalia,_California
-   http://dbpedia.org/resource/Connecticut_Route_11	http://dbpedia.org/resource/Colchester,_Connecticut
-   http://dbpedia.org/resource/Mississippi_Highway_454	http://dbpedia.org/resource/Wayside,_Mississippi
-   http://dbpedia.org/resource/National_Highway_94_(India)	http://dbpedia.org/resource/Yamunotri
-   http://dbpedia.org/resource/Utah_State_Route_95	http://dbpedia.org/resource/Blanding,_Utah
-   http://dbpedia.org/resource/Canal_Parkway	http://dbpedia.org/resource/Cumberland,_Maryland
-   http://dbpedia.org/resource/Nevada_State_Route_829	http://dbpedia.org/resource/Wellington,_Nevada
-   http://dbpedia.org/resource/U.S._Route_62_in_New_York	http://dbpedia.org/resource/Niagara_Falls,_New_York
-   http://dbpedia.org/resource/Thessaloniki–Bitola_railway	http://dbpedia.org/resource/Bitola
-   http://dbpedia.org/resource/Ohio_State_Route_521	http://dbpedia.org/resource/Olive_Green,_Delaware_County,_Ohio
-   http://dbpedia.org/resource/State_Highway_67_(Rajasthan)	http://dbpedia.org/resource/Desuri
-   http://dbpedia.org/resource/R249_road_(Ireland)	http://dbpedia.org/resource/R245_road_(Ireland)
-   http://dbpedia.org/resource/North_Carolina_Highway_55	http://dbpedia.org/resource/Oriental,_North_Carolina
-   http://dbpedia.org/resource/Missouri_Route_22	http://dbpedia.org/resource/U.S._Route_63_(Missouri)
-   http://dbpedia.org/resource/Sardar_Patel_Road,_Chennai	http://dbpedia.org/resource/Guindy
-   http://dbpedia.org/resource/West_Dalarna_Line	http://dbpedia.org/resource/Malung
-   http://dbpedia.org/resource/Colorado_State_Highway_139	http://dbpedia.org/resource/Rangely,_Colorado
-   http://dbpedia.org/resource/New_York_State_Route_176	http://dbpedia.org/resource/Fulton,_Oswego_County,_New_York
-   http://dbpedia.org/resource/Virginia_State_Route_30	http://dbpedia.org/resource/Norge,_Virginia
-http://dbpedia.org/ontology/populationPlace
-   http://dbpedia.org/resource/Pakistanis_in_the_Middle_East	http://dbpedia.org/resource/Oman
-   http://dbpedia.org/resource/Cypriot_Australians	http://dbpedia.org/resource/South_Australia
-   http://dbpedia.org/resource/Assyrians_in_Russia	http://dbpedia.org/resource/St._Petersburg
-   http://dbpedia.org/resource/Soboba_Band_of_Luiseno_Indians	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/East_Indians	http://dbpedia.org/resource/Anglosphere
-   http://dbpedia.org/resource/Comorians_in_France	http://dbpedia.org/resource/Paris
-   http://dbpedia.org/resource/Finnish_Americans	http://dbpedia.org/resource/Michigan
-   http://dbpedia.org/resource/Moriori	http://dbpedia.org/resource/Chatham_Islands
-   http://dbpedia.org/resource/Portuguese_people_in_France	http://dbpedia.org/resource/Lower_Normandy
-   http://dbpedia.org/resource/Yanesha_people	http://dbpedia.org/resource/Peru
-   http://dbpedia.org/resource/Arabs_in_the_Netherlands	http://dbpedia.org/resource/Randstad
-   http://dbpedia.org/resource/Hola_(ethnic_group)	http://dbpedia.org/resource/Saudi_Arabia
-   http://dbpedia.org/resource/White_Colombians	http://dbpedia.org/resource/Andean_Natural_Region,_Colombia
-   http://dbpedia.org/resource/Madurese_people	http://dbpedia.org/resource/West_Java
-   http://dbpedia.org/resource/Kayapo_people	http://dbpedia.org/resource/Pará
-   http://dbpedia.org/resource/Indo-Guyanese	http://dbpedia.org/resource/Barbados
-   http://dbpedia.org/resource/Kalash_people	http://dbpedia.org/resource/Chitral_District
-   http://dbpedia.org/resource/Japanese_settlement_in_Kiribati	http://dbpedia.org/resource/Butaritari
-   http://dbpedia.org/resource/South_Asian_Canadians	http://dbpedia.org/resource/Southern_Ontario
-   http://dbpedia.org/resource/Koma_in_Adamawa	http://dbpedia.org/resource/Fufore
-http://dbpedia.org/ontology/regionServed
-   http://dbpedia.org/resource/Consolidated_Communications	http://dbpedia.org/resource/Texas
-   http://dbpedia.org/resource/Harris_Teeter	http://dbpedia.org/resource/Maryland
-   http://dbpedia.org/resource/Albert_Heijn	http://dbpedia.org/resource/Belgium
-   http://dbpedia.org/resource/Cameroon_Radio_Television	http://dbpedia.org/resource/Cameroon
-   http://dbpedia.org/resource/Haggar_Clothing	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Society_for_Underwater_Historical_Research	http://dbpedia.org/resource/South_Australia
-   http://dbpedia.org/resource/Tamil_Nadu_Board_of_Secondary_Education	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Activ_Solar	http://dbpedia.org/resource/Ukraine
-   http://dbpedia.org/resource/Radio_Club_Peruano	http://dbpedia.org/resource/Peru
-   http://dbpedia.org/resource/B&B_Hotels	http://dbpedia.org/resource/Portugal
-   http://dbpedia.org/resource/Morley's	http://dbpedia.org/resource/Croydon
-   http://dbpedia.org/resource/Elex_Media_Komputindo	http://dbpedia.org/resource/Indonesia
-   http://dbpedia.org/resource/SeatGeek	http://dbpedia.org/resource/World
-   http://dbpedia.org/resource/Back_on_My_Feet_(non-profit_organization)	http://dbpedia.org/resource/New_York_City,_NY
-   http://dbpedia.org/resource/Buglife_–_The_Invertebrate_Conservation_Trust	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Tamil_Nadu_Slum_Clearance_Board	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/GoCardless	http://dbpedia.org/resource/Sweden
-   http://dbpedia.org/resource/Southern_Africa-Indian_Ocean_Division_of_Seventh-day_Adventists	http://dbpedia.org/resource/Réunion
-   http://dbpedia.org/resource/AFL_Europe	http://dbpedia.org/resource/Europe
-   http://dbpedia.org/resource/Eat'n_Park	http://dbpedia.org/resource/Ohio
-http://dbpedia.org/ontology/occupation
-   http://dbpedia.org/resource/Supriya_Pilgaonkar	http://dbpedia.org/resource/Supriya_Pilgaonkar__1
-   http://dbpedia.org/resource/Master_Vithal	http://dbpedia.org/resource/Master_Vithal__1
-   http://dbpedia.org/resource/C-drik_Fermont	http://dbpedia.org/resource/Lecturer
-   http://dbpedia.org/resource/David_Goggins	http://dbpedia.org/resource/Jesse_Itzler
-   http://dbpedia.org/resource/Razane_Jammal	http://dbpedia.org/resource/Razane_Jammal__1
-   http://dbpedia.org/resource/Romana_Carén	http://dbpedia.org/resource/Romana_Carén__1
-   http://dbpedia.org/resource/Frankie_Howerd	http://dbpedia.org/resource/Frankie_Howerd__1
-   http://dbpedia.org/resource/Jeff_Greene	http://dbpedia.org/resource/Real_estate_entrepreneur
-   http://dbpedia.org/resource/Karl_Ernst	http://dbpedia.org/resource/Karl_Ernst__1
-   http://dbpedia.org/resource/Fito_Páez	http://dbpedia.org/resource/Singer-songwriter
-   http://dbpedia.org/resource/Stacey_Roca	http://dbpedia.org/resource/Actress
-   http://dbpedia.org/resource/Sterling_K._Brown	http://dbpedia.org/resource/Sterling_K._Brown__1
-   http://dbpedia.org/resource/Alfonso_Othón_Bello_Pérez	http://dbpedia.org/resource/Alfonso_Othón_Bello_Pérez__1
-   http://dbpedia.org/resource/Ruth_Chatterton	http://dbpedia.org/resource/Ruth_Chatterton__1
-   http://dbpedia.org/resource/Margaret_Cross_Norton	http://dbpedia.org/resource/Margaret_Cross_Norton__1
-   http://dbpedia.org/resource/Sofia_Zweygberg	http://dbpedia.org/resource/Sofia_Zweygberg__1
-   http://dbpedia.org/resource/Nick_Duffy	http://dbpedia.org/resource/Filmmaker
-   http://dbpedia.org/resource/Soraya_Diase_Coffelt	http://dbpedia.org/resource/Soraya_Diase_Coffelt__1
-   http://dbpedia.org/resource/Janis_Paige	http://dbpedia.org/resource/Janis_Paige__1
-   http://dbpedia.org/resource/Widgey_R._Newman	http://dbpedia.org/resource/Widgey_R._Newman__1
-http://dbpedia.org/ontology/operator
-   http://dbpedia.org/resource/UMT_Stadium	http://dbpedia.org/resource/Ubon_UMT_United_F.C.
-   http://dbpedia.org/resource/TicketReturn.com_Field	http://dbpedia.org/resource/Myrtle_Beach_Pelicans
-   http://dbpedia.org/resource/Istanbul–Ankara_railway	http://dbpedia.org/resource/TCDD_District_1
-   http://dbpedia.org/resource/Chernihiv–Ovruch_railway	http://dbpedia.org/resource/Southwestern_Railways
-   http://dbpedia.org/resource/RAF_Findo_Gask	http://dbpedia.org/resource/Royal_Air_Force
-   http://dbpedia.org/resource/Roxburgh_Branch	http://dbpedia.org/resource/New_Zealand_Railways_Department
-   http://dbpedia.org/resource/UCF_Soccer_and_Track_Stadium	http://dbpedia.org/resource/University_of_Central_Florida
-   http://dbpedia.org/resource/Madison_Square_Theatre	http://dbpedia.org/resource/Charles_H._Hoyt
-   http://dbpedia.org/resource/Decatur_(1813_ship)	http://dbpedia.org/resource/Dominique_Diron
-   http://dbpedia.org/resource/Newsholme_railway_station	http://dbpedia.org/resource/Lancashire_and_Yorkshire_Railway
-   http://dbpedia.org/resource/USCGC_Acushnet_(WMEC-167)	http://dbpedia.org/resource/US_Navy
-   http://dbpedia.org/resource/Viejas_Arena	http://dbpedia.org/resource/San_Diego_State_University
-   http://dbpedia.org/resource/Metra_Electric_District	http://dbpedia.org/resource/Metra
-   http://dbpedia.org/resource/MS_Svea_Regina	http://dbpedia.org/resource/Finnlines
-   http://dbpedia.org/resource/Wellingborough_railway_station	http://dbpedia.org/resource/East_Midlands_Trains
-   http://dbpedia.org/resource/Chilham_railway_station	http://dbpedia.org/resource/Southeastern_(train_operating_company)
-   http://dbpedia.org/resource/Zittau–Oybin–Jonsdorf_railway	http://dbpedia.org/resource/Deutsche_Reichsbahn_(East_Germany)
-   http://dbpedia.org/resource/Rice–Totten_Stadium	http://dbpedia.org/resource/Mississippi_Valley_State_University
-   http://dbpedia.org/resource/Tapa_Airfield	http://dbpedia.org/resource/Estonian_Air_Force
-   http://dbpedia.org/resource/HMNZS_Waikato_(F55)	http://dbpedia.org/resource/Royal_New_Zealand_Navy
-http://dbpedia.org/ontology/populationTotal
-   http://dbpedia.org/resource/Deh_Zarchi	"118"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Lochgilphead	"2300"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Sciolze	"1466"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Portones_de_Hierro_y_Campodónico	"323"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Mill_Township,_Tuscarawas_County,_Ohio	"10290"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Sandy_Springs,_Georgia	"93853"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Jásztelek	"1770"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Chah-e_Dasht_Mohammad_Khan_9	"31"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Umariya,_Bhopal	"303"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Zumpango_del_Río	"24719"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Veľké_Slemence	"598"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Chissey-sur-Loue	"334"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Bauma	"2013"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Garfield,_New_Mexico	"137"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Sosnówka,_Opole_Voivodeship	"100"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Wörschach	"1177"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/White_Island,_Otago	"0"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Bodio_Lomnago	"2009"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Amboy_(Córdoba)	"168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-   http://dbpedia.org/resource/Cardito	"22767"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
-http://dbpedia.org/ontology/percentageOfAreaWater
-   http://dbpedia.org/resource/Morris_County,_Kansas	"1.1"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Garden_Township,_Cherokee_County,_Kansas	"2.8"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Bloomfield,_California	"0.08"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Chatham_Township,_New_Jersey	"4.06"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Hopkins_County,_Kentucky	"2.2"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Antioch,_California	"2.52"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Pleasant_Vale_Township,_Pike_County,_Illinois	"0.03"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Hartland_Township,_McHenry_County,_Illinois	"0.39"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Cheney's_Grove_Township,_McLean_County,_Illinois	"0.14"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Boone_County,_Iowa	"0.4"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Hinsdale_County,_Colorado	"0.5"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Mount_Morris_Township,_Michigan	"0.13"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Sanibel,_Florida	"48.13"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Thousand_Palms,_California	"0.0"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Krødsherad	"0.12"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Twelve_Mile_Lake_Township,_Emmet_County,_Iowa	"0.97"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Kennebec_County,_Maine	"8.8"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Salt_Lake_County,_Utah	"8.1"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Indian_Wells,_California	"1.85"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Laton,_California	"0.0"^^<http://www.w3.org/2001/XMLSchema#float>
-http://dbpedia.org/ontology/nonFictionSubject
-   http://dbpedia.org/resource/The_J._R._R._Tolkien_Companion_and_Guide	http://dbpedia.org/resource/J._R._R._Tolkien
-   http://dbpedia.org/resource/Fuck:_Word_Taboo_and_Protecting_Our_First_Amendment_Liberties	http://dbpedia.org/resource/Freedom_of_speech
-   http://dbpedia.org/resource/The_Man_Who_Knew_Infinity	http://dbpedia.org/resource/Biography
-   http://dbpedia.org/resource/Galaxy_of_Fear:_City_of_the_Dead	http://dbpedia.org/resource/Star_Wars
-   http://dbpedia.org/resource/Status_Anxiety	http://dbpedia.org/resource/Psychology
-   http://dbpedia.org/resource/Tempest_(Bulis_novel)	http://dbpedia.org/resource/Bernice_Summerfield
-   http://dbpedia.org/resource/Out_of_Gas:_The_End_of_the_Age_of_Oil	http://dbpedia.org/resource/Peak_oil
-   http://dbpedia.org/resource/Fact,_Fiction,_and_Forecast	http://dbpedia.org/resource/Inductive_reasoning
-   http://dbpedia.org/resource/Thud!	http://dbpedia.org/resource/Chess
-   http://dbpedia.org/resource/Triumph_&_Demise:_The_Broken_Promise_of_a_Labor_Generation	http://dbpedia.org/resource/Kevin_Rudd
-   http://dbpedia.org/resource/Marx's_Theory_of_Ideology	http://dbpedia.org/resource/Karl_Marx
-   http://dbpedia.org/resource/The_Fourth_Way_(book)	http://dbpedia.org/resource/Fourth_Way
-   http://dbpedia.org/resource/Spandau:_The_Secret_Diaries	http://dbpedia.org/resource/Autobiography
-   http://dbpedia.org/resource/Michelangelo_in_Ravensbrück	http://dbpedia.org/resource/Invasion_of_Poland
-   http://dbpedia.org/resource/Animal,_Vegetable,_Miracle	http://dbpedia.org/resource/Organic_food
-   http://dbpedia.org/resource/Linguistic_Imperialism	http://dbpedia.org/resource/Philosophy
-   http://dbpedia.org/resource/Roman_Construction_Sites	http://dbpedia.org/resource/Urbanism
-   http://dbpedia.org/resource/Not_Yet:_A_Memoir_of_Living_and_Almost_Dying	http://dbpedia.org/resource/Immigrant_generations
-   http://dbpedia.org/resource/A_Lotus_Grows_in_the_Mud	http://dbpedia.org/resource/Memoir
-   http://dbpedia.org/resource/Backroads_Pragmatists	http://dbpedia.org/resource/History_of_the_United_States
-http://dbpedia.org/ontology/mouthMountain
-   http://dbpedia.org/resource/Sèvre_Niortaise	http://dbpedia.org/resource/Atlantic_Ocean
-   http://dbpedia.org/resource/Black_Mallard_River	http://dbpedia.org/resource/Lake_Huron
-   http://dbpedia.org/resource/Tonawanda_Creek	http://dbpedia.org/resource/Tonawanda_(city),_New_York
-   http://dbpedia.org/resource/Kerry_Blackwater	http://dbpedia.org/resource/Kenmare_Bay
-   http://dbpedia.org/resource/Oyabe_River	http://dbpedia.org/resource/Takaoka,_Toyama
-   http://dbpedia.org/resource/Frio_River	http://dbpedia.org/resource/Texas
-   http://dbpedia.org/resource/Piray_River	http://dbpedia.org/resource/Yapacani_River
-   http://dbpedia.org/resource/Lanterne_(river)	http://dbpedia.org/resource/Saône
-   http://dbpedia.org/resource/Almbach_(Salzach)	http://dbpedia.org/resource/Salzach
-   http://dbpedia.org/resource/Bolshaya_Nevka_River	http://dbpedia.org/resource/Neva_Bay
-   http://dbpedia.org/resource/Löbauer_Wasser	http://dbpedia.org/resource/Spree
-   http://dbpedia.org/resource/Turkey_Creek_(Kansas)	http://dbpedia.org/resource/Kansas_River
-   http://dbpedia.org/resource/Cadu_River	http://dbpedia.org/resource/Mădăraş,_Harghita
-   http://dbpedia.org/resource/Orewa_River	http://dbpedia.org/resource/Whangaparaoa_Bay
-   http://dbpedia.org/resource/Bogdana_River_(Suceava)	http://dbpedia.org/resource/Suceava
-   http://dbpedia.org/resource/Tweed_River_(New_South_Wales)	http://dbpedia.org/resource/Point_Danger_(Tweed_Heads)
-   http://dbpedia.org/resource/Split_Rock_River	http://dbpedia.org/resource/Lake_Superior
-   http://dbpedia.org/resource/Kolak_River	http://dbpedia.org/resource/Arabian_Sea
-   http://dbpedia.org/resource/Valea_Satului_River_(Jiblea)	http://dbpedia.org/resource/Jiblea_Veche,_Vâlcea
-   http://dbpedia.org/resource/Lead_Run	http://dbpedia.org/resource/East_Branch_Fishing_Creek
-http://dbpedia.org/ontology/event
-   http://dbpedia.org/resource/Sailing_at_the_1980_Summer_Olympics_–_470	http://dbpedia.org/resource/470_(dinghy)
-   http://dbpedia.org/resource/Equestrian_at_the_1912_Summer_Olympics_–_Team_jumping	http://dbpedia.org/resource/Show_jumping
-   http://dbpedia.org/resource/Rowing_at_the_1952_Summer_Olympics	http://dbpedia.org/resource/Rowing_(sport)
-   http://dbpedia.org/resource/Cycling_at_the_1952_Summer_Olympics_–_Men's_individual_road_race	http://dbpedia.org/resource/Cycling_at_the_1952_Summer_Olympics
-   http://dbpedia.org/resource/Athletics_at_the_1980_Summer_Olympics_–_Men's_800_metres	http://dbpedia.org/resource/800_metres
-   http://dbpedia.org/resource/Mia_Audina	http://dbpedia.org/resource/2004_European_Badminton_Championships
-   http://dbpedia.org/resource/Athletics_at_the_1976_Summer_Olympics_–_Men's_200_metres	http://dbpedia.org/resource/200_metres
-   http://dbpedia.org/resource/Ha_Jung-eun	http://dbpedia.org/resource/2010_BWF_World_Championships
-   http://dbpedia.org/resource/Sailing_at_the_1988_Summer_Olympics_–_Flying_Dutchman	http://dbpedia.org/resource/Flying_Dutchman_(dinghy)
-   http://dbpedia.org/resource/Sailing_at_the_1956_Summer_Olympics_–_12m²_Sharpie	http://dbpedia.org/resource/12m²_Sharpie
-   http://dbpedia.org/resource/Curling_at_the_2012_Winter_Youth_Olympics	http://dbpedia.org/resource/Curling
-   http://dbpedia.org/resource/Sailing_at_the_1952_Summer_Olympics_–_6_Metre	http://dbpedia.org/resource/6_Metre_(keelboat)
-   http://dbpedia.org/resource/Tracey_Hallam	http://dbpedia.org/resource/Badminton_at_the_2008_Summer_Olympics_–_Women's_singles
-   http://dbpedia.org/resource/Syed_Modi	http://dbpedia.org/resource/Badminton_at_the_1982_Commonwealth_Games
-   http://dbpedia.org/resource/Ronald_Susilo	http://dbpedia.org/resource/Badminton_at_the_2003_Southeast_Asian_Games
-   http://dbpedia.org/resource/Sailing_at_the_1920_Summer_Olympics_–_6_Metre	http://dbpedia.org/resource/6_Metre
-   http://dbpedia.org/resource/Rian_Agung_Saputro	http://dbpedia.org/resource/Badminton_at_the_2013_Southeast_Asian_Games
-   http://dbpedia.org/resource/Sailing_at_the_1960_Summer_Olympics_–_Dragon	http://dbpedia.org/resource/Dragon_(keelboat)
-   http://dbpedia.org/resource/Ayaka_Takahashi	http://dbpedia.org/resource/Badminton_at_the_2016_Summer_Olympics_–_Women's_doubles
-   http://dbpedia.org/resource/Gadde_Ruthvika_Shivani	http://dbpedia.org/resource/Badminton_at_the_2016_South_Asian_Games
-http://dbpedia.org/ontology/timeZone
-   http://dbpedia.org/resource/Birtara_Union	http://dbpedia.org/resource/Bangladesh_Standard_Time
-   http://dbpedia.org/resource/Zaghehlu	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/Chak_Khasa	http://dbpedia.org/resource/Pakistan_Standard_Time
-   http://dbpedia.org/resource/Yekeh_Bagh-e_Sofla	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/Phagwara	http://dbpedia.org/resource/Indian_Standard_Time
-   http://dbpedia.org/resource/Barikeh-ye_Nezam-e_Olya	http://dbpedia.org/resource/Iran_Daylight_Time
-   http://dbpedia.org/resource/Kwahu_West_Municipal_District	http://dbpedia.org/resource/Greenwich_Mean_Time
-   http://dbpedia.org/resource/Kozluca,_Hocalar	http://dbpedia.org/resource/Eastern_European_Time
-   http://dbpedia.org/resource/Eerikvere	http://dbpedia.org/resource/Eastern_European_Summer_Time
-   http://dbpedia.org/resource/Bandeh,_Khuzestan	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/Qanavat	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/Farkhan-e_Kohneh	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/P._N._Patti	http://dbpedia.org/resource/Indian_Standard_Time
-   http://dbpedia.org/resource/Gach_Borat	http://dbpedia.org/resource/Iran_Standard_Time
-   http://dbpedia.org/resource/Dam-e_Abbas_Chicken_Company	http://dbpedia.org/resource/Iran_Daylight_Time
-   http://dbpedia.org/resource/Sacsamarca_District	http://dbpedia.org/resource/Time_in_Peru
-   http://dbpedia.org/resource/Heqing,_Lengshuijiang	http://dbpedia.org/resource/China_Standard_Time
-   http://dbpedia.org/resource/Union_Township,_Union_County,_New_Jersey	http://dbpedia.org/resource/Eastern_Time_Zone
-   http://dbpedia.org/resource/Arızlar,_Göynük	http://dbpedia.org/resource/Eastern_European_Time
-   http://dbpedia.org/resource/Mowtowr-e_Mohammad_Namdadifor_Chah_Hasan	http://dbpedia.org/resource/Iran_Standard_Time
-http://dbpedia.org/ontology/mouthPlace
-   http://dbpedia.org/resource/Saint-Maurice_River	http://dbpedia.org/resource/Trois-Rivières
-   http://dbpedia.org/resource/Dagia	http://dbpedia.org/resource/Šventoji_River
-   http://dbpedia.org/resource/Buller_River_(Western_Australia)	http://dbpedia.org/resource/Indian_Ocean
-   http://dbpedia.org/resource/Mitocu_River	http://dbpedia.org/resource/Suceava
-   http://dbpedia.org/resource/Price_Creek	http://dbpedia.org/resource/Lackawanna_River
-   http://dbpedia.org/resource/Billings_Mill_Brook	http://dbpedia.org/resource/Tunkhannock_Township,_Wyoming_County,_Pennsylvania
-   http://dbpedia.org/resource/Pesceana_River_(Olteț)	http://dbpedia.org/resource/Bălcești
-   http://dbpedia.org/resource/Little_Sequatchie_River	http://dbpedia.org/resource/Sequatchie_River
-   http://dbpedia.org/resource/South_Fork_Republican_River	http://dbpedia.org/resource/Benkelman,_Nebraska
-   http://dbpedia.org/resource/Serbenta	http://dbpedia.org/resource/Rovėja
-   http://dbpedia.org/resource/Santău_River	http://dbpedia.org/resource/Sudurău,_Satu_Mare
-   http://dbpedia.org/resource/Lovett_River	http://dbpedia.org/resource/Pembina_River_(Alberta)
-   http://dbpedia.org/resource/Kano_River	http://dbpedia.org/resource/Suruga_Bay
-   http://dbpedia.org/resource/Botiza_(river)	http://dbpedia.org/resource/Șieu,_Maramureș
-   http://dbpedia.org/resource/Amba_River	http://dbpedia.org/resource/Amur_Bay
-   http://dbpedia.org/resource/Sauldre	http://dbpedia.org/resource/Cher_River
-   http://dbpedia.org/resource/River_Sherbourne	http://dbpedia.org/resource/Baginton
-   http://dbpedia.org/resource/Forks_River	http://dbpedia.org/resource/Timmins
-   http://dbpedia.org/resource/Southwest_Branch_Indian_River	http://dbpedia.org/resource/Indian_River_(Maine)
-   http://dbpedia.org/resource/Toaderiș_River	http://dbpedia.org/resource/Filea,_Mureş
-http://dbpedia.org/ontology/assembly
-   http://dbpedia.org/resource/Volkswagen_Jetta__Second_generation_A2_1G__1	http://dbpedia.org/resource/Changchun
-   http://dbpedia.org/resource/Austin_Cambridge__A50__1	http://dbpedia.org/resource/England
-   http://dbpedia.org/resource/Morris_Eight__Morris_Eight__1	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Isuzu_Axiom	http://dbpedia.org/resource/Lafayette,_Indiana
-   http://dbpedia.org/resource/BMW_X5_(E53)	http://dbpedia.org/resource/Toluca
-   http://dbpedia.org/resource/Volkswagen_Type_2__T2__1	http://dbpedia.org/resource/Mexico
-   http://dbpedia.org/resource/Toyota_Corona__Eighth_generation_T170__1	http://dbpedia.org/resource/Thames,_New_Zealand
-   http://dbpedia.org/resource/Mercedes-Benz_CLS-Class	http://dbpedia.org/resource/Toluca
-   http://dbpedia.org/resource/Great_Wall_Haval_H5	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Hyundai_Tucson__First_generation__1	http://dbpedia.org/resource/Anápolis
-   http://dbpedia.org/resource/Volvo_700_Series__Volvo_760__1	http://dbpedia.org/resource/Kalmar
-   http://dbpedia.org/resource/Volkswagen_Jetta__Sixth_generation_A6_1B__1	http://dbpedia.org/resource/São_Bernardo_do_Campo
-   http://dbpedia.org/resource/Volkswagen_Jetta__Third_generation_A3_1H__1	http://dbpedia.org/resource/Wolfsburg
-   http://dbpedia.org/resource/Beaumont_(automobile)	http://dbpedia.org/resource/Oshawa
-   http://dbpedia.org/resource/Nissan_Pulsar__N14__1	http://dbpedia.org/resource/Yokosuka,_Kanagawa
-   http://dbpedia.org/resource/Chevrolet_Series_AA_Capitol	http://dbpedia.org/resource/Oakland,_California
-   http://dbpedia.org/resource/Pontiac_Sunbird__Second_generation__1	http://dbpedia.org/resource/South_Gate,_California
-   http://dbpedia.org/resource/Dodge_Monaco__Second_generation__1	http://dbpedia.org/resource/Dodge_Main
-   http://dbpedia.org/resource/Force_Motors_Gurkha	http://dbpedia.org/resource/Pithampur
-   http://dbpedia.org/resource/William_Beardmore_and_Company__Beardmore_12/30_Tourer,_1925__1	http://dbpedia.org/resource/Anniesland
-http://dbpedia.org/ontology/alias
-   http://dbpedia.org/resource/CIXF-FM	"The One @ 101.1"@en
-   http://dbpedia.org/resource/MF_Grimm	"The Grimm Reaper"@en
-   http://dbpedia.org/resource/Charles_Kraus_(clown)	"Charles the Clown"@en
-   http://dbpedia.org/resource/WHWK	"98.1 The Hawk"@en
-   http://dbpedia.org/resource/KRQN	"i107-1"@en
-   http://dbpedia.org/resource/Ángela_Acuña_Braun	"Ángela Acuña de Chacón"@en
-   http://dbpedia.org/resource/GS_Boyz	"Them G-Spot Boyz"@en
-   http://dbpedia.org/resource/KLMY	"Clammy 99.7"@en
-   http://dbpedia.org/resource/June_Pointer	"June Pointer"@en
-   http://dbpedia.org/resource/CJFX-FM	"989 XFM"@en
-   http://dbpedia.org/resource/WBLW	"Family Christian Radio"@en
-   http://dbpedia.org/resource/Donald_Neilson	"The Black Panther"@en
-   http://dbpedia.org/resource/OG_Maco	"Maco Mattox"@en
-   http://dbpedia.org/resource/Charice_Pempengco	"Charice Pempengco"@en
-   http://dbpedia.org/resource/Fuzz_(musician)	"The Fuzz"@en
-   http://dbpedia.org/resource/Stephen_Maguire	"Livewire"@en
-   http://dbpedia.org/resource/Mint_(candy)	"Peppermints, spearmints"@en
-   http://dbpedia.org/resource/Q-Genz	"CP, QQJ"@en
-   http://dbpedia.org/resource/KNRY	"Unforgettable 1240"@en
-   http://dbpedia.org/resource/WKJQ-FM	"Q97.3 FM"@en
-http://dbpedia.org/ontology/city
-   http://dbpedia.org/resource/Apertura_2013_Copa_MX_Final	http://dbpedia.org/resource/Morelia
-   http://dbpedia.org/resource/Vishwajyot_High_School	http://dbpedia.org/resource/Kharghar
-   http://dbpedia.org/resource/Québec_City_Jean_Lesage_International_Airport	http://dbpedia.org/resource/Quebec
-   http://dbpedia.org/resource/Prescott_High_School_(Arkansas)	http://dbpedia.org/resource/Prescott,_Arkansas
-   http://dbpedia.org/resource/XHHPC-FM	http://dbpedia.org/resource/Mexico
-   http://dbpedia.org/resource/Leu_River	http://dbpedia.org/resource/Teasc,_Dolj
-   http://dbpedia.org/resource/Beverly_School_for_the_Deaf	http://dbpedia.org/resource/Beverly,_Massachusetts
-   http://dbpedia.org/resource/St._Theresa's_Boys_High_School	http://dbpedia.org/resource/Mumbai
-   http://dbpedia.org/resource/Ursuline_Academy_(New_Orleans)	http://dbpedia.org/resource/New_Orleans
-   http://dbpedia.org/resource/DVTK_Jegesmedvék	http://dbpedia.org/resource/Hungary
-   http://dbpedia.org/resource/Halls_High_School	http://dbpedia.org/resource/Halls_Crossroads,_Tennessee
-   http://dbpedia.org/resource/KNND	http://dbpedia.org/resource/Cottage_Grove,_Oregon
-   http://dbpedia.org/resource/Red_Cedar_River_(Michigan)	http://dbpedia.org/resource/Williamston,_Michigan
-   http://dbpedia.org/resource/Kolej_MARA_Banting	http://dbpedia.org/resource/Sepang
-   http://dbpedia.org/resource/Aylesbury_College	http://dbpedia.org/resource/Aylesbury
-   http://dbpedia.org/resource/KOBY	http://dbpedia.org/resource/Utah
-   http://dbpedia.org/resource/Medford_Public_Schools	http://dbpedia.org/resource/Medford,_Massachusetts
-   http://dbpedia.org/resource/CollegeAmerica	http://dbpedia.org/resource/Colorado
-   http://dbpedia.org/resource/McAllen_Miller_International_Airport	http://dbpedia.org/resource/McAllen,_Texas
-   http://dbpedia.org/resource/Clausura_2016_Copa_MX_Final	http://dbpedia.org/resource/Veracruz,_Veracruz
-http://dbpedia.org/ontology/product
-   http://dbpedia.org/resource/Big_Five_Software	http://dbpedia.org/resource/Meteor_Mission_II
-   http://dbpedia.org/resource/Latvijas_Gāze	http://dbpedia.org/resource/Commodity_markets
-   http://dbpedia.org/resource/Manley_Laboratories	http://dbpedia.org/resource/Digital-to-analog_converter
-   http://dbpedia.org/resource/SIE_London_Studio	http://dbpedia.org/resource/SingStar
-   http://dbpedia.org/resource/Maxposure_Media_Group	http://dbpedia.org/resource/Saudigulf
-   http://dbpedia.org/resource/Amana_Bank_(Tanzania)	http://dbpedia.org/resource/Cheque
-   http://dbpedia.org/resource/NEXTV	http://dbpedia.org/resource/IPTV
-   http://dbpedia.org/resource/Hasselblad	http://dbpedia.org/resource/Image_scanner
-   http://dbpedia.org/resource/MidFirst_Bank	http://dbpedia.org/resource/Mobile_banking
-   http://dbpedia.org/resource/Falcon_Cycles	http://dbpedia.org/resource/Elswick_Hopper
-   http://dbpedia.org/resource/Ordnance_Factories_Board	http://dbpedia.org/resource/Propellants
-   http://dbpedia.org/resource/ETECSA	http://dbpedia.org/resource/Cellphones
-   http://dbpedia.org/resource/Harmony_Company	http://dbpedia.org/resource/Ukulele
-   http://dbpedia.org/resource/Elprice	http://dbpedia.org/resource/Telecommunications
-   http://dbpedia.org/resource/Prodigy_(online_service)	http://dbpedia.org/resource/Television
-   http://dbpedia.org/resource/Visage_Mobile	http://dbpedia.org/resource/Enterprise_mobility_management
-   http://dbpedia.org/resource/Silterra_Malaysia	http://dbpedia.org/resource/Power_electronics
-   http://dbpedia.org/resource/M_Oriental_Bank	http://dbpedia.org/resource/Debit_Cards
-   http://dbpedia.org/resource/Bhushan_Steel	http://dbpedia.org/resource/Sponge_iron
-   http://dbpedia.org/resource/DreamWorks	http://dbpedia.org/resource/Motion_pictures
-http://dbpedia.org/ontology/nationality
-   http://dbpedia.org/resource/Xavier_Musca	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Don_Cameron_(Queensland_Liberal_politician)	http://dbpedia.org/resource/Australia
-   http://dbpedia.org/resource/Eli_Clare	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Allen_Wardwell	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Augustus_Granville	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Jacob_van_der_Ulft	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Jayme_Garfinkel	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Orit_Ishay	http://dbpedia.org/resource/Israel
-   http://dbpedia.org/resource/Koenraad_Dillen	http://dbpedia.org/resource/Politics_of_Belgium
-   http://dbpedia.org/resource/Hajime_Narukawa	http://dbpedia.org/resource/Japanese_people
-   http://dbpedia.org/resource/Vere_Fane_Benett-Stanford	http://dbpedia.org/resource/England
-   http://dbpedia.org/resource/Stephanie_Okereke_Linus	http://dbpedia.org/resource/Nigerian
-   http://dbpedia.org/resource/Ross_Cohen	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Kathryn_Zenna	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/Vince_Dundee	http://dbpedia.org/resource/Americans
-   http://dbpedia.org/resource/Paolo_Boffetta	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/William_J._Lavery	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Roger_Blandford	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Tristan_Knowles	http://dbpedia.org/resource/Australia
-   http://dbpedia.org/resource/Tou_Samouth	http://dbpedia.org/resource/Khmer_Krom
-http://dbpedia.org/ontology/position
-   http://dbpedia.org/resource/Bill_Brandt_(baseball)	http://dbpedia.org/resource/Pitcher
-   http://dbpedia.org/resource/Dominique_Morrison	http://dbpedia.org/resource/Shooting_guard
-   http://dbpedia.org/resource/Colin_Bettany	http://dbpedia.org/resource/Defender_(association_football)
-   http://dbpedia.org/resource/Joel_Kiviranta	http://dbpedia.org/resource/Forward_(ice_hockey)
-   http://dbpedia.org/resource/Theo_Wharton	http://dbpedia.org/resource/Midfielder
-   http://dbpedia.org/resource/Kasper_Jensen	http://dbpedia.org/resource/Goalkeeper_(association_football)
-   http://dbpedia.org/resource/Joseph_Mpande	http://dbpedia.org/resource/Midfielder
-   http://dbpedia.org/resource/Edgaras_Česnauskis	http://dbpedia.org/resource/Second_striker
-   http://dbpedia.org/resource/Ešref_Jašarević	http://dbpedia.org/resource/Midfielder_(association_football)
-   http://dbpedia.org/resource/Victor_Rîmniceanu	http://dbpedia.org/resource/Goalkeeper_(association_football)
-   http://dbpedia.org/resource/2014–15_Bayer_04_Leverkusen_season__Emir_Spahić__1	http://dbpedia.org/resource/Defender_(association_football)
-   http://dbpedia.org/resource/Domagoj_Bošnjak	http://dbpedia.org/resource/Shooting_guard
-   http://dbpedia.org/resource/FK_Sarajevo__Advan_Kadušić__1	http://dbpedia.org/resource/Defender_(football)
-   http://dbpedia.org/resource/Dick_Brodowski	http://dbpedia.org/resource/Pitcher
-   http://dbpedia.org/resource/James_Richmond_(footballer)	http://dbpedia.org/resource/Forward_(association_football)
-   http://dbpedia.org/resource/Adrian_Hayes	http://dbpedia.org/resource/Midfielder_(football)
-   http://dbpedia.org/resource/Logan_Shaw	http://dbpedia.org/resource/Winger_(ice_hockey)
-   http://dbpedia.org/resource/Prince_Polley	http://dbpedia.org/resource/Striker_(association_football)
-   http://dbpedia.org/resource/Ken_Rice_(American_football)	http://dbpedia.org/resource/Guard_(American_football)
-   http://dbpedia.org/resource/Rovigo_Calcio	http://dbpedia.org/resource/Eccellenza
-http://dbpedia.org/ontology/populationTotalRanking
-   http://dbpedia.org/resource/Irvington,_New_Jersey	"30"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Prospect_Park,_New_Jersey	"16"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Hopewell_Township,_Cumberland_County,_New_Jersey	"8"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Helmetta,_New_Jersey	"480"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Winfield_Township,_New_Jersey	"514"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Bayonne,_New_Jersey	"3"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Ringwood,_New_Jersey	"199"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Ho-Ho-Kus,_New_Jersey	"409"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Nógrád_County	"19"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/LaPorte_County,_Indiana	"15"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Salinas,_California	"1"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Mount_Holly,_New_Jersey	"251"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Michoacán	"9"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Kırıkkale_Subregion	"22"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Satun_Province	"69"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Hawthorne,_New_Jersey	"6"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Bridgewater_Township,_New_Jersey	"2"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Manville,_New_Jersey	"11"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Jalpaiguri	"19"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-   http://dbpedia.org/resource/Neptune_Township,_New_Jersey	"7"^^<http://www.w3.org/2001/XMLSchema#positiveInteger>
-http://www.w3.org/2000/01/rdf-schema#seeAlso
-   http://dbpedia.org/resource/Busch_Stadium	http://dbpedia.org/resource/Soccer
-   http://dbpedia.org/resource/German_Caucasus_expedition	http://dbpedia.org/resource/Caucasus_Campaign
-   http://dbpedia.org/resource/Early_Scandinavian_Dublin	http://dbpedia.org/resource/Dubgaill
-   http://dbpedia.org/resource/Catholic_Church_in_Australia	http://dbpedia.org/resource/Catholic_Church
-   http://dbpedia.org/resource/DJ_Umek	http://dbpedia.org/resource/1605_Records
-   http://dbpedia.org/resource/Overwatch_(video_game)	http://dbpedia.org/resource/Characters_of_Overwatch
-   http://dbpedia.org/resource/Slavic_languages	http://dbpedia.org/resource/Proto-Slavic
-   http://dbpedia.org/resource/1950_Cleveland_Indians_season	http://dbpedia.org/resource/Minor_League_Baseball
-   http://dbpedia.org/resource/2014_Kansas_State_Wildcats_football_team	http://dbpedia.org/resource/2014_Auburn_Tigers_football_team
-   http://dbpedia.org/resource/Windows_Embedded	http://dbpedia.org/resource/Windows_Server_2003_Embedded
-   http://dbpedia.org/resource/List_of_Millwall_F.C._records_and_statistics	http://dbpedia.org/resource/List_of_Millwall_F.C._seasons
-   http://dbpedia.org/resource/Vitamin_D	http://dbpedia.org/resource/Reference_ranges_for_blood_tests
-   http://dbpedia.org/resource/Kinect	http://dbpedia.org/resource/Kinect_for_Xbox_One
-   http://dbpedia.org/resource/1935_Alabama_Crimson_Tide_football_team	http://dbpedia.org/resource/1935_Georgia_Tech_Yellow_Jackets_football_team
-   http://dbpedia.org/resource/2015_Stanford_Cardinal_football_team	http://dbpedia.org/resource/2015_Washington_Huskies_football_team
-   http://dbpedia.org/resource/Culture_in_Pristina	http://dbpedia.org/resource/Ethnological_Treasure_of_Kosovo
-   http://dbpedia.org/resource/Third_Extraordinary_General_Assembly_of_the_Synod_of_Bishops	http://dbpedia.org/resource/Annulment_(Catholic_Church)
-   http://dbpedia.org/resource/Lex_Scantinia	http://dbpedia.org/resource/Sexuality
-   http://dbpedia.org/resource/Long_Point,_New_Brunswick	http://dbpedia.org/resource/History_of_New_Brunswick
-   http://dbpedia.org/resource/Barcie,_West_Pomeranian_Voivodeship	http://dbpedia.org/resource/Barcie
-http://dbpedia.org/ontology/territory
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Sacramento	http://dbpedia.org/resource/Colusa_County,_California
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_San_Angelo	http://dbpedia.org/resource/Central_Texas
-   http://dbpedia.org/resource/Indo-Pakistani_War_of_1947	http://dbpedia.org/resource/Aksai_Chin
-   http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Glasgow	http://dbpedia.org/resource/Argyll_and_Bute
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Lansing	http://dbpedia.org/resource/Jackson_County,_Michigan
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Venice_in_Florida	http://dbpedia.org/resource/Collier_County,_Florida
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_El_Paso	http://dbpedia.org/resource/Hudspeth_County,_Texas
-   http://dbpedia.org/resource/Northwestern_Syria_offensive_(October–November_2015)	http://dbpedia.org/resource/Mansura,_Hama
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Portsmouth	http://dbpedia.org/resource/Hampshire
-   http://dbpedia.org/resource/Cleomenean_War	http://dbpedia.org/resource/Acrocorinth
-   http://dbpedia.org/resource/Italian_War_of_1551–59	http://dbpedia.org/resource/Bishopric_of_Verdun
-   http://dbpedia.org/resource/Episcopal_Diocese_of_Texas	http://dbpedia.org/resource/Liberty_County,_Texas
-   http://dbpedia.org/resource/Chadian–Libyan_conflict	http://dbpedia.org/resource/Aouzou_Strip
-   http://dbpedia.org/resource/Metropolitanate_of_Zagreb_and_Ljubljana	http://dbpedia.org/resource/Croatia
-   http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Atlanta	http://dbpedia.org/resource/Georgia_(U.S._state)
-   http://dbpedia.org/resource/Eparchy_of_Polog_and_Kumanovo	http://dbpedia.org/resource/Gostivar_Municipality
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Wagga_Wagga	http://dbpedia.org/resource/Riverina
-   http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Milwaukee	http://dbpedia.org/resource/Wisconsin
-   http://dbpedia.org/resource/Ukrainian_Catholic_Eparchy_of_Kamyanets-Podilskyi	http://dbpedia.org/resource/Khmelnytskyi_Oblast
-   http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Porto_Alegre	http://dbpedia.org/resource/Canoas
-http://dbpedia.org/ontology/beatifiedPlace
-   http://dbpedia.org/resource/Elisabetta_Sanna	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Claudio_Granzotto	http://dbpedia.org/resource/Saint_Peter's_Basilica
-   http://dbpedia.org/resource/Benvenuta_Bojani	http://dbpedia.org/resource/Papal_States
-   http://dbpedia.org/resource/Paula_Montal_Fornés	http://dbpedia.org/resource/Saint_Peter's_Square
-   http://dbpedia.org/resource/Anne_de_Guigné	http://dbpedia.org/resource/Vatican_City
-   http://dbpedia.org/resource/Vilmos_Apor	http://dbpedia.org/resource/Vatican_City
-   http://dbpedia.org/resource/Marko_Krizin	http://dbpedia.org/resource/Rome
-   http://dbpedia.org/resource/Dominic_Barberi	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Jakov_Varingez	http://dbpedia.org/resource/Papal_States
-   http://dbpedia.org/resource/Zofia_Czeska	http://dbpedia.org/resource/Poland
-   http://dbpedia.org/resource/Simone_Ballachi	http://dbpedia.org/resource/Papal_States
-   http://dbpedia.org/resource/Eugene_Bossilkov	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Federico_Albert	http://dbpedia.org/resource/Saint_Peter's_Square
-   http://dbpedia.org/resource/Giustino_Russolillo	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Marco_da_Montegallo	http://dbpedia.org/resource/Saint_Peter's_Basilica
-   http://dbpedia.org/resource/Gaetana_Sterni	http://dbpedia.org/resource/Vatican_City
-   http://dbpedia.org/resource/Domingo_Iturrate_Zubero	http://dbpedia.org/resource/Vatican_City
-   http://dbpedia.org/resource/Jean-Bernard_Rousseau	http://dbpedia.org/resource/Réunion
-   http://dbpedia.org/resource/Placide_Viel	http://dbpedia.org/resource/Saint_Peter's_Basilica
-   http://dbpedia.org/resource/Rolando_Rivi	http://dbpedia.org/resource/Italy
-http://dbpedia.org/ontology/battle
-   http://dbpedia.org/resource/50th_Army_(Soviet_Union)	http://dbpedia.org/resource/Battle_of_Smolensk_(1943)
-   http://dbpedia.org/resource/Brian_Horrocks	http://dbpedia.org/resource/Operation_Clipper
-   http://dbpedia.org/resource/Legio_XIV_Gemina	http://dbpedia.org/resource/Vexillatio
-   http://dbpedia.org/resource/Wilhelm_Weidenbrück	http://dbpedia.org/resource/Operation_Bagration
-   http://dbpedia.org/resource/Nicolas_François_Conroux	http://dbpedia.org/resource/Battle_of_Arlon_(1793)
-   http://dbpedia.org/resource/Kampfgeschwader_4	http://dbpedia.org/resource/Battle_of_Crete
-   http://dbpedia.org/resource/Henry_Bachtold	http://dbpedia.org/resource/Battle_of_Polygon_Wood
-   http://dbpedia.org/resource/Bob_Feller__Bob_Feller__1	http://dbpedia.org/resource/Atlantic_War
-   http://dbpedia.org/resource/Charles_Hillyar	http://dbpedia.org/resource/Crimean_War
-   http://dbpedia.org/resource/16th_Army_(Wehrmacht)	http://dbpedia.org/resource/World_War_II
-   http://dbpedia.org/resource/1st_Florida_Cavalry	http://dbpedia.org/resource/Carolinas_Campaign
-   http://dbpedia.org/resource/3rd_(Ambala)_Cavalry_Brigade	http://dbpedia.org/resource/Battle_of_the_Somme_(1916)
-   http://dbpedia.org/resource/12th_Arkansas_Infantry_Battalion	http://dbpedia.org/resource/Siege_of_Vicksburg
-   http://dbpedia.org/resource/Military_Assistance_Command,_Vietnam_–_Studies_and_Observations_Group	http://dbpedia.org/resource/Operation_Commando_Hunt
-   http://dbpedia.org/resource/Bauyrzhan_Momyshuly	http://dbpedia.org/resource/German-Soviet_War
-   http://dbpedia.org/resource/10th_Infantry_Brigade_(United_Kingdom)	http://dbpedia.org/resource/World_War_I
-   http://dbpedia.org/resource/Otto_Brakat	http://dbpedia.org/resource/Battle_of_Kiev_(1941)
-   http://dbpedia.org/resource/Sun_Li-jen	http://dbpedia.org/resource/Battle_of_Kunlun_Pass
-   http://dbpedia.org/resource/4th_Air_Army	http://dbpedia.org/resource/Kerch-Eltigen_Operation
-   http://dbpedia.org/resource/6th_Florida_Infantry_Regiment	http://dbpedia.org/resource/Battle_of_Bentonville
-http://dbpedia.org/ontology/homeport
-   http://dbpedia.org/resource/CFAV_Glenside_(YTB_644)	http://dbpedia.org/resource/CFB_Halifax
-   http://dbpedia.org/resource/JS_Suzunami_(DD-114)	http://dbpedia.org/resource/Ōminato_Guard_District
-   http://dbpedia.org/resource/USS_Inca_(1911)	http://dbpedia.org/resource/Newport,_Rhode_Island
-   http://dbpedia.org/resource/City_of_Detroit_III	http://dbpedia.org/resource/Detroit
-   http://dbpedia.org/resource/USS_Laboon	http://dbpedia.org/resource/Virginia
-   http://dbpedia.org/resource/HMQS_Otter	http://dbpedia.org/resource/Brisbane,_Queensland
-   http://dbpedia.org/resource/USS_Liberty_(AGTR-5)	http://dbpedia.org/resource/Norfolk,_Virginia
-   http://dbpedia.org/resource/France_II	http://dbpedia.org/resource/Rouen
-   http://dbpedia.org/resource/EML_Kalev	http://dbpedia.org/resource/Tallinn
-   http://dbpedia.org/resource/SS_Point_Bonita_(1918)	http://dbpedia.org/resource/Noumea
-   http://dbpedia.org/resource/USS_Siboney_(ID-2999)	http://dbpedia.org/resource/New_York_City
-   http://dbpedia.org/resource/USS_Chosin	http://dbpedia.org/resource/California
-   http://dbpedia.org/resource/BNS_Durjoy_(2013)	http://dbpedia.org/resource/Chittagong
-   http://dbpedia.org/resource/USS_Tornado	http://dbpedia.org/resource/Naval_Station_Mayport
-   http://dbpedia.org/resource/Lantern_Queen	http://dbpedia.org/resource/Havre_de_Grace,_Maryland
-   http://dbpedia.org/resource/HMCS_Columbia_(DDE_260)	http://dbpedia.org/resource/CFB_Esquimalt
-   http://dbpedia.org/resource/ARA_Guerrico_(P-32)	http://dbpedia.org/resource/Mar_del_Plata
-   http://dbpedia.org/resource/USCGC_Bluebell_(WLI-313)	http://dbpedia.org/resource/Portland,_Oregon
-   http://dbpedia.org/resource/USS_Fairy_(1861)	http://dbpedia.org/resource/Mound_City,_Illinois
-   http://dbpedia.org/resource/HMS_P38_(1941)	http://dbpedia.org/resource/Malta
-http://dbpedia.org/ontology/targetAirport
-   http://dbpedia.org/resource/Veteran_Avia	http://dbpedia.org/resource/Kabul
-   http://dbpedia.org/resource/Shoal_Air	http://dbpedia.org/resource/Kalumburu,_Western_Australia
-   http://dbpedia.org/resource/LATAM_Perú	http://dbpedia.org/resource/Alejandro_Velasco_Astete_International_Airport
-   http://dbpedia.org/resource/Air_Santo_Domingo	http://dbpedia.org/resource/Las_Américas_International_Airport
-   http://dbpedia.org/resource/Air_One	http://dbpedia.org/resource/Falcone–Borsellino_Airport
-   http://dbpedia.org/resource/Eagle_Air_(Guinea)	http://dbpedia.org/resource/Kankan
-   http://dbpedia.org/resource/Champion_Air	http://dbpedia.org/resource/Detroit_Metropolitan_Wayne_County_Airport
-   http://dbpedia.org/resource/Dubrovnik_Airline	http://dbpedia.org/resource/Dubrovnik_Airport
-   http://dbpedia.org/resource/British_United_Island_Airways	http://dbpedia.org/resource/Isle_of_Man_Airport
-   http://dbpedia.org/resource/Ibex_Airlines	http://dbpedia.org/resource/Haneda_Airport
-   http://dbpedia.org/resource/Fred._Olsen_Airtransport	http://dbpedia.org/resource/Oslo_Airport,_Fornebu
-   http://dbpedia.org/resource/UVT_Aero	http://dbpedia.org/resource/Bugulma_Airport
-   http://dbpedia.org/resource/SmartLynx_Airlines	http://dbpedia.org/resource/Tallinn_Airport
-   http://dbpedia.org/resource/T'way_Airlines	http://dbpedia.org/resource/Gimpo_International_Airport
-   http://dbpedia.org/resource/Jet_Time	http://dbpedia.org/resource/Helsinki_Airport
-   http://dbpedia.org/resource/PrivatAir	http://dbpedia.org/resource/Copenhagen_Airport
-   http://dbpedia.org/resource/Adam_Air	http://dbpedia.org/resource/Polonia_International_Airport
-   http://dbpedia.org/resource/Airways_International_Cymru	http://dbpedia.org/resource/Cardiff_International_Airport
-   http://dbpedia.org/resource/PrivatAir	http://dbpedia.org/resource/EC_Air
-   http://dbpedia.org/resource/Catovair	http://dbpedia.org/resource/Rodrigues
-http://dbpedia.org/ontology/icd10
-   http://dbpedia.org/resource/Radiation-induced_lung_injury	"J70.0-J70.1"
-   http://dbpedia.org/resource/Autoimmune_thyroiditis	"E06.3"
-   http://dbpedia.org/resource/Hyperpituitarism	"E22"
-   http://dbpedia.org/resource/Amelogenesis_imperfecta	"K00.5"
-   http://dbpedia.org/resource/Coloboma	"Q10.3,Q12.2,Q13.0,Q14.2,Q14.8"
-   http://dbpedia.org/resource/Hematocolpos	"N89.7"
-   http://dbpedia.org/resource/Sprained_ankle	"S93.4"
-   http://dbpedia.org/resource/Babinski–Nageotte_syndrome	"G83.89"
-   http://dbpedia.org/resource/Toxic_nodular_goiter	"E05.1-E05.2"
-   http://dbpedia.org/resource/Tinea_faciei	"B35.8"
-   http://dbpedia.org/resource/Attention_deficit_hyperactivity_disorder	"F90"
-   http://dbpedia.org/resource/Transfusion_hemosiderosis	"T80.8"
-   http://dbpedia.org/resource/Purine_nucleoside_phosphorylase_deficiency	"D81.5"
-   http://dbpedia.org/resource/Pemphigus	"L10"
-   http://dbpedia.org/resource/Chorioamnionitis	"O41.1,P02.7"
-   http://dbpedia.org/resource/Stenosis_of_uterine_cervix	"N88.2"
-   http://dbpedia.org/resource/Hypercementosis	"K03.4"
-   http://dbpedia.org/resource/DiGeorge_syndrome	"D82.1"
-   http://dbpedia.org/resource/Acantholysis	"L11.9 (ILDSL11.900)"
-   http://dbpedia.org/resource/Irritable_bowel_syndrome	"K58"
-http://dbpedia.org/ontology/garrison
-   http://dbpedia.org/resource/4th_Commando_Battalion_(Belgium)	http://dbpedia.org/resource/Belgian_Congo
-   http://dbpedia.org/resource/Tainan_Air_Group	http://dbpedia.org/resource/Taiwan
-   http://dbpedia.org/resource/Natal_Field_Artillery	http://dbpedia.org/resource/Durban
-   http://dbpedia.org/resource/604th_Air_Support_Operations_Squadron	http://dbpedia.org/resource/Republic_of_Korea
-   http://dbpedia.org/resource/Guard_Battalion_(Estonia)	http://dbpedia.org/resource/Tallinn
-   http://dbpedia.org/resource/De_Mist_Commando	http://dbpedia.org/resource/De_Mist
-   http://dbpedia.org/resource/1st_Fighter_Regiment_(Yugoslavia)	http://dbpedia.org/resource/Zadar_Airport
-   http://dbpedia.org/resource/Johannesburg_West_Commando	http://dbpedia.org/resource/Johannesburg_West
-   http://dbpedia.org/resource/Far_Eastern_Military_District	http://dbpedia.org/resource/Khabarovsk
-   http://dbpedia.org/resource/403rd_Infantry_Brigade	http://dbpedia.org/resource/Malaybalay_City
-   http://dbpedia.org/resource/16th_Sustainment_Brigade	http://dbpedia.org/resource/Baumholder
-   http://dbpedia.org/resource/Kansas_Army_National_Guard	http://dbpedia.org/resource/Salina,_Kansas
-   http://dbpedia.org/resource/3-108th_Cavalry_Regiment	http://dbpedia.org/resource/Atlanta,_Georgia
-   http://dbpedia.org/resource/360th_Civil_Affairs_Brigade_(United_States)	http://dbpedia.org/resource/Fort_Jackson_(South_Carolina)
-   http://dbpedia.org/resource/The_Grey_and_Simcoe_Foresters	http://dbpedia.org/resource/Barrie,_Ontario
-   http://dbpedia.org/resource/51st_(London)_Heavy_Anti-Aircraft_Regiment,_Royal_Artillery	http://dbpedia.org/resource/Duke_of_York's_Headquarters
-   http://dbpedia.org/resource/634th_Naval_Air_Group	http://dbpedia.org/resource/Munakata,_Fukuoka
-   http://dbpedia.org/resource/2nd_Brigade_Special_Troops_Battalion	http://dbpedia.org/resource/Fort_Hood
-   http://dbpedia.org/resource/4th_Brigade_Combat_Team,_4th_Infantry_Division_(United_States)	http://dbpedia.org/resource/Fort_Hood
-   http://dbpedia.org/resource/2nd_Infantry_Division_(United_Kingdom)	http://dbpedia.org/resource/Craigiehall
-http://dbpedia.org/ontology/knownFor
-   http://dbpedia.org/resource/Konstantin_Novoselov	http://dbpedia.org/resource/Graphene
-   http://dbpedia.org/resource/Fred_Goodwill	http://dbpedia.org/resource/Kolar_Gold_Fields
-   http://dbpedia.org/resource/Albert_Szent-Györgyi	http://dbpedia.org/resource/Vitamin_C
-   http://dbpedia.org/resource/William_Busch	http://dbpedia.org/resource/Piano_quartet
-   http://dbpedia.org/resource/Ronald_Theodore_Reuther	http://dbpedia.org/resource/Koko_the_Gorilla
-   http://dbpedia.org/resource/Kang_Kek_Iew	http://dbpedia.org/resource/Tuol_Sleng_Genocide_Museum
-   http://dbpedia.org/resource/Winnifred_Paskall	http://dbpedia.org/resource/Tuni
-   http://dbpedia.org/resource/David_Cox_(statistician)	http://dbpedia.org/resource/Design_of_experiments
-   http://dbpedia.org/resource/Ted_Wells	http://dbpedia.org/resource/Deflategate
-   http://dbpedia.org/resource/Max_Weber	http://dbpedia.org/resource/Verstehen
-   http://dbpedia.org/resource/Carl_Bennet	http://dbpedia.org/resource/Getinge
-   http://dbpedia.org/resource/Gilbert_Jerome_Perlow	http://dbpedia.org/resource/Journal_of_Applied_Physics
-   http://dbpedia.org/resource/Peter_G._Neumann	http://dbpedia.org/resource/Multics_operating_system
-   http://dbpedia.org/resource/Daniel_Bernoulli	http://dbpedia.org/resource/Kinetic_theory_of_gases
-   http://dbpedia.org/resource/Marie-Josephte_Corriveau	http://dbpedia.org/resource/Murder
-   http://dbpedia.org/resource/Marco_Pallis	http://dbpedia.org/resource/Tibet
-   http://dbpedia.org/resource/Thomas_Barnardiston_(legal_writer)	http://dbpedia.org/resource/Barnardiston's_Chancery_Reports
-   http://dbpedia.org/resource/Martinus_Beijerinck	http://dbpedia.org/resource/Nitrogen_cycle
-   http://dbpedia.org/resource/Sebastian_Wille	http://dbpedia.org/resource/Urology
-   http://dbpedia.org/resource/David_Warren_(inventor)	http://dbpedia.org/resource/Cockpit_voice_recorder
-http://dbpedia.org/ontology/subsequentWork
-   http://dbpedia.org/resource/I_Want_to_Know_You_Before_We_Make_Love	http://dbpedia.org/resource/That's_My_Job
-   http://dbpedia.org/resource/Hatchet_Warrior	http://dbpedia.org/resource/Dirty_History
-   http://dbpedia.org/resource/Now_That's_What_I_Call_Music!_41_(UK_series)	http://dbpedia.org/resource/Now_That's_What_I_Call_Music!_42_(UK_series)
-   http://dbpedia.org/resource/24/7_(song)	http://dbpedia.org/resource/Tease_Me_(3T_song)
-   http://dbpedia.org/resource/World_Expansion	http://dbpedia.org/resource/Sine_Die_(album)
-   http://dbpedia.org/resource/See_You_on_the_Other_Side_(Korn_album)	http://dbpedia.org/resource/Untitled_Korn_album
-   http://dbpedia.org/resource/My_Nth_Bit_of_Strange_in_Umpteen_Years	http://dbpedia.org/resource/That_Might_Be_It,_Darling
-   http://dbpedia.org/resource/14_Megala_Tragoudia	http://dbpedia.org/resource/Singles_(Despina_Vandi_album)
-   http://dbpedia.org/resource/When_You_Say_Nothing_at_All	http://dbpedia.org/resource/Life_Is_a_Rollercoaster
-   http://dbpedia.org/resource/The_Cold_Nose	http://dbpedia.org/resource/In_Ear_Park
-   http://dbpedia.org/resource/Phantom_Limb_(song)	http://dbpedia.org/resource/Australia_(The_Shins_song)
-   http://dbpedia.org/resource/Interaction_(album)	http://dbpedia.org/resource/Live_at_the_Half-Note
-   http://dbpedia.org/resource/Diabolos_(Gackt_album)	http://dbpedia.org/resource/Jūnigatsu_no_Love_Song:_Complete_Box
-   http://dbpedia.org/resource/There's_No_Shoulder	http://dbpedia.org/resource/Balince
-   http://dbpedia.org/resource/Anarchy_in_the_U.K.	http://dbpedia.org/resource/God_Save_the_Queen_(Sex_Pistols_song)
-   http://dbpedia.org/resource/Police_Women_of_Memphis	http://dbpedia.org/resource/Police_Women_of_Dallas
-   http://dbpedia.org/resource/The_Young_Rascals_(album)	http://dbpedia.org/resource/Collections_(The_Young_Rascals_album)
-   http://dbpedia.org/resource/Star_(Belly_album)	http://dbpedia.org/resource/King_(Belly_album)
-   http://dbpedia.org/resource/Alla_flickor	http://dbpedia.org/resource/Diamanter
-   http://dbpedia.org/resource/Spring_Songs_(EP)	http://dbpedia.org/resource/Hyperview_(album)
-http://dbpedia.org/ontology/routeStart
-   http://dbpedia.org/resource/Maine_State_Route_123	http://dbpedia.org/resource/Harpswell,_Maine
-   http://dbpedia.org/resource/Schuylkill_Expressway	http://dbpedia.org/resource/King_of_Prussia,_Pennsylvania
-   http://dbpedia.org/resource/Manitoba_Provincial_Road_221	http://dbpedia.org/resource/Winnipeg
-   http://dbpedia.org/resource/D304_road_(Croatia)	http://dbpedia.org/resource/Kastav
-   http://dbpedia.org/resource/K-38_(Kansas_highway)	http://dbpedia.org/resource/K-15_(Kansas_highway)
-   http://dbpedia.org/resource/Delaware_Route_2	http://dbpedia.org/resource/Newark,_Delaware
-   http://dbpedia.org/resource/Guangdong–Hainan_Railway	http://dbpedia.org/resource/Haikou
-   http://dbpedia.org/resource/New_York_State_Route_127	http://dbpedia.org/resource/Mamaroneck_(village),_New_York
-   http://dbpedia.org/resource/M-89_(Michigan_highway)	http://dbpedia.org/resource/Ganges_Township,_Michigan
-   http://dbpedia.org/resource/Jalan_Kempas_Lama	http://dbpedia.org/resource/Skudai_Highway
-   http://dbpedia.org/resource/China_National_Highway_223	http://dbpedia.org/resource/Hainan
-   http://dbpedia.org/resource/Katihar–Siliguri_line	http://dbpedia.org/resource/Katihar_railway_station
-   http://dbpedia.org/resource/North_Carolina_Highway_218	http://dbpedia.org/resource/Mint_Hill,_North_Carolina
-   http://dbpedia.org/resource/A22_motorway_(Portugal)	http://dbpedia.org/resource/Lagos,_Portugal
-   http://dbpedia.org/resource/South_Carolina_Highway_45	http://dbpedia.org/resource/McClellanville,_South_Carolina
-   http://dbpedia.org/resource/M-105_(Michigan_highway)	http://dbpedia.org/resource/Bad_Axe,_Michigan
-   http://dbpedia.org/resource/Pennsylvania_Route_177	http://dbpedia.org/resource/Rossville,_Pennsylvania
-   http://dbpedia.org/resource/European_route_E21	http://dbpedia.org/resource/Metz
-   http://dbpedia.org/resource/Kentucky_Route_97	http://dbpedia.org/resource/Kentucky
-   http://dbpedia.org/resource/National_Highway_513_(India)	http://dbpedia.org/resource/Arunachal_Pradesh
-http://dbpedia.org/ontology/locationCountry
-   http://dbpedia.org/resource/SimEx-Iwerks	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/The_Row_(fashion_label)	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/OGK-6	http://dbpedia.org/resource/Russia
-   http://dbpedia.org/resource/MSG_Western_New_York	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/BBC_Choice_Northern_Ireland	http://dbpedia.org/resource/Northern_Ireland
-   http://dbpedia.org/resource/Environics	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/Hua-chuang_Automobile_Information_Technical_Center	http://dbpedia.org/resource/Taiwan
-   http://dbpedia.org/resource/Wilkhahn	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/KGMB	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/SBS_9	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Azovstal_iron_and_steel_works	http://dbpedia.org/resource/Ukraine
-   http://dbpedia.org/resource/WFGC	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Founder2be	http://dbpedia.org/resource/Helsinki
-   http://dbpedia.org/resource/RTV_Živinice	http://dbpedia.org/resource/Bosnia_and_Herzegovina
-   http://dbpedia.org/resource/Pegatron	http://dbpedia.org/resource/Taiwan
-   http://dbpedia.org/resource/WENY-DT2	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Dangal_TV	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Root_Sports_Rocky_Mountain	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Michigan-Peninsular_Car_Company	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Campofrío_Food_Group	http://dbpedia.org/resource/Spain
-http://dbpedia.org/ontology/usingCountry
-   http://dbpedia.org/resource/East_African_shilling	http://dbpedia.org/resource/British_Somaliland
-   http://dbpedia.org/resource/Revaluation_of_the_Turkish_Lira	http://dbpedia.org/resource/Northern_Cyprus
-   http://dbpedia.org/resource/Salvadoran_colón	http://dbpedia.org/resource/El_Salvador
-   http://dbpedia.org/resource/Brazilian_real	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Cape_Verdean_escudo	http://dbpedia.org/resource/Cape_Verde
-   http://dbpedia.org/resource/East_African_shilling	http://dbpedia.org/resource/Ethiopian_Empire
-   http://dbpedia.org/resource/Austrian_krone	http://dbpedia.org/resource/Liechtenstein
-   http://dbpedia.org/resource/Sri_Lankan_rupee	http://dbpedia.org/resource/Sri_Lanka
-   http://dbpedia.org/resource/Cuban_convertible_peso	http://dbpedia.org/resource/Cuba
-   http://dbpedia.org/resource/Aruban_florin	http://dbpedia.org/resource/Kingdom_of_the_Netherlands
-   http://dbpedia.org/resource/Omani_rial	http://dbpedia.org/resource/Oman
-   http://dbpedia.org/resource/Jersey_pound	http://dbpedia.org/resource/Pound_sterling
-   http://dbpedia.org/resource/Belgian_franc	http://dbpedia.org/resource/Luxembourg
-   http://dbpedia.org/resource/Uruguayan_peso	http://dbpedia.org/resource/Uruguay_
-   http://dbpedia.org/resource/Argentine_austral	http://dbpedia.org/resource/Argentina
-   http://dbpedia.org/resource/Bolivian_peso	http://dbpedia.org/resource/Bolivia
-   http://dbpedia.org/resource/Chilean_peso	http://dbpedia.org/resource/Chile
-   http://dbpedia.org/resource/Argentine_peso_argentino	http://dbpedia.org/resource/Argentina
-   http://dbpedia.org/resource/Rwandan_franc	http://dbpedia.org/resource/Rwanda
-   http://dbpedia.org/resource/Austro-Hungarian_krone	http://dbpedia.org/resource/Kingdom_of_Montenegro
-http://dbpedia.org/ontology/county
-   http://dbpedia.org/resource/Dryden_High_School	http://dbpedia.org/resource/Tompkins_County,_New_York
-   http://dbpedia.org/resource/Bearwood_College	http://dbpedia.org/resource/Berkshire
-   http://dbpedia.org/resource/Havana_High_School	http://dbpedia.org/resource/Mason_County,_Illinois
-   http://dbpedia.org/resource/European_route_E653	http://dbpedia.org/resource/Hungary
-   http://dbpedia.org/resource/Green_Oaks_Boulevard	http://dbpedia.org/resource/Tarrant_County,_Texas
-   http://dbpedia.org/resource/Jacksboro_High_School	http://dbpedia.org/resource/Jack_County,_Texas
-   http://dbpedia.org/resource/Aghaginduff	http://dbpedia.org/resource/County_Tyrone
-   http://dbpedia.org/resource/European_route_E751	http://dbpedia.org/resource/Croatia
-   http://dbpedia.org/resource/Liberty_Center_High_School	http://dbpedia.org/resource/Henry_County,_Ohio
-   http://dbpedia.org/resource/Kathleen_High_School	http://dbpedia.org/resource/Polk_County,_Florida
-   http://dbpedia.org/resource/Sibford_School	http://dbpedia.org/resource/Oxfordshire
-   http://dbpedia.org/resource/Highlands_School_District_(Pennsylvania)	http://dbpedia.org/resource/Allegheny_County,_Pennsylvania
-   http://dbpedia.org/resource/South_Nottinghamshire_Academy	http://dbpedia.org/resource/Nottinghamshire
-   http://dbpedia.org/resource/St_Giles_School	http://dbpedia.org/resource/Greater_London
-   http://dbpedia.org/resource/South-Western_Career_Academy	http://dbpedia.org/resource/Franklin_County,_Ohio
-   http://dbpedia.org/resource/Maryvale_Preparatory_School	http://dbpedia.org/resource/Baltimore_County,_Maryland
-   http://dbpedia.org/resource/Catasauqua_Area_School_District	http://dbpedia.org/resource/Lehigh_County,_Pennsylvania
-   http://dbpedia.org/resource/Stationers'_Company's_School	http://dbpedia.org/resource/Middlesex
-   http://dbpedia.org/resource/Rowen_House_School	http://dbpedia.org/resource/Derbyshire
-   http://dbpedia.org/resource/European_route_E65	http://dbpedia.org/resource/Poland
-http://dbpedia.org/ontology/restingPlace
-   http://dbpedia.org/resource/John_Coburn_(politician)	http://dbpedia.org/resource/Indianapolis
-   http://dbpedia.org/resource/Joseph_Cahill	http://dbpedia.org/resource/Rookwood_Cemetery
-   http://dbpedia.org/resource/Pat_Nixon	http://dbpedia.org/resource/Richard_Nixon_Presidential_Library_and_Museum
-   http://dbpedia.org/resource/Francis_Dodd_(general)	http://dbpedia.org/resource/Fort_Sam_Houston_National_Cemetery
-   http://dbpedia.org/resource/Doris_Eaton_Travis	http://dbpedia.org/resource/Michigan
-   http://dbpedia.org/resource/Charles_Strathavon_Heathcote-Drummond-Willoughby	http://dbpedia.org/resource/East_Halton
-   http://dbpedia.org/resource/Patrick_Swift	http://dbpedia.org/resource/Igreja_Matriz_(Porches)
-   http://dbpedia.org/resource/Benjamin_F._Cheatham	http://dbpedia.org/resource/Tennessee
-   http://dbpedia.org/resource/Henry_Larcom_Abbot	http://dbpedia.org/resource/Mount_Auburn_Cemetery
-   http://dbpedia.org/resource/Adna_Chaffee	http://dbpedia.org/resource/Arlington_National_Cemetery
-   http://dbpedia.org/resource/Albert_H._Blanding	http://dbpedia.org/resource/Gainesville,_Florida
-   http://dbpedia.org/resource/Mary_of_York	http://dbpedia.org/resource/St_George's_Chapel_at_Windsor_Castle
-   http://dbpedia.org/resource/Bảo_Đại	http://dbpedia.org/resource/Passy_Cemetery
-   http://dbpedia.org/resource/Richard_M._Kleberg	http://dbpedia.org/resource/Kingsville,_Texas
-   http://dbpedia.org/resource/Peter_Aaron_Van_Dorn	http://dbpedia.org/resource/Wintergreen_Cemetery
-   http://dbpedia.org/resource/Billy_Sands	http://dbpedia.org/resource/Hillside_Memorial_Park_Cemetery
-   http://dbpedia.org/resource/Fuad_I_of_Egypt	http://dbpedia.org/resource/Egypt
-   http://dbpedia.org/resource/Helvis_of_Brunswick-Grubenhagen	http://dbpedia.org/resource/Nicosia
-   http://dbpedia.org/resource/Henry_Nash	http://dbpedia.org/resource/Globe,_Arizona
-   http://dbpedia.org/resource/Paul_Picerni	http://dbpedia.org/resource/Los_Angeles,_California
-http://dbpedia.org/ontology/hometown
-   http://dbpedia.org/resource/Harel_Moyal	http://dbpedia.org/resource/Israel
-   http://dbpedia.org/resource/Tony_Platt	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Mattos_Nascimento	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Dominus_(band)	http://dbpedia.org/resource/Ringsted
-   http://dbpedia.org/resource/Vildsvin	http://dbpedia.org/resource/Varberg
-   http://dbpedia.org/resource/The_Phantom_Family_Halo	http://dbpedia.org/resource/Kentucky
-   http://dbpedia.org/resource/E*vax	http://dbpedia.org/resource/Ohio
-   http://dbpedia.org/resource/Adalene	http://dbpedia.org/resource/Nashville,_TN
-   http://dbpedia.org/resource/Put3ska	http://dbpedia.org/resource/Manila
-   http://dbpedia.org/resource/Belphegor_(band)	http://dbpedia.org/resource/Austria
-   http://dbpedia.org/resource/Crash_Worship	http://dbpedia.org/resource/California
-   http://dbpedia.org/resource/Naked_Prey	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Charlie_Sexton	http://dbpedia.org/resource/San_Antonio,_Texas
-   http://dbpedia.org/resource/Jesu	http://dbpedia.org/resource/Wales
-   http://dbpedia.org/resource/Jeff_Cohen_(songwriter)	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Brooke_White	http://dbpedia.org/resource/Mesa,_Arizona
-   http://dbpedia.org/resource/Black_Pearl_(band)	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Cristie	http://dbpedia.org/resource/Andalucia
-   http://dbpedia.org/resource/Joshua_Fiedler	http://dbpedia.org/resource/Greensburg,_Pennsylvania
-   http://dbpedia.org/resource/Steve_Arrington	http://dbpedia.org/resource/United_States
-http://dbpedia.org/ontology/spokenIn
-   http://dbpedia.org/resource/Romanian_language	http://dbpedia.org/resource/Demographics_of_Germany
-   http://dbpedia.org/resource/Tera_language	http://dbpedia.org/resource/Nigeria
-   http://dbpedia.org/resource/West_Makian_language	http://dbpedia.org/resource/Ternate
-   http://dbpedia.org/resource/Choctaw_language	http://dbpedia.org/resource/Tennessee
-   http://dbpedia.org/resource/Sepa_language_(Papua_New_Guinea)	http://dbpedia.org/resource/Manam_Island
-   http://dbpedia.org/resource/Nadroga_dialect	http://dbpedia.org/resource/Viti_Levu
-   http://dbpedia.org/resource/Pintupi_dialect	http://dbpedia.org/resource/Kintore,_Northern_Territory
-   http://dbpedia.org/resource/Jinxiang_dialect	http://dbpedia.org/resource/Cangnan
-   http://dbpedia.org/resource/Basaa_language	http://dbpedia.org/resource/Littoral_Province,_Cameroon
-   http://dbpedia.org/resource/Tosk_Albanian	http://dbpedia.org/resource/Prespa
-   http://dbpedia.org/resource/Chamling_language	http://dbpedia.org/resource/Bhutan
-   http://dbpedia.org/resource/Bukitan_language	http://dbpedia.org/resource/West_Kalimantan
-   http://dbpedia.org/resource/Rangri_dialect	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Andegerebinha_dialect	http://dbpedia.org/resource/Northern_Territory
-   http://dbpedia.org/resource/Upper_Chinook_language	http://dbpedia.org/resource/Columbia_River
-   http://dbpedia.org/resource/Cromarty_dialect	http://dbpedia.org/resource/Cromarty
-   http://dbpedia.org/resource/Koti_language	http://dbpedia.org/resource/Mozambique
-   http://dbpedia.org/resource/Anfillo_language	http://dbpedia.org/resource/Ethiopia
-   http://dbpedia.org/resource/Katla_language	http://dbpedia.org/resource/Nuba_Hills
-   http://dbpedia.org/resource/Gayle_language	http://dbpedia.org/resource/Johannesburg
-http://dbpedia.org/ontology/headquarter
-   http://dbpedia.org/resource/Frostating_Court_of_Appeal	http://dbpedia.org/resource/Trondheim
-   http://dbpedia.org/resource/SciLands	http://slurl.com/secondlife/SciLands/128/128/26/
-   http://dbpedia.org/resource/Robin_Hood_Army	http://dbpedia.org/resource/New_Delhi
-   http://dbpedia.org/resource/Soil_and_Water_Conservation_Bureau	http://dbpedia.org/resource/Nantou_City
-   http://dbpedia.org/resource/The_Washington_Free_Beacon	http://dbpedia.org/resource/Washington,_D.C.
-   http://dbpedia.org/resource/Jetclub	http://dbpedia.org/resource/Mexico_City
-   http://dbpedia.org/resource/The_Courtland_Journal	http://dbpedia.org/resource/Kansas
-   http://dbpedia.org/resource/Spirit_Airlines	http://dbpedia.org/resource/Miramar,_Florida
-   http://dbpedia.org/resource/Parti_Bansa_Dayak_Sarawak	http://dbpedia.org/resource/Sarawak
-   http://dbpedia.org/resource/Coast_Air	http://dbpedia.org/resource/Karmøy
-   http://dbpedia.org/resource/Express_Airways	http://dbpedia.org/resource/Slovenia
-   http://dbpedia.org/resource/North_American_Airlines	http://dbpedia.org/resource/Peachtree_City
-   http://dbpedia.org/resource/Air_Carnival	http://dbpedia.org/resource/Coimbatore
-   http://dbpedia.org/resource/Wadani_(political_party)	http://dbpedia.org/resource/Hargeisa
-   http://dbpedia.org/resource/Manufactured_Housing_Institute	http://dbpedia.org/resource/Arlington_County,_Virginia
-   http://dbpedia.org/resource/MacRobertson_Miller_Airlines	http://dbpedia.org/resource/Perth,_Western_Australia
-   http://dbpedia.org/resource/Honours_Committee	http://dbpedia.org/resource/London
-   http://dbpedia.org/resource/Christian_Democratic_Party_of_Honduras	http://dbpedia.org/resource/Honduras
-   http://dbpedia.org/resource/&_Pictures	http://dbpedia.org/resource/Mumbai
-   http://dbpedia.org/resource/Michigan_Department_of_Civil_Rights	http://dbpedia.org/resource/Lansing,_Michigan
-http://dbpedia.org/ontology/manager
-   http://dbpedia.org/resource/FC_Desna_Chernihiv	http://dbpedia.org/resource/Oleksandr_Ryabokon
-   http://dbpedia.org/resource/Tupuji_Imere_F.C.	http://dbpedia.org/resource/David_Chillia
-   http://dbpedia.org/resource/2015–16_Dynamo_Dresden_season	http://dbpedia.org/resource/Uwe_Neuhaus
-   http://dbpedia.org/resource/2008_Kawasaki_Frontale_season	http://dbpedia.org/resource/Tsutomu_Takahata
-   http://dbpedia.org/resource/PTT_Rayong_F.C.	http://dbpedia.org/resource/Lee_Jun-ki
-   http://dbpedia.org/resource/1901–02_Stoke_F.C._season	http://dbpedia.org/resource/Horace_Austerberry
-   http://dbpedia.org/resource/Al-Saqr_SC	http://dbpedia.org/resource/Tarek_Soliman
-   http://dbpedia.org/resource/Olympique_Lyonnais_Reserves_and_Academy	http://dbpedia.org/resource/Maxence_Flachez
-   http://dbpedia.org/resource/AC_Ajaccio	http://dbpedia.org/resource/Olivier_Pantaloni
-   http://dbpedia.org/resource/Athletic_Bilbao_B	http://dbpedia.org/resource/José_Ángel_Ziganda
-   http://dbpedia.org/resource/2010_Cruzeiro_Esporte_Clube_season	http://dbpedia.org/resource/Cuca_(footballer)
-   http://dbpedia.org/resource/Kasımpaşa_S.K.	http://dbpedia.org/resource/Kemal_Özdeş
-   http://dbpedia.org/resource/2014_FC_Bunyodkor_season	http://dbpedia.org/resource/Mirjalol_Qosimov
-   http://dbpedia.org/resource/2011–12_Swindon_Town_F.C._season	http://dbpedia.org/resource/Paolo_Di_Canio
-   http://dbpedia.org/resource/1976–77_Burnley_F.C._season	http://dbpedia.org/resource/Joe_Brown_(footballer_born_1929)
-   http://dbpedia.org/resource/1993–94_Ipswich_Town_F.C._season	http://dbpedia.org/resource/John_Lyall
-   http://dbpedia.org/resource/2012–13_Calcio_Catania_season	http://dbpedia.org/resource/Rolando_Maran
-   http://dbpedia.org/resource/2015–16_1._FSV_Mainz_05_II_season	http://dbpedia.org/resource/Sandro_Schwarz
-   http://dbpedia.org/resource/2016–17_Udinese_Calcio_season	http://dbpedia.org/resource/Giuseppe_Iachini
-   http://dbpedia.org/resource/Ålgård_FK	http://dbpedia.org/resource/Geir_Midtsian
-http://dbpedia.org/ontology/country
-   http://dbpedia.org/resource/Șoimu_de_Sus_River	http://dbpedia.org/resource/Romania
-   http://dbpedia.org/resource/Philip_Morrell	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Topol_pri_Begunjah	http://dbpedia.org/resource/Slovenia
-   http://dbpedia.org/resource/Nová_Říše	http://dbpedia.org/resource/Czech_Republic
-   http://dbpedia.org/resource/Broad_Green,_London	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Weitenhagen,_Nordvorpommern	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/International_Solidarity_Day_of_Azerbaijanis	http://dbpedia.org/resource/Azerbaijani_people
-   http://dbpedia.org/resource/David_W._Jones	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Falls_Career_High_School	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Darreh_Charm	http://dbpedia.org/resource/Iran
-   http://dbpedia.org/resource/Muleshoe_High_School	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Hasan_Kusej	http://dbpedia.org/resource/Iran
-   http://dbpedia.org/resource/Canada_West_Football_on_Shaw	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/Mainpat	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Villacarralón	http://dbpedia.org/resource/Spain
-   http://dbpedia.org/resource/Jarzębiec	http://dbpedia.org/resource/Poland
-   http://dbpedia.org/resource/Falconer_School	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Saral_Jeevan	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Central_University_of_Kerala	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Ness_Wadia_College_of_Commerce	http://dbpedia.org/resource/India
-http://dbpedia.org/ontology/area
-   http://dbpedia.org/resource/Lent,_Ain	"3.148E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/United_States_Post_Office_(The_Dalles,_Oregon,_1916)	"1335.462619392"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Saint-Georges-Montcocq	"8940000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Birac,_Charente	"1.184E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Juillaguet	"7270000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Refreshment_Pavilion	"3642.17078016"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Jonzac	"1.309E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Cléré-les-Pins	"3.562E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Atlantic_Coast_Line_Railroad_Commercial_and_Industrial_Historic_District	"97124.5541376"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Le_Hohwald	"2.084E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Orange,_New_Hampshire	"1.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/New_Baltimore_Bridge	"404.68564224"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Montérolier	"1.17E7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Mechmont	"6710000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/L'Horme	"4400000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Old_First_National_Bank_of_Prineville	"4046.8564224"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/First_Universalist_Church_(Kingston,_New_Hampshire)	"809.37128448"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/O'Halloran_Hill_Recreation_Park	"2530000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Nédon	"4890000.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Kaufman_Astoria_Studios	"20234.282112"^^<http://www.w3.org/2001/XMLSchema#double>
-http://dbpedia.org/ontology/currency
-   http://dbpedia.org/resource/Honduras	http://dbpedia.org/resource/Honduran_lempira
-   http://dbpedia.org/resource/Kingdom_of_Laos	http://dbpedia.org/resource/Lao_kip
-   http://dbpedia.org/resource/Zimbabwe_Rhodesia	http://dbpedia.org/resource/Rhodesian_dollar
-   http://dbpedia.org/resource/Tanganyika_(territory)	http://dbpedia.org/resource/East_African_shilling
-   http://dbpedia.org/resource/Canada_(New_France)	http://dbpedia.org/resource/New_France_livre
-   http://dbpedia.org/resource/Macedonia_(region)	http://dbpedia.org/resource/Albanian_lek
-   http://dbpedia.org/resource/Territory_of_Papua_and_New_Guinea	http://dbpedia.org/resource/Australian_dollar
-   http://dbpedia.org/resource/East_African_Federation	http://dbpedia.org/resource/East_African_shilling
-   http://dbpedia.org/resource/Korea	http://dbpedia.org/resource/South_Korean_won
-   http://dbpedia.org/resource/Taifa_of_Valencia	http://dbpedia.org/resource/Dirham
-   http://dbpedia.org/resource/Territory_of_Papua_and_New_Guinea	http://dbpedia.org/resource/New_Guinean_pound
-   http://dbpedia.org/resource/Republic_of_Yucatán	http://dbpedia.org/resource/Peso
-   http://dbpedia.org/resource/Croatia_in_the_union_with_Hungary	http://dbpedia.org/resource/Banovac
-   http://dbpedia.org/resource/Empire_of_Japan	http://dbpedia.org/resource/Korean_yen
-   http://dbpedia.org/resource/British_Antarctic_Territory	http://dbpedia.org/resource/Pound_sterling
-   http://dbpedia.org/resource/Bailiwick_of_Guernsey	http://dbpedia.org/resource/Guernsey_pound
-   http://dbpedia.org/resource/Taifa_of_Jerez	http://dbpedia.org/resource/Islamic_gold_dinar
-   http://dbpedia.org/resource/Transcaucasian_Commissariat	http://dbpedia.org/resource/Russian_ruble
-   http://dbpedia.org/resource/British_Guiana	http://dbpedia.org/resource/British_West_Indies_dollar
-   http://dbpedia.org/resource/Republic_of_Venice	http://dbpedia.org/resource/Venetian_lira
-http://dbpedia.org/ontology/chairman
-   http://dbpedia.org/resource/2011_Orlando_City_SC_season	http://dbpedia.org/resource/Phil_Rawlins
-   http://dbpedia.org/resource/2014–15_Leyton_Orient_F.C._season	http://dbpedia.org/resource/Francesco_Becchetti
-   http://dbpedia.org/resource/1993–94_Reading_F.C._season	http://dbpedia.org/resource/John_Madejski
-   http://dbpedia.org/resource/Albuquerque_Lady_Asylum	http://dbpedia.org/resource/Opal_Stalls
-   http://dbpedia.org/resource/1968–69_Aberdeen_F.C._season	http://dbpedia.org/resource/Charles_B._Forbes
-   http://dbpedia.org/resource/Tuzlaspor	http://dbpedia.org/resource/Ahmet_Çabuk
-   http://dbpedia.org/resource/Deportivo_Petare	http://dbpedia.org/resource/Luis_Eduardo_Fernandez
-   http://dbpedia.org/resource/JS_Djijel	http://dbpedia.org/resource/Lyès_Aïssani
-   http://dbpedia.org/resource/Sport_Club_Corinthians_Paulista_Junior_Team	http://dbpedia.org/resource/Andrés_Sanchez
-   http://dbpedia.org/resource/2002–03_Southampton_F.C._season	http://dbpedia.org/resource/Rupert_Lowe
-   http://dbpedia.org/resource/2010–11_Real_Sociedad_season	http://dbpedia.org/resource/Jokin_Aperribay
-   http://dbpedia.org/resource/1987–88_A.C._Fiorentina_season	http://dbpedia.org/resource/Lorenzo_Righetti
-   http://dbpedia.org/resource/MO_Constantine	http://dbpedia.org/resource/Demigha_Abdelhak
-   http://dbpedia.org/resource/1969–70_FC_Bayern_Munich_season	http://dbpedia.org/resource/Wilhelm_Neudecker
-   http://dbpedia.org/resource/2012_Kawasaki_Frontale_season	http://dbpedia.org/resource/Shimpei_Takeda
-   http://dbpedia.org/resource/1997–98_RC_Lens_season	http://dbpedia.org/resource/Gervais_Martel
-   http://dbpedia.org/resource/2013_Pittsburgh_Riverhounds_season	http://dbpedia.org/resource/Jason_Kutney
-   http://dbpedia.org/resource/2002–03_Aston_Villa_F.C._season	http://dbpedia.org/resource/Doug_Ellis
-   http://dbpedia.org/resource/Guyana_Defence_Force_FC	http://dbpedia.org/resource/Donald_Ramotar
-   http://dbpedia.org/resource/2016_Arizona_United_SC_season	http://dbpedia.org/resource/Brandon_McCarthy
-http://dbpedia.org/ontology/locatedInArea
-   http://dbpedia.org/resource/Harbor_Drive_Pedestrian_Bridge	http://dbpedia.org/resource/California
-   http://dbpedia.org/resource/Asiru_Phat'jata	http://dbpedia.org/resource/Peru
-   http://dbpedia.org/resource/Mansusan	http://dbpedia.org/resource/South_Korea
-   http://dbpedia.org/resource/Upuigma-tepui	http://dbpedia.org/resource/Venezuela
-   http://dbpedia.org/resource/Grizzly_Peak_(Colorado)	http://dbpedia.org/resource/Pitkin_County,_Colorado
-   http://dbpedia.org/resource/Cùl_Mòr	http://dbpedia.org/resource/Inverpolly
-   http://dbpedia.org/resource/Titiri	http://dbpedia.org/resource/Tacna_Region
-   http://dbpedia.org/resource/Monte_Lozzo	http://dbpedia.org/resource/Veneto
-   http://dbpedia.org/resource/Mount_Morappu	http://dbpedia.org/resource/Japan
-   http://dbpedia.org/resource/Puig_Cornador_(Les_Llosses)	http://dbpedia.org/resource/Catalonia
-   http://dbpedia.org/resource/Black_Mountain_(Moffat_County,_Colorado)	http://dbpedia.org/resource/Colorado
-   http://dbpedia.org/resource/Teysachaux	http://dbpedia.org/resource/Switzerland
-   http://dbpedia.org/resource/Bruach_na_Frìthe	http://dbpedia.org/resource/Isle_of_Skye
-   http://dbpedia.org/resource/Mount_Gambier_(volcano)	http://dbpedia.org/resource/Australia
-   http://dbpedia.org/resource/Hamm_Railway_Bridge	http://dbpedia.org/resource/North_Rhine-Westphalia
-   http://dbpedia.org/resource/Wisk'achani_(Loayza)	http://dbpedia.org/resource/La_Paz_Department_(Bolivia)
-   http://dbpedia.org/resource/Wanq'uni_(Cochabamba)	http://dbpedia.org/resource/Bolivia
-   http://dbpedia.org/resource/Randles_Hill	http://dbpedia.org/resource/Kandy
-   http://dbpedia.org/resource/Faliesi	http://dbpedia.org/resource/Province_of_Avellino
-   http://dbpedia.org/resource/Ukpik_Peak	http://dbpedia.org/resource/Canada
-http://dbpedia.org/ontology/place
-   http://dbpedia.org/resource/Battle_of_Posolskeya	http://dbpedia.org/resource/Siberia
-   http://dbpedia.org/resource/Battle_of_Zanzibar	http://dbpedia.org/resource/Indian_Ocean
-   http://dbpedia.org/resource/Operation_Unified_Protector	http://dbpedia.org/resource/Libya
-   http://dbpedia.org/resource/Invasion_of_Île_Bonaparte	http://dbpedia.org/resource/Saint-Denis,_Réunion
-   http://dbpedia.org/resource/General_Sherman_incident	http://dbpedia.org/resource/Joseon
-   http://dbpedia.org/resource/Battle_of_Bayou_Fourche	http://dbpedia.org/resource/Pulaski_County,_Arkansas
-   http://dbpedia.org/resource/Siege_of_Jerusalem_(597_BC)	http://dbpedia.org/resource/Jerusalem
-   http://dbpedia.org/resource/Battle_of_Badli-ki-Serai	http://dbpedia.org/resource/Delhi
-   http://dbpedia.org/resource/Siege_of_Kehl_(1733)	http://dbpedia.org/resource/Margraviate_of_Baden
-   http://dbpedia.org/resource/Battle_of_Dartsedo	http://dbpedia.org/resource/Kangding
-   http://dbpedia.org/resource/Battle_of_Clyst_Heath_(1455)	http://dbpedia.org/resource/Exeter
-   http://dbpedia.org/resource/Siege_of_Negroponte_(1688)	http://dbpedia.org/resource/Chalkis
-   http://dbpedia.org/resource/Timeline_of_the_Spanish–American_War	http://dbpedia.org/resource/Cuba
-   http://dbpedia.org/resource/Battle_of_Fada	http://dbpedia.org/resource/Fada,_Chad
-   http://dbpedia.org/resource/Battle_of_Kissoué	http://dbpedia.org/resource/Kissoué
-   http://dbpedia.org/resource/Air_battle_over_Merklín	http://dbpedia.org/resource/Bohemian_Forest
-   http://dbpedia.org/resource/Battle_of_Eltham's_Landing	http://dbpedia.org/resource/New_Kent_County,_Virginia
-   http://dbpedia.org/resource/Bắc_Lệ_ambush	http://dbpedia.org/resource/Vietnam
-   http://dbpedia.org/resource/Battle_of_Mud_Lake	http://dbpedia.org/resource/Nevada
-   http://dbpedia.org/resource/Israeli–Palestinian_conflict_(2015–present)	http://dbpedia.org/resource/Israel
-http://dbpedia.org/ontology/type
-   http://dbpedia.org/resource/Logic_Will_Break_Your_Heart	http://dbpedia.org/resource/Album
-   http://dbpedia.org/resource/Qilin_District	http://dbpedia.org/resource/District_(PRC)
-   http://dbpedia.org/resource/Attiguppe_metro_station	http://dbpedia.org/resource/Namma_Metro
-   http://dbpedia.org/resource/Bevil_Oaks,_Texas	http://dbpedia.org/resource/City
-   http://dbpedia.org/resource/Radio_Disney_Group	http://dbpedia.org/resource/Limited_liability_company
-   http://dbpedia.org/resource/Metro_Potrero	http://dbpedia.org/resource/Mexico_City_Metro
-   http://dbpedia.org/resource/India-class_submarine	http://dbpedia.org/resource/Submarine
-   http://dbpedia.org/resource/Monasterzysko_Nowe	http://dbpedia.org/resource/Village
-   http://dbpedia.org/resource/Morris,_Wisconsin	http://dbpedia.org/resource/Town
-   http://dbpedia.org/resource/Lake_Tikub	http://dbpedia.org/resource/Maar
-   http://dbpedia.org/resource/Szczodruchy,_Suwałki_County	http://dbpedia.org/resource/Village
-   http://dbpedia.org/resource/Indian_Valley,_Idaho	http://dbpedia.org/resource/Unincorporated_area
-   http://dbpedia.org/resource/Nowy_Dwór_Prudnicki	http://dbpedia.org/resource/Village
-   http://dbpedia.org/resource/Basingstoke_College_of_Technology	http://dbpedia.org/resource/Further_education_college
-   http://dbpedia.org/resource/Nixon,_Nevada	http://dbpedia.org/resource/Census-designated_place
-   http://dbpedia.org/resource/Kosobudki,_Lubusz_Voivodeship	http://dbpedia.org/resource/Village
-   http://dbpedia.org/resource/Hripavci	http://dbpedia.org/resource/Village
-   http://dbpedia.org/resource/Leetown,_West_Virginia	http://dbpedia.org/resource/Unincorporated_area
-   http://dbpedia.org/resource/Borosenii_Noi	http://dbpedia.org/resource/Communes_of_Moldova
-   http://dbpedia.org/resource/Wichelsee	http://dbpedia.org/resource/Reservoir
-http://dbpedia.org/ontology/populationDensity
-   http://dbpedia.org/resource/Wamic,_Oregon	"11.5"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Elbert,_Texas	"1.8"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Sandstone_Township,_Pine_County,_Minnesota	"10.3"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Colfax_Township,_Mecosta_County,_Michigan	"21.7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Oak_Ridge,_Tennessee	"132.8"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Vsetín_District	"127.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Dallas,_Georgia	"433.8243853382922"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Thomastown_Township,_Wadena_County,_Minnesota	"6.718177558638558"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/New_Hope,_Alabama	"125.4"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Matador,_Texas	"219.9"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Magnolia,_Illinois	"359.1"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Amsterdam_(city),_New_York	"1226.376286178371"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Näsviken,_Strömsund_Municipality	"313.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Wolverton_Township,_Wilkin_County,_Minnesota	"1.7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Shizuoka_Prefecture	"485.17"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Clinton_County,_Ohio	"39.76852232987193"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Minamitane,_Kagoshima	"53.7"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Ilidža	"501.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Fence_Lake,_New_Mexico	"1.0"^^<http://www.w3.org/2001/XMLSchema#double>
-   http://dbpedia.org/resource/Shoreham-by-Sea	"1948.271492005182"^^<http://www.w3.org/2001/XMLSchema#double>
-http://dbpedia.org/ontology/jurisdiction
-   http://dbpedia.org/resource/Ministry_of_Home_Affairs_(West_Bengal)	http://dbpedia.org/resource/Government_of_West_Bengal
-   http://dbpedia.org/resource/Federal_Financial_Markets_Service	http://dbpedia.org/resource/Russian_Federation
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Jhansi	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Guide	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Norwegian_Labour_Inspection_Authority	http://dbpedia.org/resource/Government_of_Norway
-   http://dbpedia.org/resource/General_Inspection_of_Security_Forces	http://dbpedia.org/resource/Czech_Republic
-   http://dbpedia.org/resource/Ministry_of_Justice	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Anglican_Diocese_of_Ottawa	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Cuncacestre	http://dbpedia.org/resource/Titular_see
-   http://dbpedia.org/resource/Office_of_the_Commissioner_of_Railroads	http://dbpedia.org/resource/Wisconsin
-   http://dbpedia.org/resource/Financial_Services_Commission_(South_Korea)	http://dbpedia.org/resource/South_Korean_government
-   http://dbpedia.org/resource/Department_of_Climate_Change_and_Energy_Efficiency	http://dbpedia.org/resource/Commonwealth_of_Australia
-   http://dbpedia.org/resource/Dolia_(titular_see)	http://dbpedia.org/resource/Titular_see
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Mayagüez	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Securities_and_Exchange_Commission_(Philippines)	http://dbpedia.org/resource/Philippines
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Montelíbano	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Nashville_Board_of_Parks_and_Recreation	http://dbpedia.org/resource/Nashville,_Tennessee
-   http://dbpedia.org/resource/Diocese_of_Carlisle	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Galway,_Kilmacduagh_and_Kilfenora	http://dbpedia.org/resource/Diocese
-   http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Nakuru	http://dbpedia.org/resource/Diocese
-http://dbpedia.org/ontology/award
-   http://dbpedia.org/resource/Hans_Diergarten	http://dbpedia.org/resource/Knight's_Cross_of_the_Iron_Cross
-   http://dbpedia.org/resource/Andreas_Peter_Hovgaard	http://dbpedia.org/resource/Dannebrogordenens_Hæderstegn
-   http://dbpedia.org/resource/H._T._Kung	http://dbpedia.org/resource/Academician
-   http://dbpedia.org/resource/William_Luard	http://dbpedia.org/resource/Knight_Commander_of_the_Order_of_the_Bath
-   http://dbpedia.org/resource/Henry_Tombs	http://dbpedia.org/resource/Indian_Mutiny_Medal
-   http://dbpedia.org/resource/Freeman_V._Horner	http://dbpedia.org/resource/Medal_of_Honor
-   http://dbpedia.org/resource/John_Polanyi	http://dbpedia.org/resource/Fellow_of_the_Royal_Society
-   http://dbpedia.org/resource/Gary_Simmons_(artist)	http://dbpedia.org/resource/United_States_Artists
-   http://dbpedia.org/resource/Salim_Mehmud	http://dbpedia.org/resource/Sitara-e-Imtiaz
-   http://dbpedia.org/resource/Ram_Kumar_(basketball)	http://dbpedia.org/resource/Dhyan_Chand_Award
-   http://dbpedia.org/resource/Senora_Lynch	http://dbpedia.org/resource/North_Carolina_Heritage_Award
-   http://dbpedia.org/resource/James_B._Busey_IV	http://dbpedia.org/resource/Navy_Cross_(United_States)
-   http://dbpedia.org/resource/Edwin_P._Smith	http://dbpedia.org/resource/Defense_Superior_Service_Medal
-   http://dbpedia.org/resource/Yusif_Mammadaliyev	http://dbpedia.org/resource/Order_of_the_Red_Banner_of_Labour
-   http://dbpedia.org/resource/Richard_Wadeson	http://dbpedia.org/resource/Victoria_Cross
-   http://dbpedia.org/resource/Ravi_Singh	http://dbpedia.org/resource/Campaigns_and_Elections
-   http://dbpedia.org/resource/Maurice_Goldhaber	http://dbpedia.org/resource/J._Robert_Oppenheimer_Memorial_Prize
-   http://dbpedia.org/resource/Prince_Heinrich_XV_of_Reuss-Plauen	http://dbpedia.org/resource/Military_Order_of_Max_Joseph
-   http://dbpedia.org/resource/John_Miller_Adye	http://dbpedia.org/resource/Knight_Grand_Cross_of_the_Order_of_the_Bath
-   http://dbpedia.org/resource/Chie_Nakane	http://dbpedia.org/resource/Order_of_Culture
-http://dbpedia.org/ontology/stateOfOrigin
-   http://dbpedia.org/resource/Fatimat_Olufunke_Raji-Rasaki	http://dbpedia.org/resource/Nigeria
-   http://dbpedia.org/resource/Irfan_Kolothum_Thodi	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Delfina_Herbosa_de_Natividad	http://dbpedia.org/resource/Filipino_people
-   http://dbpedia.org/resource/Pavel_Soukup	http://dbpedia.org/resource/Czech_Republic
-   http://dbpedia.org/resource/Angelos_Kitsos	http://dbpedia.org/resource/Greeks
-   http://dbpedia.org/resource/Ivan_Zassoursky	http://dbpedia.org/resource/Russian_language
-   http://dbpedia.org/resource/Salvador_García_(athlete)	http://dbpedia.org/resource/Mexico
-   http://dbpedia.org/resource/Edmund_C._Moy	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Gábor_Csupó	http://dbpedia.org/resource/Hungarian_people
-   http://dbpedia.org/resource/Bent_Mejding	http://dbpedia.org/resource/Denmark
-   http://dbpedia.org/resource/John_Rock_(abolitionist)	http://dbpedia.org/resource/Americans
-   http://dbpedia.org/resource/Xu_Shaohua_(actor)	http://dbpedia.org/resource/Chinese_people
-   http://dbpedia.org/resource/Fabienne_Diato-Pasetti	http://dbpedia.org/resource/Monaco
-   http://dbpedia.org/resource/Charles_Arthur_Tristan_Languedoc_de_Noailles	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Farzaneh_Taidi	http://dbpedia.org/resource/Iranian_people
-   http://dbpedia.org/resource/Pete_Snodden	http://dbpedia.org/resource/Northern_Ireland
-   http://dbpedia.org/resource/Lisa_Stanley	http://dbpedia.org/resource/Irish_people
-   http://dbpedia.org/resource/Julia_Bonk	http://dbpedia.org/resource/German_people
-   http://dbpedia.org/resource/Katja_Wächter	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/Zelia_Nuttall	http://dbpedia.org/resource/United_States
-http://dbpedia.org/ontology/residence
-   http://dbpedia.org/resource/Mohammad_Majid_Hussain	http://dbpedia.org/resource/Telangana
-   http://dbpedia.org/resource/John_Solomon_(Canadian_politician)	http://dbpedia.org/resource/Regina,_Saskatchewan
-   http://dbpedia.org/resource/Kenneth_R._Mladenka	http://dbpedia.org/resource/Williamson_County,_Texas
-   http://dbpedia.org/resource/Gerardo_Sandoval	http://dbpedia.org/resource/California
-   http://dbpedia.org/resource/Johnny_Depp	http://dbpedia.org/resource/Los_Angeles
-   http://dbpedia.org/resource/Tano_Tijerina	http://dbpedia.org/resource/Laredo,_Texas
-   http://dbpedia.org/resource/Roxanne_Modafferi	http://dbpedia.org/resource/Nevada
-   http://dbpedia.org/resource/Kshitij_Thakur	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Nara_Rohit	http://dbpedia.org/resource/Telangana
-   http://dbpedia.org/resource/Romain_Haguenauer	http://dbpedia.org/resource/Quebec
-   http://dbpedia.org/resource/Suzy_Welch	http://dbpedia.org/resource/Nantucket
-   http://dbpedia.org/resource/Mansukhbhai_Vasava	http://dbpedia.org/resource/Narmada_district
-   http://dbpedia.org/resource/Chhavi_Rajawat	http://dbpedia.org/resource/Rajasthan
-   http://dbpedia.org/resource/Annette_Quijano	http://dbpedia.org/resource/New_Jersey
-   http://dbpedia.org/resource/Beau_Rials	http://dbpedia.org/resource/Florida
-   http://dbpedia.org/resource/Carlos_Condit	http://dbpedia.org/resource/Albuquerque
-   http://dbpedia.org/resource/Shannon_Peters	http://dbpedia.org/resource/Sydney
-   http://dbpedia.org/resource/Gogi_Alauddin	http://dbpedia.org/resource/Pakistan
-   http://dbpedia.org/resource/Aleksandr_Nekrasov	http://dbpedia.org/resource/Moscow
-   http://dbpedia.org/resource/A._K._Lohithadas	http://dbpedia.org/resource/Ottapalam
-http://dbpedia.org/ontology/routeJunction
-   http://dbpedia.org/resource/U.S._Route_218	http://dbpedia.org/resource/Coralville,_IA
-   http://dbpedia.org/resource/Ontario_Highway_101	http://dbpedia.org/resource/Timmins
-   http://dbpedia.org/resource/California_State_Route_89	http://dbpedia.org/resource/Topaz_Lake
-   http://dbpedia.org/resource/Interstate_90	http://dbpedia.org/resource/Interstate_90_in_Washington
-   http://dbpedia.org/resource/Malaysia_Federal_Route_18	http://dbpedia.org/resource/Malaysia_Federal_Route_5
-   http://dbpedia.org/resource/U.S._Route_75_in_Iowa	http://dbpedia.org/resource/Le_Mars,_Iowa
-   http://dbpedia.org/resource/N17_road_(South_Africa)	http://dbpedia.org/resource/Soweto
-   http://dbpedia.org/resource/M-52_(Michigan_highway)	http://dbpedia.org/resource/Chelsea,_Michigan
-   http://dbpedia.org/resource/U.S._Route_81	http://dbpedia.org/resource/Wichita,_Kansas
-   http://dbpedia.org/resource/Jalan_Pedas-Linggi	http://dbpedia.org/resource/Malaysia_Federal_Route_5
-   http://dbpedia.org/resource/Pennsylvania_Route_844	http://dbpedia.org/resource/Canton_Township,_Washington_County,_Pennsylvania
-   http://dbpedia.org/resource/G91_Liaozhong_Ring_Expressway	http://dbpedia.org/resource/Liaoyang
-   http://dbpedia.org/resource/Quebec_Route_158	http://dbpedia.org/resource/Mirabel,_Quebec
-   http://dbpedia.org/resource/Cobb_Highway	http://dbpedia.org/resource/Riverina_Highway
-   http://dbpedia.org/resource/Northwest_Expressway_(Massachusetts)	http://dbpedia.org/resource/Chelmsford,_Massachusetts
-   http://dbpedia.org/resource/U.S._Route_206	http://dbpedia.org/resource/Somerville,_New_Jersey
-   http://dbpedia.org/resource/Malaysia_Federal_Route_6	http://dbpedia.org/resource/Penang_Bridge
-   http://dbpedia.org/resource/127_Street,_Edmonton	http://dbpedia.org/resource/107_Avenue,_Edmonton
-   http://dbpedia.org/resource/N-5_National_Highway	http://dbpedia.org/resource/Lahore_Bypass
-   http://dbpedia.org/resource/Wayne_Gretzky_Drive	http://dbpedia.org/resource/112_Avenue,_Edmonton
-http://dbpedia.org/ontology/sportCountry
-   http://dbpedia.org/resource/Walter_Lindrum	http://dbpedia.org/resource/Australia
-   http://dbpedia.org/resource/Li_Yan_(snooker_player)	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Kacper_Filipiak	http://dbpedia.org/resource/Poland
-   http://dbpedia.org/resource/Igor_Figueiredo	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Zhiting_Wu	http://dbpedia.org/resource/Taiwan
-   http://dbpedia.org/resource/Snooker_world_rankings_1984/1985	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/Lu_Ning	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Hamza_Akbar	http://dbpedia.org/resource/Pakistan
-   http://dbpedia.org/resource/Zhao_Xintong	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Zhang_Yong_(snooker_player)	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Stefan_Mazrocis	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Alex_Borg	http://dbpedia.org/resource/Malta
-   http://dbpedia.org/resource/Dick_Jaspers	http://dbpedia.org/resource/Netherlands
-   http://dbpedia.org/resource/Tai_Pichit	http://dbpedia.org/resource/Thailand
-   http://dbpedia.org/resource/David_McDonnell	http://dbpedia.org/resource/Ireland
-   http://dbpedia.org/resource/Kim_Ga-young	http://dbpedia.org/resource/South_Korea
-   http://dbpedia.org/resource/Rafał_Jewtuch	http://dbpedia.org/resource/Poland
-   http://dbpedia.org/resource/Silvino_Francisco	http://dbpedia.org/resource/South_Africa
-   http://dbpedia.org/resource/Noppadol_Sangnil	http://dbpedia.org/resource/Thailand
-   http://dbpedia.org/resource/Glen_Wilkinson	http://dbpedia.org/resource/Australia
-http://dbpedia.org/ontology/broadcastArea
-   http://dbpedia.org/resource/WRTC-FM	http://dbpedia.org/resource/Hartford,_Connecticut
-   http://dbpedia.org/resource/WSQX-FM	http://dbpedia.org/resource/Southern_Tier
-   http://dbpedia.org/resource/WBNH-LP	http://dbpedia.org/resource/Bedford,_New_Hampshire
-   http://dbpedia.org/resource/KWMX	http://dbpedia.org/resource/Flagstaff,_Arizona
-   http://dbpedia.org/resource/Zee_Bangla	http://dbpedia.org/resource/Bangladesh
-   http://dbpedia.org/resource/WFOM	http://dbpedia.org/resource/Atlanta_metropolitan_area
-   http://dbpedia.org/resource/Vendhar_TV	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/XHQQQ-FM	http://dbpedia.org/resource/Villahermosa,_Tabasco
-   http://dbpedia.org/resource/WVIB	http://dbpedia.org/resource/Muskegon,_Michigan
-   http://dbpedia.org/resource/Urban96_Radio_Network	http://dbpedia.org/resource/Abuja
-   http://dbpedia.org/resource/WXLZ-FM	http://dbpedia.org/resource/Castlewood,_Virginia
-   http://dbpedia.org/resource/CBT_(AM)	http://dbpedia.org/resource/Newfoundland_and_Labrador
-   http://dbpedia.org/resource/KKTX_(AM)	http://dbpedia.org/resource/Corpus_Christi_metropolitan_area
-   http://dbpedia.org/resource/ProSieben	http://dbpedia.org/resource/Turkey
-   http://dbpedia.org/resource/KRUP	http://dbpedia.org/resource/Alaska_Bush
-   http://dbpedia.org/resource/KQIE	http://dbpedia.org/resource/Riverside,_California
-   http://dbpedia.org/resource/XS_Manchester	http://dbpedia.org/resource/North_West_England
-   http://dbpedia.org/resource/Bloomberg_TV_Indonesia	http://dbpedia.org/resource/Indonesia
-   http://dbpedia.org/resource/ORF_(broadcaster)	http://dbpedia.org/resource/Austria
-   http://dbpedia.org/resource/CKKI-FM	http://dbpedia.org/resource/Quebec
-http://dbpedia.org/ontology/presenter
-   http://dbpedia.org/resource/Questions_for_the_Future	http://dbpedia.org/resource/Geoff_Cutmore
-   http://dbpedia.org/resource/Secrets_(TV_series)	http://dbpedia.org/resource/Gerry_Ryan
-   http://dbpedia.org/resource/Actors_Studio_(TV_series)	http://dbpedia.org/resource/Marc_Connelly
-   http://dbpedia.org/resource/The_Great_British_Bake_Off	http://dbpedia.org/resource/Omid_Djalili
-   http://dbpedia.org/resource/Hum_Award_for_Best_Television_Sensation_Female	http://dbpedia.org/resource/Hum_Television_Network_and_Entertainment_Channel
-   http://dbpedia.org/resource/SMTV_Live	http://dbpedia.org/resource/James_Redmond_(actor)
-   http://dbpedia.org/resource/Minute_To_Win_It:_Singapore	http://dbpedia.org/resource/Bryan_Wong
-   http://dbpedia.org/resource/Sale_of_the_Century_(U.S._game_show)	http://dbpedia.org/resource/Summer_Bartholomew
-   http://dbpedia.org/resource/The_First_Five_Years	http://dbpedia.org/resource/Lloyd_Robertson
-   http://dbpedia.org/resource/Manning_Award	http://dbpedia.org/resource/Sugar_Bowl
-   http://dbpedia.org/resource/Take_30	http://dbpedia.org/resource/Mary_Lou_Finlay
-   http://dbpedia.org/resource/Ultimate_Cake_Off	http://dbpedia.org/resource/George_Duran
-   http://dbpedia.org/resource/Holidays_for_Sale	http://dbpedia.org/resource/Rob_Mills
-   http://dbpedia.org/resource/Crash_Course_(YouTube)	http://dbpedia.org/resource/Emily_Graslie
-   http://dbpedia.org/resource/Michael_Palin's_New_Europe	http://dbpedia.org/resource/Michael_Palin
-   http://dbpedia.org/resource/The_Call_(CNBC)	http://dbpedia.org/resource/Dylan_Ratigan
-   http://dbpedia.org/resource/Superhit_Muqabla	http://dbpedia.org/resource/Baba_Sehgal
-   http://dbpedia.org/resource/Tikkabilla	http://dbpedia.org/resource/Simon_Davies_(Welsh_TV_presenter)
-   http://dbpedia.org/resource/National_Business_Book_Award	http://dbpedia.org/resource/Bank_of_Montreal
-   http://dbpedia.org/resource/Blue's_Clues	http://dbpedia.org/resource/Kevin_Duala
-http://dbpedia.org/ontology/previousWork
-   http://dbpedia.org/resource/Constrictor_(album)	http://dbpedia.org/resource/DaDa
-   http://dbpedia.org/resource/Sunshine_(Gareth_Gates_song)	http://dbpedia.org/resource/Spirit_in_the_Sky
-   http://dbpedia.org/resource/Stand_Up_(Mel_McDaniel_song)	http://dbpedia.org/resource/Let_It_Roll_(Let_It_Rock)
-   http://dbpedia.org/resource/Blue_Kentucky_Girl_(song)	http://dbpedia.org/resource/Happy_Birthday_(Merry_Christmas_and_Happy_New_Year)
-   http://dbpedia.org/resource/Los_Gabriel:_Cantan_a_México	http://dbpedia.org/resource/Los_Gabriel…_Simplemente_Amigos
-   http://dbpedia.org/resource/Basic_Basie	http://dbpedia.org/resource/Standing_Ovation_(Count_Basie_album)
-   http://dbpedia.org/resource/Razor's_Edge_(song)	http://dbpedia.org/resource/If_You_Really_Want_To
-   http://dbpedia.org/resource/Better_Angels_(Supergirl)	http://dbpedia.org/resource/Myriad_(Supergirl)
-   http://dbpedia.org/resource/Designated_Targets	http://dbpedia.org/resource/Weapons_of_Choice_(novel)
-   http://dbpedia.org/resource/Gold_Rush_(album)	http://dbpedia.org/resource/Happy_Christmas_(I_can_make_a_mess_album)
-   http://dbpedia.org/resource/Adımı_Kalbine_Yaz	http://dbpedia.org/resource/Metamorfoz
-   http://dbpedia.org/resource/Raylan	http://dbpedia.org/resource/Riding_the_Rap
-   http://dbpedia.org/resource/The_Mote_in_God's_Eye	http://dbpedia.org/resource/King_David's_Spaceship
-   http://dbpedia.org/resource/De_Profundis_(After_Crying_album)	http://dbpedia.org/resource/Föld_és_ég
-   http://dbpedia.org/resource/Birds_of_My_Neighborhood	http://dbpedia.org/resource/Glow_(The_Innocence_Mission_album)
-   http://dbpedia.org/resource/Fun,_Fun,_Fun	http://dbpedia.org/resource/Little_Saint_Nick
-   http://dbpedia.org/resource/Rootie_Tootie	http://dbpedia.org/resource/On_the_Banks_of_the_Old_Ponchartrain
-   http://dbpedia.org/resource/Should've_Gone_Home	http://dbpedia.org/resource/Heroes_(Måns_Zelmerlöw_song)
-   http://dbpedia.org/resource/The_Callback	http://dbpedia.org/resource/Pilot_(Smash)
-   http://dbpedia.org/resource/Doin'_Something	http://dbpedia.org/resource/Turn_It_Out
-http://dbpedia.org/ontology/ethnicGroup
-   http://dbpedia.org/resource/Farquhar_Atoll	http://dbpedia.org/resource/Indo-Seychellois
-   http://dbpedia.org/resource/Ayu_Islands	http://dbpedia.org/resource/Melanesians
-   http://dbpedia.org/resource/Paget_Island_(Andaman_and_Nicobar_Islands)	http://dbpedia.org/resource/Hindu
-   http://dbpedia.org/resource/Ireland	http://dbpedia.org/resource/Asian_people
-   http://dbpedia.org/resource/Pulau_Ujong	http://dbpedia.org/resource/Malay_Singaporean
-   http://dbpedia.org/resource/Bassas_de_Pedro	http://dbpedia.org/resource/Malayali
-   http://dbpedia.org/resource/Majuli_District	http://dbpedia.org/resource/Sutiya_people
-   http://dbpedia.org/resource/United_States	http://dbpedia.org/resource/Asian_American
-   http://dbpedia.org/resource/Suheli_Par	http://dbpedia.org/resource/Mahl_people
-   http://dbpedia.org/resource/Kitai_Lilivea_Island	http://dbpedia.org/resource/Papuan_people
-   http://dbpedia.org/resource/Panay	http://dbpedia.org/resource/Caluyanon_language
-   http://dbpedia.org/resource/Geography_of_Greenland	http://dbpedia.org/resource/Inuit
-   http://dbpedia.org/resource/Bremer_Island	http://dbpedia.org/resource/Rirratjingu
-   http://dbpedia.org/resource/Henry_Lawrence_Island	http://dbpedia.org/resource/Andamanese_people
-   http://dbpedia.org/resource/Kiwai_Island	http://dbpedia.org/resource/Kiwai
-   http://dbpedia.org/resource/Jersey	http://dbpedia.org/resource/French_people
-   http://dbpedia.org/resource/Malawi	http://dbpedia.org/resource/Lomwe_people
-   http://dbpedia.org/resource/Viper_Island	http://dbpedia.org/resource/Hindu
-   http://dbpedia.org/resource/Southampton_Island	http://dbpedia.org/resource/Inuit
-   http://dbpedia.org/resource/Daru_Island	http://dbpedia.org/resource/Kiwai
-http://dbpedia.org/ontology/governmentType
-   http://dbpedia.org/resource/Oklahoma_Territory	http://dbpedia.org/resource/Organized_incorporated_territories_of_the_United_States
-   http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic	http://dbpedia.org/resource/Republic
-   http://dbpedia.org/resource/History_of_Uganda_(1971–79)	http://dbpedia.org/resource/Military_dictatorship
-   http://dbpedia.org/resource/Borough_of_Milton_Keynes	http://dbpedia.org/resource/Unitary_authority
-   http://dbpedia.org/resource/West_Richland,_Washington	http://dbpedia.org/resource/Mayor-Council
-   http://dbpedia.org/resource/Hampton,_New_Jersey	http://dbpedia.org/resource/Borough_(New_Jersey)
-   http://dbpedia.org/resource/Saddle_Brook,_New_Jersey	http://dbpedia.org/resource/Faulkner_Act_(Mayor-Council)
-   http://dbpedia.org/resource/Macedonia_(ancient_kingdom)	http://dbpedia.org/resource/Monarchy
-   http://dbpedia.org/resource/Cotton_Township,_Switzerland_County,_Indiana	http://dbpedia.org/resource/Indiana_Township_Trustee
-   http://dbpedia.org/resource/People's_Democratic_Republic_of_Ethiopia	http://dbpedia.org/resource/Marxist-Leninist
-   http://dbpedia.org/resource/Orland_Park,_Illinois	http://dbpedia.org/resource/Council-manager_government
-   http://dbpedia.org/resource/Pangdan	http://dbpedia.org/resource/Barangay
-   http://dbpedia.org/resource/Milan,_New_York	http://dbpedia.org/resource/Town_Council
-   http://dbpedia.org/resource/Annakara	http://dbpedia.org/resource/Panchayati_raj_(India)
-   http://dbpedia.org/resource/Girardot,_Cundinamarca	http://dbpedia.org/resource/Mayor–council_government
-   http://dbpedia.org/resource/Bhaini_Ala	http://dbpedia.org/resource/Panchayati_raj_(India)
-   http://dbpedia.org/resource/Aniya	http://dbpedia.org/resource/Panchayati_raj_(India)
-   http://dbpedia.org/resource/Kandi_(community_development_block)	http://dbpedia.org/resource/Community_development_block_in_India
-   http://dbpedia.org/resource/Norglenwold	http://dbpedia.org/resource/Municipal_incorporation
-   http://dbpedia.org/resource/Genesee,_New_York	http://dbpedia.org/resource/Town_Council
-http://www.w3.org/2003/01/geo/wgs84_pos#lat
-   http://dbpedia.org/resource/Castle_of_Pioz	"40.464722"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Whalley_Abbey	"53.8202"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Bank_of_New_South_Wales_Building,_Townsville	"-19.2568"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Clancholla	"-23.3981"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Surp_Nerses_Shnorhali_Cathedral,_Montevideo	"-34.878221"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Oratorio_di_San_Lorenzo_all'alpe_Seccio	"45.855833"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Independence_National_Historical_Park	"39.947778"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Johnston's_Sawmill_Steam_Plant	"-16.676"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Teatro_de_la_Zarzuela	"40.417185"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Mount_Coot-tha_Forest	"-27.4765"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Pioneer_Shire_Council_Building	"-21.1399"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Amaras_Monastery	"39.684"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Vranjina_Monastery	"42.2706"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Steble_Fountain	"53.40956"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Innisfail_Water_Tower	"-17.5286"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Lahey's_Canungra_Sawmill_Complex	"-28.0158"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Duddingston_House	"55.9391"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Cavelossim_Beach__Cavelossim_Beach__1	"15.1715873"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/St_Andrews_Presbyterian_Church,_Esk	"-27.2427"^^<http://www.w3.org/2001/XMLSchema#float>
-   http://dbpedia.org/resource/Santuario_della_Beata_Vergine_del_Fiume	"45.915454"^^<http://www.w3.org/2001/XMLSchema#float>
-http://dbpedia.org/ontology/officialLanguage
-   http://dbpedia.org/resource/Las_Bela_(princely_state)	http://dbpedia.org/resource/Balochi_language
-   http://dbpedia.org/resource/Marshall_Islands	http://dbpedia.org/resource/Marshallese_language
-   http://dbpedia.org/resource/Malawi_(Commonwealth_realm)	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Transnistria	http://dbpedia.org/resource/Ukrainian_language
-   http://dbpedia.org/resource/Republic_of_Macedonia	http://dbpedia.org/resource/Macedonian_language
-   http://dbpedia.org/resource/Luxembourg	http://dbpedia.org/resource/German_language
-   http://dbpedia.org/resource/Twente	http://dbpedia.org/resource/Dutch_language
-   http://dbpedia.org/resource/Nation_of_Celestial_Space	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Novorossiya_(confederation)	http://dbpedia.org/resource/Russian_language
-   http://dbpedia.org/resource/Cherokee_Nation	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Ladonia_(micronation)	http://dbpedia.org/resource/Latin
-   http://dbpedia.org/resource/Union_of_Sovereign_States	http://dbpedia.org/resource/Belarusian_language
-   http://dbpedia.org/resource/Jubaland	http://dbpedia.org/resource/Somali_language
-   http://dbpedia.org/resource/Germany	http://dbpedia.org/resource/German_language
-   http://dbpedia.org/resource/Canada	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Barbados	http://dbpedia.org/resource/English_language
-   http://dbpedia.org/resource/Republic_of_Saugeais	http://dbpedia.org/resource/Franco-Provençal_language
-   http://dbpedia.org/resource/Swat_(princely_state)__Swat__1	http://dbpedia.org/resource/Pashto_language
-   http://dbpedia.org/resource/Nagar_(princely_state)	http://dbpedia.org/resource/Burushaski_language
-   http://dbpedia.org/resource/Wallis_(island)	http://dbpedia.org/resource/Wallisian_language
-http://dbpedia.org/ontology/stadium
-   http://dbpedia.org/resource/Bulgaria_women's_national_football_team	http://dbpedia.org/resource/Lovech_Stadium
-   http://dbpedia.org/resource/The_Citadel_Bulldogs	http://dbpedia.org/resource/Joseph_P._Riley,_Jr._Park
-   http://dbpedia.org/resource/Ivory_Coast_national_football_team	http://dbpedia.org/resource/Stade_Félix_Houphouët-Boigny
-   http://dbpedia.org/resource/Edsbyns_IF	http://dbpedia.org/resource/Edsbyn_Arena
-   http://dbpedia.org/resource/Albania_national_youth_football_team	http://dbpedia.org/resource/Elbasan_Arena
-   http://dbpedia.org/resource/San_Diego_Toreros	http://dbpedia.org/resource/Fowler_Park
-   http://dbpedia.org/resource/Montenegro_national_under-19_football_team	http://dbpedia.org/resource/Podgorica_city_stadium
-   http://dbpedia.org/resource/Windsor_Lancers	http://dbpedia.org/resource/University_of_Windsor_Stadium
-   http://dbpedia.org/resource/Tyresö_AFF_Royal_Crowns	http://dbpedia.org/resource/Tyresövallen
-   http://dbpedia.org/resource/Kyrgyzstan_national_under-23_football_team	http://dbpedia.org/resource/Spartak_Stadium_(Kyrgyzstan)
-   http://dbpedia.org/resource/IUP_Crimson_Hawks	http://dbpedia.org/resource/George_P._Miller_Stadium
-   http://dbpedia.org/resource/Washington_Kastles	http://dbpedia.org/resource/Kastles_Stadium_at_the_Charles_E._Smith_Center
-   http://dbpedia.org/resource/Scafati_Basket	http://dbpedia.org/resource/PalaMangano
-   http://dbpedia.org/resource/Östersunds_BS	http://dbpedia.org/resource/Odenvallens_IP
-   http://dbpedia.org/resource/Peru_national_under-20_football_team	http://dbpedia.org/resource/Estadio_Nacional_(Lima)
-   http://dbpedia.org/resource/Budapesti_Honvéd_SE_(men's_water_polo)	http://dbpedia.org/resource/Kőér_Street_Swimming_Pool
-   http://dbpedia.org/resource/Azerbaijan_national_beach_soccer_team	http://dbpedia.org/resource/Azerbaijan
-   http://dbpedia.org/resource/Charlotte_Speed	http://dbpedia.org/resource/Bojangles'_Coliseum
-   http://dbpedia.org/resource/Army_Black_Knights	http://dbpedia.org/resource/Johnson_Stadium_at_Doubleday_Field
-   http://dbpedia.org/resource/Chicago_Knights	http://dbpedia.org/resource/Victory_Sports_Complex
-http://dbpedia.org/ontology/nearestCity
-   http://dbpedia.org/resource/Bair_Island	http://dbpedia.org/resource/Redwood_City,_California
-   http://dbpedia.org/resource/Mount_Nimba_Strict_Nature_Reserve	http://dbpedia.org/resource/Bossou
-   http://dbpedia.org/resource/Belle_Alliance_Plantation	http://dbpedia.org/resource/Donaldsonville,_Louisiana
-   http://dbpedia.org/resource/Mato_Kosyk_House	http://dbpedia.org/resource/Albion,_Oklahoma
-   http://dbpedia.org/resource/Rohkunborri_National_Park	http://dbpedia.org/resource/Setermoen
-   http://dbpedia.org/resource/Plumbush	http://dbpedia.org/resource/Beacon,_New_York
-   http://dbpedia.org/resource/Hurricane_Hall	http://dbpedia.org/resource/Lexington,_Kentucky
-   http://dbpedia.org/resource/Silver_Lake_(Madison,_New_Hampshire)	http://dbpedia.org/resource/Silver_Lake,_New_Hampshire
-   http://dbpedia.org/resource/Lago_di_Poschiavo	http://dbpedia.org/resource/Le_Prese
-   http://dbpedia.org/resource/Shady_Glen_Road_Stone_Arch_Bridge	http://dbpedia.org/resource/Durham,_New_York
-   http://dbpedia.org/resource/Marion_Reservoir	http://dbpedia.org/resource/Hillsboro,_Kansas
-   http://dbpedia.org/resource/Desert_Biosphere_Reserve	http://dbpedia.org/resource/Milford,_Utah
-   http://dbpedia.org/resource/American_Mediterranean_Sea	http://dbpedia.org/resource/Veracruz
-   http://dbpedia.org/resource/Croche_Lake_(Sainte-Thècle)	http://dbpedia.org/resource/Sainte-Thècle,_Quebec
-   http://dbpedia.org/resource/George_Rymph_House	http://dbpedia.org/resource/Poughkeepsie_(city),_New_York
-   http://dbpedia.org/resource/Pribaikalsky_National_Park	http://dbpedia.org/resource/Irkutsk
-   http://dbpedia.org/resource/Jekyll_Island	http://dbpedia.org/resource/Brunswick,_Georgia
-   http://dbpedia.org/resource/Old_Tunnel_State_Park	http://dbpedia.org/resource/Texas
-   http://dbpedia.org/resource/Chi-Sandra_Garden	http://dbpedia.org/resource/Salmon_River_(Idaho)
-   http://dbpedia.org/resource/Edisto_Island_Presbyterian_Church	http://dbpedia.org/resource/Edisto_Island,_South_Carolina
-http://dbpedia.org/ontology/location
-   http://dbpedia.org/resource/Park_Theatre_(Vancouver)	http://dbpedia.org/resource/British_Columbia
-   http://dbpedia.org/resource/The_Mall_at_South_Unionville_Square	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/William_Briggs_Homestead	http://dbpedia.org/resource/Auburn,_Maine
-   http://dbpedia.org/resource/Church_of_Santa_María_de_Palacio_(Logroño)	http://dbpedia.org/resource/Logroño
-   http://dbpedia.org/resource/Kornasoren_Airport	http://dbpedia.org/resource/Indonesia
-   http://dbpedia.org/resource/American_Friends_Service_Committee	http://dbpedia.org/resource/Philadelphia,_Pennsylvania
-   http://dbpedia.org/resource/Liceo_Víctor_Jara	http://dbpedia.org/resource/Chile
-   http://dbpedia.org/resource/R.O.A.D._Entertainment	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Sugar_Mountain_Farm	http://dbpedia.org/resource/Topsham,_Vermont
-   http://dbpedia.org/resource/Merstham_railway_station	http://dbpedia.org/resource/Merstham
-   http://dbpedia.org/resource/Stanley_Prison	http://dbpedia.org/resource/Stanley,_Hong_Kong
-   http://dbpedia.org/resource/Dual_(brand)	http://dbpedia.org/resource/Heathrow,_Florida
-   http://dbpedia.org/resource/Golar_LNG	http://dbpedia.org/resource/Bermuda
-   http://dbpedia.org/resource/Park_Tower_(Tampa)	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Monroe_Residential_Historic_District_(Monroe,_North_Carolina)	http://dbpedia.org/resource/Monroe,_North_Carolina
-   http://dbpedia.org/resource/Codename:_Asero	http://dbpedia.org/resource/Metro_Manila
-   http://dbpedia.org/resource/Domino_Printing_Sciences	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Metricon	http://dbpedia.org/resource/Australia
-   http://dbpedia.org/resource/Show_Low_Lake	http://dbpedia.org/resource/Navajo_County,_Arizona
-   http://dbpedia.org/resource/Bundaberg_War_Memorial	http://dbpedia.org/resource/Bundaberg_Region
-http://www.w3.org/2002/07/owl#differentFrom
-   http://dbpedia.org/resource/5_News	http://dbpedia.org/resource/News5
-   http://dbpedia.org/resource/Yamaha_v50	http://dbpedia.org/resource/Yamaha_V50
-   http://dbpedia.org/resource/Pointed_space	http://dbpedia.org/resource/Pointed_set
-   http://dbpedia.org/resource/Blame_It_on_the_Night	http://dbpedia.org/resource/Blame_(Calvin_Harris_song)
-   http://dbpedia.org/resource/DYRK	http://dbpedia.org/resource/Durk
-   http://dbpedia.org/resource/Uphill	http://dbpedia.org/resource/Ontario
-   http://dbpedia.org/resource/Amer_Khan	http://dbpedia.org/resource/Amer_Khan_(boxer)
-   http://dbpedia.org/resource/Benten_Island	http://dbpedia.org/resource/Japan
-   http://dbpedia.org/resource/Barbarian_(2002_video_game)	http://dbpedia.org/resource/Barbarian:_The_Ultimate_Warrior
-   http://dbpedia.org/resource/Wang_Tao_(footballer,_born_1970)	http://dbpedia.org/resource/Wang_Tao_(footballer
-   http://dbpedia.org/resource/Marion_R._Marsh	http://dbpedia.org/resource/Marian_Marsh
-   http://dbpedia.org/resource/Gurjar	http://dbpedia.org/resource/Gurjara-Pratihara
-   http://dbpedia.org/resource/Massih_Wassey	http://dbpedia.org/resource/Wassy
-   http://dbpedia.org/resource/Banner_Mountain	http://dbpedia.org/resource/Banner_Peak
-   http://dbpedia.org/resource/Jack_MacDonald_(Hamilton_politician)	http://dbpedia.org/resource/John_A._Macdonald
-   http://dbpedia.org/resource/Pongidae	http://dbpedia.org/resource/Ponginae
-   http://dbpedia.org/resource/Rainbows_End	http://dbpedia.org/resource/Rainbow's_End_(disambiguation)
-   http://dbpedia.org/resource/Idioglossa	http://dbpedia.org/resource/Idioglossia
-   http://dbpedia.org/resource/Group_representation	http://dbpedia.org/resource/Presentation_of_a_group
-   http://dbpedia.org/resource/Natural_key	http://dbpedia.org/resource/Natural_minor
-http://dbpedia.org/ontology/utcOffset
-   http://dbpedia.org/resource/Valencina_de_la_Concepción	"+1"
-   http://dbpedia.org/resource/Deh_Now-ye_Gelal	"+4:30"
-   http://dbpedia.org/resource/Kocakaya,_Vezirköprü	"+3"
-   http://dbpedia.org/resource/Vilas_(community),_Dane_County,_Wisconsin	"-5"
-   http://dbpedia.org/resource/Satchinez	"+3"
-   http://dbpedia.org/resource/Mohammadabad-e_Nayiniha	"+4:30"
-   http://dbpedia.org/resource/Saloğlu	"+5"
-   http://dbpedia.org/resource/Boggs_Township,_Clearfield_County,_Pennsylvania	"-5"
-   http://dbpedia.org/resource/Bay-ang	"+8"
-   http://dbpedia.org/resource/Milivojce	"+1"
-   http://dbpedia.org/resource/Shamsabad,_Amol	"+4:30"
-   http://dbpedia.org/resource/Talca	"−3"
-   http://dbpedia.org/resource/Sar_Kam_Bahmani	"+3:30"
-   http://dbpedia.org/resource/South_Seminole_Heights	"-5"
-   http://dbpedia.org/resource/Kirtley,_Kentucky	"-5"
-   http://dbpedia.org/resource/Agourai	"+0"
-   http://dbpedia.org/resource/Kinney,_Minnesota	"-5"
-   http://dbpedia.org/resource/Kurudere,_Devrek	"+2"
-   http://dbpedia.org/resource/Chah-e_Rahbarabad	"+3:30"
-   http://dbpedia.org/resource/Mowtowr-e_Alizadeh	"+4:30"
-http://dbpedia.org/ontology/builder
-   http://dbpedia.org/resource/HMS_Hermione_(1782)	http://dbpedia.org/resource/Bristol
-   http://dbpedia.org/resource/HMS_Rothesay_(F107)	http://dbpedia.org/resource/Scotstoun
-   http://dbpedia.org/resource/USS_Chelan_County_(LST-542)	http://dbpedia.org/resource/Missouri_Valley_Bridge_and_Iron_Company
-   http://dbpedia.org/resource/USS_Lockwood_(FF-1064)	http://dbpedia.org/resource/Todd_Pacific_Shipyards
-   http://dbpedia.org/resource/HMS_Quail_(1895)	http://dbpedia.org/resource/Birkenhead
-   http://dbpedia.org/resource/USS_Refresh_(AM-287)	http://dbpedia.org/resource/General_Engineering_&_Dry_Dock_Company
-   http://dbpedia.org/resource/HNLMS_Stier	http://dbpedia.org/resource/John_Laird,_Son_&_Company
-   http://dbpedia.org/resource/Ottoman_ship_Mahmudiye	http://dbpedia.org/resource/Istanbul
-   http://dbpedia.org/resource/SS_Alabama	http://dbpedia.org/resource/Manitowoc_Shipbuilding_Company
-   http://dbpedia.org/resource/USS_Gabrielle_Giffords	http://dbpedia.org/resource/Austal_USA
-   http://dbpedia.org/resource/German_submarine_U-62_(1939)	http://dbpedia.org/resource/Kiel
-   http://dbpedia.org/resource/USS_Puffer_(SSN-652)	http://dbpedia.org/resource/Mississippi
-   http://dbpedia.org/resource/SS_Picton	http://dbpedia.org/resource/Stockton-on-Tees
-   http://dbpedia.org/resource/German_submarine_U-2328	http://dbpedia.org/resource/Hamburg
-   http://dbpedia.org/resource/USS_Procyon_(AKA-2)	http://dbpedia.org/resource/Tampa,_Florida
-   http://dbpedia.org/resource/USS_Francis_Scott_Key_(SSBN-657)	http://dbpedia.org/resource/General_Dynamics_Electric_Boat
-   http://dbpedia.org/resource/WAGR_C_class_(diesel)	http://dbpedia.org/resource/Rocklea,_Queensland
-   http://dbpedia.org/resource/USS_Stockdale_(DDG-106)	http://dbpedia.org/resource/Bath_Iron_Works
-   http://dbpedia.org/resource/SM_UB-131	http://dbpedia.org/resource/Bremen
-   http://dbpedia.org/resource/USS_Pinafore_(SP-450)	http://dbpedia.org/resource/Vallejo,_California
+http://dbpedia.org/ontology/office
+   http://dbpedia.org/resource/Mark_Weinberg_(judge)__2	"Judge of theFederal Court of Australia"
+   http://dbpedia.org/resource/Thomas_H._Braden	"Member of theLowell, Massachusetts"
+   http://dbpedia.org/resource/Austin_Belknap	"Board of Selectmen"
+   http://dbpedia.org/resource/Jorge_Taiana__1	"Minister of Foreign Affairs, International Trade and Worship of Argentina"
+   http://dbpedia.org/resource/Thomas_T._Medlock__2	"Member of theSouth Carolina Senatefrom the 7th district"
+   http://dbpedia.org/resource/Joyce_Broadsword	"fromDistrict 2"
+   http://dbpedia.org/resource/Tingting_Cojuangco__1	"Governor ofTarlac"
+   http://dbpedia.org/resource/Donal_O'Donnell	"Judge of theSupreme Court"
+   http://dbpedia.org/resource/Peter_Wilenski__4	"Secretaryof theDepartment of Foreign Affairs and Trade"
+   http://dbpedia.org/resource/Wong_Kan_Seng	"Co-ordinating Minister for National Security"
+   http://dbpedia.org/resource/Alfonso_Cusi__2	"Director-General of theCivil Aviation Authority of the Philippines"
+   http://dbpedia.org/resource/Garrett_L._Withers__1	"Member of theKentucky House of Representatives"
+   http://dbpedia.org/resource/Lawrence_Wetherby__1	"Governor of Kentucky"
+   http://dbpedia.org/resource/Joseph_Yieleh_Chireh	"Minister for Local Government and Rural Development"
+   http://dbpedia.org/resource/Faizullah_Kakar	"Deputy Minister of Public Health"
+   http://dbpedia.org/resource/Candice_Bergen_(politician)	"Parliamentary Secretary to the Minister of Public Safety"
+   http://dbpedia.org/resource/Joseph_Miville_Dechene	"Member of the Canadian House of Commons"
+   http://dbpedia.org/resource/Tom_Hucker	"from the 5th district"
+   http://dbpedia.org/resource/Julio_Adalberto_Rivera_Carballo__1	"President of El Salvador"
+   http://dbpedia.org/resource/Poon_Chi-fai__1	"Member of theLegislative Council"
+http://dbpedia.org/ontology/causalties
+   http://dbpedia.org/resource/Second_Battle_of_Dongola	"Unknown but heavy"
+   http://dbpedia.org/resource/Battle_of_Warsaw_(1705)	"150 killed,"
+   http://dbpedia.org/resource/Kosovo_War	"2 non-combat deaths"
+   http://dbpedia.org/resource/Battle_of_Bekeriyah_(1904)	"300"
+   http://dbpedia.org/resource/Battle_of_Petitcodiac	"22 killed, six wounded (disputed: French source indicates 42 killed, 45 prisoners)"
+   http://dbpedia.org/resource/Battle_of_Pagsanjan	"1 wounded"
+   http://dbpedia.org/resource/Young_Irelander_Rebellion_of_1848	"2 killed"
+   http://dbpedia.org/resource/Battle_of_Consuegra	"High"
+   http://dbpedia.org/resource/Datong–Jining_Campaign	"8,000"
+   http://dbpedia.org/resource/Battle_of_Doberdò	"560 missing or captured"
+   http://dbpedia.org/resource/Operation_Crossbow	"*700KIA/154"
+   http://dbpedia.org/resource/Battle_of_Kursk	"** Estimate 760 tanks and assault guns destroyed"
+   http://dbpedia.org/resource/Battle_of_Atbara	": 26 killed, 99 wounded"
+   http://dbpedia.org/resource/Battle_of_Boonville	"5 killed or died of wounds"
+   http://dbpedia.org/resource/Battle_of_Borneo_(1941–42)	"1 transport beached"
+   http://dbpedia.org/resource/Battle_of_the_Gulf	"Unknown"
+   http://dbpedia.org/resource/Bombardment_of_Almería	"19–20 civilians killed"
+   http://dbpedia.org/resource/Operation_White	"2 prisoners"
+   http://dbpedia.org/resource/Tawakalna_ala_Allah_Operations	"5,000 casualties"
+   http://dbpedia.org/resource/Battle_of_the_Hills	"21,697"
+http://dbpedia.org/ontology/termPeriod
+   http://dbpedia.org/resource/Rainer_Barzel	http://dbpedia.org/resource/Rainer_Barzel__3
+   http://dbpedia.org/resource/Marko_Todorović_(basketball)	http://dbpedia.org/resource/Marko_Todorović_(basketball)__4
+   http://dbpedia.org/resource/Len_Lacy	http://dbpedia.org/resource/Len_Lacy__1
+   http://dbpedia.org/resource/Ljubomir_Jovanović	http://dbpedia.org/resource/Ljubomir_Jovanović__1
+   http://dbpedia.org/resource/Bobby_Lowther	http://dbpedia.org/resource/Bobby_Lowther__1
+   http://dbpedia.org/resource/Raško_Katić	http://dbpedia.org/resource/Raško_Katić__7
+   http://dbpedia.org/resource/Mark_Madsen	http://dbpedia.org/resource/Mark_Madsen__1
+   http://dbpedia.org/resource/Archibald_Watson_(mayor)	http://dbpedia.org/resource/Archibald_Watson_(mayor)__1
+   http://dbpedia.org/resource/Charles_Jordan_(basketball)	http://dbpedia.org/resource/Charles_Jordan_(basketball)__3
+   http://dbpedia.org/resource/Hampton_L._Carson_(lawyer)	http://dbpedia.org/resource/Hampton_L._Carson_(lawyer)__1
+   http://dbpedia.org/resource/William_H._Hatch	http://dbpedia.org/resource/William_H._Hatch__2
+   http://dbpedia.org/resource/Mel_Counts	http://dbpedia.org/resource/Mel_Counts__4
+   http://dbpedia.org/resource/Hugo_S._Sims,_Jr.	http://dbpedia.org/resource/Hugo_S._Sims,_Jr.__2
+   http://dbpedia.org/resource/Frank_Joseph_Gerard_Dorsey	http://dbpedia.org/resource/Frank_Joseph_Gerard_Dorsey__1
+   http://dbpedia.org/resource/Damone_Brown	http://dbpedia.org/resource/Damone_Brown__9
+   http://dbpedia.org/resource/Spencer_Swalm	http://dbpedia.org/resource/Spencer_Swalm__1
+   http://dbpedia.org/resource/Jerome_Kennedy	http://dbpedia.org/resource/Jerome_Kennedy__6
+   http://dbpedia.org/resource/Andrew_S._Effron	http://dbpedia.org/resource/Andrew_S._Effron__2
+   http://dbpedia.org/resource/R._Nicholas_Burns	http://dbpedia.org/resource/R._Nicholas_Burns__1
+   http://dbpedia.org/resource/Álvaro_Dias	http://dbpedia.org/resource/Álvaro_Dias__2
+http://dbpedia.org/ontology/isPartOfMilitaryConflict
+   http://dbpedia.org/resource/Second_Battle_of_the_Java_Sea	http://dbpedia.org/resource/Pacific_War
+   http://dbpedia.org/resource/Battle_of_Hill_609	http://dbpedia.org/resource/Tunisia_Campaign
+   http://dbpedia.org/resource/Battle_of_Gaixia	http://dbpedia.org/resource/Chu-Han_contention
+   http://dbpedia.org/resource/Battle_of_Romani	http://dbpedia.org/resource/Middle_Eastern_theatre_of_World_War_I
+   http://dbpedia.org/resource/Soviet_westward_offensive_of_1918–19	http://dbpedia.org/resource/Latvian_War_of_Independence
+   http://dbpedia.org/resource/Irish_Confederate_Wars	http://dbpedia.org/resource/Wars_of_the_Three_Kingdoms
+   http://dbpedia.org/resource/Bolivian_War_of_Independence	http://dbpedia.org/resource/Spanish_American_wars_of_independence
+   http://dbpedia.org/resource/Siege_of_Kōriyama_Castle_(1544)	http://dbpedia.org/resource/Sengoku_period
+   http://dbpedia.org/resource/Battle_of_Mill	http://dbpedia.org/resource/Battle_of_the_Netherlands
+   http://dbpedia.org/resource/Insurgency_in_Kosovo_(1995–98)	http://dbpedia.org/resource/Kosovo_War
+   http://dbpedia.org/resource/Battle_of_Kuala_Lumpur	http://dbpedia.org/resource/World_War_II
+   http://dbpedia.org/resource/Siege_of_Haddington	http://dbpedia.org/resource/Rough_Wooing
+   http://dbpedia.org/resource/Count's_Feud	http://dbpedia.org/resource/Protestant_Reformation
+   http://dbpedia.org/resource/Battle_of_Hannut	http://dbpedia.org/resource/World_War_II
+   http://dbpedia.org/resource/Battle_of_Baecula	http://dbpedia.org/resource/Second_Punic_War
+   http://dbpedia.org/resource/Skirmish_in_Doubtful_Canyon	http://dbpedia.org/resource/American_Civil_War
+   http://dbpedia.org/resource/Newfoundland_expedition_(1702)	http://dbpedia.org/resource/Queen_Anne's_War
+   http://dbpedia.org/resource/Battle_of_Ramadi_(2014–15)	http://dbpedia.org/resource/Iraqi_Civil_War_(2014–present)
+   http://dbpedia.org/resource/First_Battle_of_the_Isonzo	http://dbpedia.org/resource/Italian_Front_(World_War_I)
+   http://dbpedia.org/resource/Day_of_Daggers	http://dbpedia.org/resource/French_Revolution
+http://dbpedia.org/ontology/successor
+   http://dbpedia.org/resource/Robert_Herring_Wright	http://dbpedia.org/resource/Leon_Renfroe_Meadows
+   http://dbpedia.org/resource/Joe_Biden	http://dbpedia.org/resource/Jesse_Helms
+   http://dbpedia.org/resource/Benoît_Pelletier	http://dbpedia.org/resource/Pierre_Corbeil
+   http://dbpedia.org/resource/William_Reinstein	http://dbpedia.org/resource/Kathi-Anne_Reinstein
+   http://dbpedia.org/resource/Borommaracha_III	http://dbpedia.org/resource/Ramathibodi_II
+   http://dbpedia.org/resource/Roberto_Concepcion	http://dbpedia.org/resource/Querube_Makalintal
+   http://dbpedia.org/resource/Watkins_Overton	http://dbpedia.org/resource/Edward_H._Crump
+   http://dbpedia.org/resource/Lorenzo_Tañada	http://dbpedia.org/resource/Ambrosio_Padilla
+   http://dbpedia.org/resource/Najib_Razak	http://dbpedia.org/resource/Muhyiddin_Yassin
+   http://dbpedia.org/resource/Daimler_Fifteen__1935—1937__1	http://dbpedia.org/resource/Daimler_New_Fifteen
+   http://dbpedia.org/resource/Jaime_C._de_Veyra	http://dbpedia.org/resource/Pedro_Guevara
+   http://dbpedia.org/resource/Mihail_Kogălniceanu	http://dbpedia.org/resource/Nicolae_Ionescu
+   http://dbpedia.org/resource/Katrina_Hodgkinson	http://dbpedia.org/resource/Andrew_Stoner
+   http://dbpedia.org/resource/Carmen_Trutanich	http://dbpedia.org/resource/Mike_Feuer
+   http://dbpedia.org/resource/John_Tippets	http://dbpedia.org/resource/Clair_Cheirrett
+   http://dbpedia.org/resource/2000–01_Birmingham_City_F.C._season	http://dbpedia.org/resource/2001–02_Birmingham_City_F.C._season
+   http://dbpedia.org/resource/Raúl_Lacabanne	http://dbpedia.org/resource/Luciano_Menendez
+   http://dbpedia.org/resource/Kenneth_J._Gray	http://dbpedia.org/resource/Edward_Rell_Madigan
+   http://dbpedia.org/resource/William_Milam	http://dbpedia.org/resource/Wendy_Jean_Chamberlin
+   http://dbpedia.org/resource/Alexander_Murray,_1st_Baron_Murray_of_Elibank	http://dbpedia.org/resource/Edwin_Samuel_Montagu
 http://dbpedia.org/ontology/birthPlace
-   http://dbpedia.org/resource/Mike_Brown_(outfielder)	http://dbpedia.org/resource/San_Francisco,_California
-   http://dbpedia.org/resource/Arthur_Zwane	http://dbpedia.org/resource/Meadowlands,_Gauteng
-   http://dbpedia.org/resource/Carl_Brandt_(composer)	http://dbpedia.org/resource/Sacramento,_California
-   http://dbpedia.org/resource/Wang_Shixin	http://dbpedia.org/resource/Dalian
-   http://dbpedia.org/resource/Jana_Kapustová	http://dbpedia.org/resource/Czechoslovakia
-   http://dbpedia.org/resource/William_Harvey_Clare	http://dbpedia.org/resource/Ottawa
-   http://dbpedia.org/resource/Peter_Aufschnaiter	http://dbpedia.org/resource/Kitzbühel
-   http://dbpedia.org/resource/Logan_Stephenson	http://dbpedia.org/resource/Outlook,_Saskatchewan
-   http://dbpedia.org/resource/Oğuzhan_Tüzün	http://dbpedia.org/resource/Istanbul
-   http://dbpedia.org/resource/Umberto_Colombo_(athlete)	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Peter_Gatehouse	http://dbpedia.org/resource/Glamorgan
-   http://dbpedia.org/resource/Lee_Harvey_(footballer)	http://dbpedia.org/resource/Harlow
-   http://dbpedia.org/resource/Carlos_Esplá	http://dbpedia.org/resource/Alicante
-   http://dbpedia.org/resource/Vladimir_Abazarov	http://dbpedia.org/resource/Tihovskoi_khutor
-   http://dbpedia.org/resource/Ollie_Murray_James	http://dbpedia.org/resource/Marion,_Kentucky
-   http://dbpedia.org/resource/William_Pedley	http://dbpedia.org/resource/Wingerworth
-   http://dbpedia.org/resource/Hélder_Bruno_Macedo_Sousa	http://dbpedia.org/resource/Portugal
-   http://dbpedia.org/resource/David_Thomas_(cricketer,_born_1959)	http://dbpedia.org/resource/Warwickshire
-   http://dbpedia.org/resource/Joel_Henry_Hildebrand	http://dbpedia.org/resource/New_Jersey
-   http://dbpedia.org/resource/Wayne_Easter	http://dbpedia.org/resource/North_Wiltshire,_Prince_Edward_Island
-http://dbpedia.org/ontology/deathCause
-   http://dbpedia.org/resource/Fond_du_Lac_County_Jane_Doe	http://dbpedia.org/resource/Homicide
-   http://dbpedia.org/resource/Michael_Sellers_(actor)	http://dbpedia.org/resource/Heart_attack
-   http://dbpedia.org/resource/William_Cotton_(missionary)	http://dbpedia.org/resource/Ascites
-   http://dbpedia.org/resource/Charles_Burlingame	http://dbpedia.org/resource/American_Airlines_Flight_77
-   http://dbpedia.org/resource/Ben_Johnson_(actor)	http://dbpedia.org/resource/Heart_attack
-   http://dbpedia.org/resource/Curt_Gowdy	http://dbpedia.org/resource/Leukemia
-   http://dbpedia.org/resource/Thomas_Overbury	http://dbpedia.org/resource/Poison
-   http://dbpedia.org/resource/Hugh_Bradner	http://dbpedia.org/resource/Pneumonia
-   http://dbpedia.org/resource/Jack_Narz	http://dbpedia.org/resource/Stroke
-   http://dbpedia.org/resource/Horace_Elgin_Dodge	http://dbpedia.org/resource/Spanish_flu
-   http://dbpedia.org/resource/Pernell_Roberts	http://dbpedia.org/resource/Pancreatic_cancer
-   http://dbpedia.org/resource/Thurl_Ravenscroft	http://dbpedia.org/resource/Prostate_cancer
-   http://dbpedia.org/resource/Benay_Venuta	http://dbpedia.org/resource/Lung_cancer
-   http://dbpedia.org/resource/Peter_van_Eyck	http://dbpedia.org/resource/Sepsis
-   http://dbpedia.org/resource/Savaş_Ay	http://dbpedia.org/resource/Laryngeal_cancer
-   http://dbpedia.org/resource/Ewing_Mitchell	http://dbpedia.org/resource/Stroke
-   http://dbpedia.org/resource/Lou_Butera	http://dbpedia.org/resource/Parkinson's_disease
-   http://dbpedia.org/resource/Charles_King_(musical_actor)	http://dbpedia.org/resource/Pneumonia
-   http://dbpedia.org/resource/Sumire_(model)	http://dbpedia.org/resource/Brain_hemorrhage
-   http://dbpedia.org/resource/Edward_Herrmann	http://dbpedia.org/resource/Brain_tumor
-http://dbpedia.org/ontology/citizenship
-   http://dbpedia.org/resource/Heinz_Wolff	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Bernhard_Walthard	http://dbpedia.org/resource/Switzerland
-   http://dbpedia.org/resource/Willard_Boyle	http://dbpedia.org/resource/Canada
-   http://dbpedia.org/resource/Arun_Subhashchandra_Yadav	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Mohammad_Amir_Ahmad_Khan	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/M._Shahid_Alam	http://dbpedia.org/resource/Pakistan
-   http://dbpedia.org/resource/Samuel_A._Cartwright	http://dbpedia.org/resource/Confederate_States_of_America
-   http://dbpedia.org/resource/Mahmoud_K._Muftić	http://dbpedia.org/resource/Kingdom_of_Yugoslavia
-   http://dbpedia.org/resource/Ernst_Antevs	http://dbpedia.org/resource/Sweden
-   http://dbpedia.org/resource/Alexei_Fridman	http://dbpedia.org/resource/Israel
-   http://dbpedia.org/resource/Charles_J._Patten	http://dbpedia.org/resource/Irish_people
-   http://dbpedia.org/resource/Stephen_Mallinga	http://dbpedia.org/resource/Uganda
-   http://dbpedia.org/resource/Ben_Boloff	http://dbpedia.org/resource/Transcaucasian_Socialist_Federative_Soviet_Republic
-   http://dbpedia.org/resource/John_Mackintosh_(philanthropist)	http://dbpedia.org/resource/Gibraltarian_people
-   http://dbpedia.org/resource/Philip_Kelland	http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
-   http://dbpedia.org/resource/Gabdulla_Amantay	http://dbpedia.org/resource/USSR
-   http://dbpedia.org/resource/Sergei_Grigoryants	http://dbpedia.org/resource/Soviet_Union
-   http://dbpedia.org/resource/Charles_Donovan	http://dbpedia.org/resource/United_Kingdom
-   http://dbpedia.org/resource/Jaroslav_Malina_(anthropologist)	http://dbpedia.org/resource/Czech_Republic
-   http://dbpedia.org/resource/Kim_Kwang-lim	http://dbpedia.org/resource/South_Korean
-http://xmlns.com/foaf/0.1/depiction
-   http://dbpedia.org/resource/Elk_City_Lake	http://en.wikipedia.org/wiki/Special:FilePath/Ks
-   http://dbpedia.org/resource/Lake_Eleanor	http://en.wikipedia.org/wiki/Special:FilePath/Lake_eleanor
-   http://dbpedia.org/resource/Sprague_Lake_(Colorado)	http://en.wikipedia.org/wiki/Special:FilePath/Viewatspraguelake.jpg
-   http://dbpedia.org/resource/Lake_Bulusan	http://en.wikipedia.org/wiki/Special:FilePath/Bulusan.jpg
-   http://dbpedia.org/resource/Scituate_Reservoir	http://en.wikipedia.org/wiki/Special:FilePath/Scituate.jpg
-   http://dbpedia.org/resource/Laghi_Gemelli	http://en.wikipedia.org/wiki/Special:FilePath/LaghiGemelli1.jpg
-   http://dbpedia.org/resource/San_Roque_Lake	http://en.wikipedia.org/wiki/Special:FilePath/Lagoydiquesanroque.JPG
-   http://dbpedia.org/resource/Sommen	http://en.wikipedia.org/wiki/Special:FilePath/La2-demis-sommen.png
-   http://dbpedia.org/resource/Husemersee	http://en.wikipedia.org/wiki/Special:FilePath/Husemersee01.JPG
-   http://dbpedia.org/resource/Lac_de_Saint-Andéol	http://en.wikipedia.org/wiki/Special:FilePath/andeol2.jpg
-   http://dbpedia.org/resource/Digital_Reasoning	http://dbpedia.org/resource/Privately_held_company
-   http://dbpedia.org/resource/Sanctum_(company)	https://crunchbase-production-res.cloudinary.com/image/upload/c_pad,h_140,w_140/v1466677099/z3lcd422qkdwdn9zg5td.png
-   http://dbpedia.org/resource/Buir_Lake	http://en.wikipedia.org/wiki/Special:FilePath/Buir_Nuur_in_Eastern_Mongolia_and_in_China_(Inner_Mongolia)
-   http://dbpedia.org/resource/Silver_Lake_(North_Cascades_National_Park)	http://en.wikipedia.org/wiki/Special:FilePath/Silver-Glacier.jpg
-   http://dbpedia.org/resource/Telmen_Lake	http://en.wikipedia.org/wiki/Special:FilePath/Mongolia
-   http://dbpedia.org/resource/Capitata_(Hydrozoa)	http://dbpedia.org/resource/Millepora_tenella
-   http://dbpedia.org/resource/Lagoa_da_Fajã_dos_Cubres	http://en.wikipedia.org/wiki/Special:FilePath/Portugal.jpg
-   http://dbpedia.org/resource/Lake_Michigan–Huron	http://en.wikipedia.org/wiki/Special:FilePath/Lake-Michigan-Huron.svg
-   http://dbpedia.org/resource/Hot_Lake_(Washington)	http://en.wikipedia.org/wiki/Special:FilePath/2011.jpg
-   http://dbpedia.org/resource/Rose_Lake_(Pigeon_River)	http://en.wikipedia.org/wiki/Special:FilePath/Minnesota.jpg
-http://dbpedia.org/ontology/demonym
-   http://dbpedia.org/resource/Uzbekistan	"Uzbekistani"@en
-   http://dbpedia.org/resource/Morocco	"Moroccan"@en
-   http://dbpedia.org/resource/Bavois	"Les Agasses"@en
-   http://dbpedia.org/resource/United_States_Virgin_Islands	"Virgin Islander"@en
-   http://dbpedia.org/resource/Northern_Cyprus	"Turkish Cypriot"@en
-   http://dbpedia.org/resource/Moudon	"Les Traîne-bailli"@en
-   http://dbpedia.org/resource/Nepal	"Nepalese"@en
-   http://dbpedia.org/resource/Tuvalu	"Tuvaluan"@en
-   http://dbpedia.org/resource/Romania	"Romanian"@en
-   http://dbpedia.org/resource/Basilicata	"Lucano (sing.), Lucani (pl.)"@en
-   http://dbpedia.org/resource/Gold_Coast_(region)	"Gold Coastian(Ghanaian)"@en
-   http://dbpedia.org/resource/American_Samoa	"American Samoan (official)"@en
-   http://dbpedia.org/resource/Burtigny	"Les Burtigniérans"@en
-   http://dbpedia.org/resource/Mount_Athos	"Athonite (Αθωνίτης)"@en
-   http://dbpedia.org/resource/Nepal	"Nepali"@en
-   http://dbpedia.org/resource/Czechoslovakia	"Czechoslovak"@en
-   http://dbpedia.org/resource/Peney-le-Jorat	"Les Tavans"@en
-   http://dbpedia.org/resource/Norfolk_Island	"Norfolk Islander"@en
-   http://dbpedia.org/resource/Monaco	"Monégasque"@en
-   http://dbpedia.org/resource/Illinois	"Illinoisan"@en
-http://dbpedia.org/ontology/countryOrigin
-   http://dbpedia.org/resource/Thor-Ablestar	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/MAX-1_(Spacecraft)	http://dbpedia.org/resource/Denmark
-   http://dbpedia.org/resource/VS-40	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Falcon_1	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Tsyklon-4	http://dbpedia.org/resource/Ukraine
-   http://dbpedia.org/resource/Reusable_Vehicle_Testing	http://dbpedia.org/resource/Japan
-   http://dbpedia.org/resource/H3_(rocket)	http://dbpedia.org/resource/Japan
-   http://dbpedia.org/resource/Saturn_II	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Geosynchronous_Satellite_Launch_Vehicle_Mark_III	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/Titan_IIIB	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Atlas_I	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Minotaur_II	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Proton-M	http://dbpedia.org/resource/Russia
-   http://dbpedia.org/resource/Satellite_Launch_Vehicle	http://dbpedia.org/resource/India
-   http://dbpedia.org/resource/N1_(rocket)	http://dbpedia.org/resource/Union_of_Soviet_Socialist_Republics
-   http://dbpedia.org/resource/Long_March_3A	http://dbpedia.org/resource/China
-   http://dbpedia.org/resource/Long_March_2C	http://dbpedia.org/resource/People's_Republic_of_China
-   http://dbpedia.org/resource/Simorgh_(rocket)	http://dbpedia.org/resource/Iran
-   http://dbpedia.org/resource/Saturn_V-B	http://dbpedia.org/resource/United_States
-   http://dbpedia.org/resource/Bongbong_(rocket)	http://dbpedia.org/resource/Philippines
-http://dbpedia.org/ontology/capital
-   http://dbpedia.org/resource/Western_Turkic_Khaganate	http://dbpedia.org/resource/Navekat
-   http://dbpedia.org/resource/Isfendiyarids	http://dbpedia.org/resource/Eflani
-   http://dbpedia.org/resource/Vogtland	http://dbpedia.org/resource/Gera
-   http://dbpedia.org/resource/South_Hsenwi	http://dbpedia.org/resource/Mongyai
-   http://dbpedia.org/resource/Máramaros_County	http://dbpedia.org/resource/Sighetu_Marmatiei
-   http://dbpedia.org/resource/Germania_Inferior	http://dbpedia.org/resource/Colonia_Claudia_Ara_Agrippinensium
-   http://dbpedia.org/resource/Sinkiang_Province,_Republic_of_China	http://dbpedia.org/resource/Taipei
-   http://dbpedia.org/resource/Crimean_Khanate	http://dbpedia.org/resource/Bakhchisaray
-   http://dbpedia.org/resource/Patria_del_Friuli	http://dbpedia.org/resource/Udine
-   http://dbpedia.org/resource/Sarab_Khanate	http://dbpedia.org/resource/Sarab,_East_Azerbaijan
-   http://dbpedia.org/resource/Adrianople_Vilayet	http://dbpedia.org/resource/Edirne
-   http://dbpedia.org/resource/Parthian_Empire	http://dbpedia.org/resource/Asaak
-   http://dbpedia.org/resource/Nebraska_Territory	http://dbpedia.org/resource/Omaha,_Nebraska
-   http://dbpedia.org/resource/Krassó-Szörény_County	http://dbpedia.org/resource/Lugoj
-   http://dbpedia.org/resource/Zutphen_County	http://dbpedia.org/resource/Zutphen
-   http://dbpedia.org/resource/Duchy_of_Brunswick-Lüneburg	http://dbpedia.org/resource/Lüneburg
-   http://dbpedia.org/resource/Latvian_Diplomatic_Service	http://dbpedia.org/resource/Riga
-   http://dbpedia.org/resource/Posen-West_Prussia	http://dbpedia.org/resource/Piła
-   http://dbpedia.org/resource/Phibunsongkhram_Province	http://dbpedia.org/resource/Sisophon
-   http://dbpedia.org/resource/Utah	http://dbpedia.org/resource/Salt_Lake_City
-http://dbpedia.org/ontology/ground
-   http://dbpedia.org/resource/Hay_St_Marys_F.C.	http://dbpedia.org/resource/Hay-on-Wye
-   http://dbpedia.org/resource/Operário_Futebol_Clube_(Várzea_Grande)	http://dbpedia.org/resource/Verdão
-   http://dbpedia.org/resource/Black_Rhinos_F.C.	http://dbpedia.org/resource/Zimbabwe
-   http://dbpedia.org/resource/2016–17_Sydney_FC_season	http://dbpedia.org/resource/Sydney
-   http://dbpedia.org/resource/C.D._Ferroviário_do_Huambo	http://dbpedia.org/resource/Estádio_dos_Kuricutelas
-   http://dbpedia.org/resource/2013–14_C.D._Guadalajara_season	http://dbpedia.org/resource/Estadio_Omnilife
-   http://dbpedia.org/resource/2015–16_Real_Oviedo_season	http://dbpedia.org/resource/Carlos_Tartiere
-   http://dbpedia.org/resource/2012–13_Western_Sydney_Wanderers_W-League_season	http://dbpedia.org/resource/Campbelltown_Stadium
-   http://dbpedia.org/resource/RKC_Waalwijk	http://dbpedia.org/resource/Mandemakers_Stadion
-   http://dbpedia.org/resource/B68_Toftir	http://dbpedia.org/resource/Faroes
-   http://dbpedia.org/resource/Savanne_SC	http://dbpedia.org/resource/Stade_Harry_Latour
-   http://dbpedia.org/resource/2008–09_Paris_Saint-Germain_F.C._season	http://dbpedia.org/resource/Parc_des_Princes
-   http://dbpedia.org/resource/1992–93_Ipswich_Town_F.C._season	http://dbpedia.org/resource/Portman_Road
-   http://dbpedia.org/resource/Atlético_Arteixo	http://dbpedia.org/resource/Campo_Municipal_Ponte_dos_Brozos
-   http://dbpedia.org/resource/2012–13_Cardiff_City_F.C._season	http://dbpedia.org/resource/Cardiff_City_Stadium
-   http://dbpedia.org/resource/Clube_Centenário_Pauferrense	http://dbpedia.org/resource/Pau_dos_Ferros
-   http://dbpedia.org/resource/2007–08_VfB_Stuttgart_season	http://dbpedia.org/resource/Stuttgart
-   http://dbpedia.org/resource/S.S._Ischia_Isolaverde	http://dbpedia.org/resource/Ischia,_Campania
-   http://dbpedia.org/resource/FC_Belo_Horizonte	http://dbpedia.org/resource/Cape_Verde
-   http://dbpedia.org/resource/Ely_City_F.C.	http://dbpedia.org/resource/Ely,_Cambridgeshire
-http://dbpedia.org/ontology/region
-   http://dbpedia.org/resource/Saint-Aubin-le-Cauf	http://dbpedia.org/resource/Haute-Normandie
-   http://dbpedia.org/resource/John_Fonfara	http://dbpedia.org/resource/Wethersfield,_Connecticut
-   http://dbpedia.org/resource/Yalmy_River	http://dbpedia.org/resource/Australian_Alps
-   http://dbpedia.org/resource/Loivre	http://dbpedia.org/resource/Champagne-Ardenne
-   http://dbpedia.org/resource/Henry_Stevens_(Australian_politician)	http://dbpedia.org/resource/Electoral_district_of_Rosewood
-   http://dbpedia.org/resource/Resana	http://dbpedia.org/resource/Veneto
-   http://dbpedia.org/resource/Jeff_Wheeland	http://dbpedia.org/resource/Pennsylvania_House_of_Representatives,_District_83
-   http://dbpedia.org/resource/George_Franklin_Huff	http://dbpedia.org/resource/Pennsylvania
-   http://dbpedia.org/resource/Gandosso	http://dbpedia.org/resource/Lombardy
-   http://dbpedia.org/resource/Jagpal	http://dbpedia.org/resource/Harora_(Assembly_constituency)
-   http://dbpedia.org/resource/Lucmau	http://dbpedia.org/resource/Aquitaine
-   http://dbpedia.org/resource/Subrata_Bose	http://dbpedia.org/resource/Barasat_(Lok_Sabha_constituency)
-   http://dbpedia.org/resource/Le_Chemin,_France	http://dbpedia.org/resource/Champagne-Ardenne
-   http://dbpedia.org/resource/Lohra	http://dbpedia.org/resource/Gießen
-   http://dbpedia.org/resource/Estoi	http://dbpedia.org/resource/Algarve
-   http://dbpedia.org/resource/Kevin_C._Kelly	http://dbpedia.org/resource/Monroe,_Connecticut
-   http://dbpedia.org/resource/Olcenengo	http://dbpedia.org/resource/Piedmont
-   http://dbpedia.org/resource/Ihaia_Tainui	http://dbpedia.org/resource/Southern_Maori
-   http://dbpedia.org/resource/Taufers_im_Münstertal	http://dbpedia.org/resource/Trentino-Alto_Adige/Südtirol
-   http://dbpedia.org/resource/Roy_Mata	http://dbpedia.org/resource/List_of_World_Heritage_Sites_in_Asia_and_Australasia
-http://dbpedia.org/ontology/twinCountry
-   http://dbpedia.org/resource/Csongrád	http://dbpedia.org/resource/Finland
-   http://dbpedia.org/resource/Ponte_Lambro	http://dbpedia.org/resource/Ukraine
-   http://dbpedia.org/resource/Toronto	http://dbpedia.org/resource/Brazil
-   http://dbpedia.org/resource/Anzano_di_Puglia	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Ugljevik	http://dbpedia.org/resource/Serbia
-   http://dbpedia.org/resource/Maastricht	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/Hudson,_Ohio	http://dbpedia.org/resource/Germany
-   http://dbpedia.org/resource/Ásványráró	http://dbpedia.org/resource/Austria
-   http://dbpedia.org/resource/Skagafjörður	http://dbpedia.org/resource/Norway
-   http://dbpedia.org/resource/Białystok	http://dbpedia.org/resource/Estonia
-   http://dbpedia.org/resource/Santa_Marta	http://dbpedia.org/resource/United_States_of_America
-   http://dbpedia.org/resource/Cistierna	http://dbpedia.org/resource/Spain
-   http://dbpedia.org/resource/Toledo,_Spain	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Zawiercie	http://dbpedia.org/resource/Italy
-   http://dbpedia.org/resource/Castiglione_del_Lago	http://dbpedia.org/resource/Czech_Republic
-   http://dbpedia.org/resource/Bulawayo	http://dbpedia.org/resource/Scotland
-   http://dbpedia.org/resource/Toronto	http://dbpedia.org/resource/Portugal
-   http://dbpedia.org/resource/Sopot	http://dbpedia.org/resource/Israel
-   http://dbpedia.org/resource/Saint_Helier	http://dbpedia.org/resource/France
-   http://dbpedia.org/resource/Barrie	http://dbpedia.org/resource/Germany
+   http://dbpedia.org/resource/Fred_Beene	http://dbpedia.org/resource/Angleton,_Texas
+   http://dbpedia.org/resource/George_E._Richards	http://dbpedia.org/resource/Montebello,_California
+   http://dbpedia.org/resource/Joseph_Wright_(rower)	http://dbpedia.org/resource/Ontario
+   http://dbpedia.org/resource/Mike_Burns_(soccer)	http://dbpedia.org/resource/United_States
+   http://dbpedia.org/resource/Waheedul_Haq	http://dbpedia.org/resource/Dhaka
+   http://dbpedia.org/resource/Tuvia_Friling	http://dbpedia.org/resource/Bârlad
+   http://dbpedia.org/resource/Neyssa_Etienne	http://dbpedia.org/resource/Port-au-Prince
+   http://dbpedia.org/resource/Juan_Pavón	http://dbpedia.org/resource/Algeciras
+   http://dbpedia.org/resource/Kynaston_Reeves	http://dbpedia.org/resource/England
+   http://dbpedia.org/resource/Oded_Kotler	http://dbpedia.org/resource/Israel
+   http://dbpedia.org/resource/Lynne_Berry	http://dbpedia.org/resource/Boston
+   http://dbpedia.org/resource/Long_Boret	http://dbpedia.org/resource/French_Protectorate_of_Cambodia
+   http://dbpedia.org/resource/Jean_Louvet_(playwright)	http://dbpedia.org/resource/Belgium
+   http://dbpedia.org/resource/Jack_Manning_(cricketer)	http://dbpedia.org/resource/South_Australia
+   http://dbpedia.org/resource/Sherry_Boucher	http://dbpedia.org/resource/Springhill,_Louisiana
+   http://dbpedia.org/resource/Adriana_Valdés	http://dbpedia.org/resource/Santiago_de_Chile
+   http://dbpedia.org/resource/Wilson_Brown_(politician)	http://dbpedia.org/resource/Anne_Arundel_County,_Maryland
+   http://dbpedia.org/resource/Robert_O._Work	http://dbpedia.org/resource/Charlotte,_North_Carolina
+   http://dbpedia.org/resource/Bill_Rutherford_(footballer)	http://dbpedia.org/resource/Bellshill
+   http://dbpedia.org/resource/Kimberly_Bergalis	http://dbpedia.org/resource/Tamaqua,_Pennsylvania
+http://dbpedia.org/ontology/predecessor
+   http://dbpedia.org/resource/Vernon_Perez_Rubio	http://dbpedia.org/resource/Ignacio_Cabrera_Fernández
+   http://dbpedia.org/resource/Peugeot_309	http://dbpedia.org/resource/Chrysler_Horizon
+   http://dbpedia.org/resource/1968_São_Paulo_FC_season	http://dbpedia.org/resource/1967_São_Paulo_F.C._season
+   http://dbpedia.org/resource/Odd_Olsen_Ingerø	http://dbpedia.org/resource/Morten_Ruud
+   http://dbpedia.org/resource/Pavel_Bém	http://dbpedia.org/resource/Igor_Němec
+   http://dbpedia.org/resource/Ali_bin_Abdullah_Al_Thani	http://dbpedia.org/resource/Abdullah_bin_Jassim_Al_Thani
+   http://dbpedia.org/resource/C._K._Jaffer_Sharief	http://dbpedia.org/resource/K._Hanumanthaiah
+   http://dbpedia.org/resource/John_Creswell	http://dbpedia.org/resource/Thomas_Holliday_Hicks
+   http://dbpedia.org/resource/Short_Rangoon	http://dbpedia.org/resource/Short_S.8_Calcutta
+   http://dbpedia.org/resource/Bob_Lanier_(politician)	http://dbpedia.org/resource/Kathryn_J._Whitmire
+   http://dbpedia.org/resource/Green_Hackworth	http://dbpedia.org/resource/Sir_Arnold_McNair
+   http://dbpedia.org/resource/2014–15_Luton_Town_F.C._season	http://dbpedia.org/resource/2013–14_Luton_Town_F.C._season
+   http://dbpedia.org/resource/Isham_G._Harris	http://dbpedia.org/resource/Matt_Whitaker_Ransom
+   http://dbpedia.org/resource/Martin_Rutten	http://dbpedia.org/resource/Maurice_Lippens_(governor)
+   http://dbpedia.org/resource/John_Alexander_MacDonell	http://dbpedia.org/resource/Thomas_Mayne_Daly
+   http://dbpedia.org/resource/Laura_Taylor_Swain	http://dbpedia.org/resource/Thomas_P._Griesa
+   http://dbpedia.org/resource/John_J._Francis_(New_Jersey)	http://dbpedia.org/resource/Joseph_Weintraub
+   http://dbpedia.org/resource/Ted_Stevens	http://dbpedia.org/resource/Bob_Bartlett
+   http://dbpedia.org/resource/Constantine_VIII	http://dbpedia.org/resource/Basil_II
+   http://dbpedia.org/resource/Royall_H._Switzler	http://dbpedia.org/resource/Robert_Larkin
+http://dbpedia.org/ontology/spouse
+   http://dbpedia.org/resource/Weluwaddy	http://dbpedia.org/resource/Narapatisithu
+   http://dbpedia.org/resource/Margery_Durant	http://dbpedia.org/resource/Fitzhugh_Green,_Sr.
+   http://dbpedia.org/resource/Imran_Khan	http://dbpedia.org/resource/Reham_Khan
+   http://dbpedia.org/resource/Isabel_del_Puerto	http://en.rodovid.org/wk/Person:749365
+   http://dbpedia.org/resource/T._Boone_Pickens	http://dbpedia.org/resource/Madeleine_A._Pickens
+   http://dbpedia.org/resource/Mehmed_V	http://dbpedia.org/resource/Kamures_Kadın
+   http://dbpedia.org/resource/Steven_Soderbergh	http://dbpedia.org/resource/Betsy_Brantley
+   http://dbpedia.org/resource/Neena_Verma	http://dbpedia.org/resource/Vikram_Verma
+   http://dbpedia.org/resource/Patrick_Macnee	http://dbpedia.org/resource/Baba_Macnee
+   http://dbpedia.org/resource/Stanisław_Krasiński_(1558–1617)	http://dbpedia.org/resource/Małgorzata_Sobiejuska
+   http://dbpedia.org/resource/Lesley_Titcomb	http://dbpedia.org/resource/Mark_Prisk
+   http://dbpedia.org/resource/Don_Taylor_(American_actor_and_director)	http://dbpedia.org/resource/Phyllis_Avery
+   http://dbpedia.org/resource/Christiane_Eberhardine_of_Brandenburg-Bayreuth	http://dbpedia.org/resource/Augustus_II_the_Strong
+   http://dbpedia.org/resource/Guan_Hu	http://dbpedia.org/resource/Liang_Jing
+   http://dbpedia.org/resource/Edmund_Beaufort,_2nd_Duke_of_Somerset	http://dbpedia.org/resource/Eleanor_Beauchamp
+   http://dbpedia.org/resource/Michal_Har'el	http://dbpedia.org/resource/Yitzhak_Moda'i
+   http://dbpedia.org/resource/Cándida_Montilla_de_Medina	http://dbpedia.org/resource/Danilo_Medina
+   http://dbpedia.org/resource/Rubén_Darío_Lizarralde_Montoya	http://dbpedia.org/resource/María_Fernanda_Campo_Saavedra
+   http://dbpedia.org/resource/Risa_Niigaki	http://dbpedia.org/resource/Yoshikazu_Kotani
+   http://dbpedia.org/resource/Robert_Daws	http://dbpedia.org/resource/Amy_Robbins
+http://dbpedia.org/ontology/strength
+   http://dbpedia.org/resource/Expedition_of_Zaid_ibn_Haritha_(Al-Is)	"Unknown"
+   http://dbpedia.org/resource/Battle_of_Bapheus	"~5,000"
+   http://dbpedia.org/resource/Battle_of_Verneuil	"14,000-16,000"
+   http://dbpedia.org/resource/Battle_of_Lumë	"Albanian sources: 21,800"
+   http://dbpedia.org/resource/Siege_of_Groenlo_(1606)	"15,000"
+   http://dbpedia.org/resource/Raid_on_Kirkenes_and_Petsamo	"Luftwaffe fighters"
+   http://dbpedia.org/resource/Second_Persian_invasion_of_Greece	"445,190 oarsmen"
+   http://dbpedia.org/resource/Capture_of_Ootmarsum	"120"
+   http://dbpedia.org/resource/Action_of_15_February_1783	"1Frigate"
+   http://dbpedia.org/resource/Operation_Archery	"Coastal artillery"
+   http://dbpedia.org/resource/Battle_of_Carthage_(c._149_BC)	"400,000:"
+   http://dbpedia.org/resource/Operation_Death_to_the_Invader	"4,800"
+   http://dbpedia.org/resource/Landing_at_Cape_Helles	"1 regiment (total)"
+   http://dbpedia.org/resource/Aden_Expedition	"33artillery pieces"
+   http://dbpedia.org/resource/Wager's_Action	"14 merchants"
+   http://dbpedia.org/resource/Battle_of_Damme	"500 ships"
+   http://dbpedia.org/resource/Sinking_of_HMS_Avon	"U.S. Navy"
+   http://dbpedia.org/resource/Vyborg–Petrozavodsk_Offensive	"800 tanks"
+   http://dbpedia.org/resource/Operation_Abstention	"1 gunboat"
+   http://dbpedia.org/resource/Second_Battle_of_Topolobampo	"1gunboat"
+http://dbpedia.org/ontology/combatant
+   http://dbpedia.org/resource/Battle_of_Congella	"Port Natal traders and garrison;British Empire"
+   http://dbpedia.org/resource/Invasion_of_Banu_Qaynuqa	"Banu Qaynuqatribe"
+   http://dbpedia.org/resource/Battle_of_Cecora_(1595)	"Moldavia"
+   http://dbpedia.org/resource/Fifth_Encirclement_Campaign_against_the_Hubei-Henan-Anhui_Soviet	"80px|Flag of the National Revolutionary Army"
+   http://dbpedia.org/resource/War_of_the_Euboeote_Succession	"20pxTriarchs of Negroponte"
+   http://dbpedia.org/resource/1926_Shikak_revolt	"Shikaktribesmen"
+   http://dbpedia.org/resource/Operation_Inherent_Resolve	"*al-Nusra Front(until 2016)"
+   http://dbpedia.org/resource/Advance_of_the_Islamic_Courts_Union	"RRA"
+   http://dbpedia.org/resource/Goharshad_Mosque_rebellion	"25px"
+   http://dbpedia.org/resource/Daraa_offensive_(January_2015)	"*Syrian Army"
+   http://dbpedia.org/resource/Battle_of_Emmaus	"Seleucid Empire"
+   http://dbpedia.org/resource/Battle_of_Lake_Regillus	"Roman Republic"
+   http://dbpedia.org/resource/1987_Republic_of_the_Congo_coup_d'état_attempt	"Armyfaction"
+   http://dbpedia.org/resource/Battle_of_Czarnowo	"First French Empire"
+   http://dbpedia.org/resource/Siege_of_Naples_(536)	"Byzantine Empire"
+   http://dbpedia.org/resource/Italian_conquest_of_British_Somaliland	"*Kenya"
+   http://dbpedia.org/resource/War_of_the_Bucket	"22pxModena(Ghibelline)"
+   http://dbpedia.org/resource/Siege_of_Abu_al-Duhur_Airbase	"*Ajnad ash-Sham"
+   http://dbpedia.org/resource/Battle_of_Craonne	"Kingdom of Prussia"
+   http://dbpedia.org/resource/Dungan_Revolt_(1862–77)	"Hui Muslim rebels"
+http://dbpedia.org/ontology/occupation
+   http://dbpedia.org/resource/Kunal_Ghosh	http://dbpedia.org/resource/Member_of_Parliament
+   http://dbpedia.org/resource/Stella_Ruiz_White	http://dbpedia.org/resource/Singer
+   http://dbpedia.org/resource/Fletcher_Markle	http://dbpedia.org/resource/Television_director
+   http://dbpedia.org/resource/Katharine_Houghton	http://dbpedia.org/resource/Playwright
+   http://dbpedia.org/resource/Nikola_Pejaković	http://dbpedia.org/resource/Nikola_Pejaković__1
+   http://dbpedia.org/resource/Daniele_Vicari	http://dbpedia.org/resource/Daniele_Vicari__1
+   http://dbpedia.org/resource/Alban_Ceray	http://dbpedia.org/resource/Alban_Ceray__1
+   http://dbpedia.org/resource/Sonam_Tshering_Lepcha	http://dbpedia.org/resource/Sonam_Tshering_Lepcha__1
+   http://dbpedia.org/resource/Rob_Couhig	http://dbpedia.org/resource/Rob_Couhig__1
+   http://dbpedia.org/resource/Klubbheads	http://dbpedia.org/resource/Record_producer
+   http://dbpedia.org/resource/Vivaan_Tiwari	http://dbpedia.org/resource/Engineer
+   http://dbpedia.org/resource/Kristine_Miller	http://dbpedia.org/resource/Kristine_Miller__1
+   http://dbpedia.org/resource/Bradford_Dillman	http://dbpedia.org/resource/Bradford_Dillman__1
+   http://dbpedia.org/resource/Leon_Harris_(art_director)	http://dbpedia.org/resource/Leon_Harris_(art_director)__1
+   http://dbpedia.org/resource/Mike_Shaikh	http://dbpedia.org/resource/Chartered_Accountant
+   http://dbpedia.org/resource/Katharine_O'Shea	http://dbpedia.org/resource/Katharine_O'Shea__1
+   http://dbpedia.org/resource/John_Siket	http://dbpedia.org/resource/Mixing_engineer
+   http://dbpedia.org/resource/Alka_Sadat	http://dbpedia.org/resource/Alka_Sadat__1
+   http://dbpedia.org/resource/Colin_Raston	http://dbpedia.org/resource/Academia
+   http://dbpedia.org/resource/Terry_Markwell	http://dbpedia.org/resource/Interior_designer
+http://dbpedia.org/ontology/years
+   http://dbpedia.org/resource/Alberto_Montaño__6	"2004"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/George_Ramsay_(footballer)__3	"1912"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Oscar_Ruggeri__12	"1998"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Vladimir_Yeryomin__5	"1987"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Nicolae_Simatoc__13	"1960"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Colin_Hill__9	"1997"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Davide_Luppi__4	"2009"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Leandro_Kappel__6	"2016"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Agustín_Torassa__5	"2012"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Darko_Dunjić__7	"2005"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Mark_Chung__1	"1988"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Álvaro_Barco__5	"1994"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Krzysztof_Bodziony__4	"2005"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Russell_Payne_(soccer)__19	"2012"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Adrián_Calello__5	"2014"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Andrés_Felipe_Gallego__2	"2007"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Ihor_Levchenko__5	"2014"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Uladzimir_Makowski__9	"2000"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Adrián_Salcedo__4	"2011"^^<http://www.w3.org/2001/XMLSchema#gYear>
+   http://dbpedia.org/resource/Gordon_Dalziel__7	"1995"^^<http://www.w3.org/2001/XMLSchema#gYear>
+http://dbpedia.org/ontology/date
+   http://dbpedia.org/resource/1971_FA_Charity_Shield	"1971-08-07"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/2009_Kor_Royal_Cup	"2009-03-01"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/2012_Guerrero–Oaxaca_earthquake	"2012-03-20"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Costa_Rican_Civil_War	"1948-04-24"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Battle_of_Cornwall	"1595-08-04"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/1985_Wales_v_Scotland_football_match	"1985-09-10"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/2016_Coupe_de_France_Final	"2016-05-21"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Second_Raid_on_Schweinfurt	"1943-10-14"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Battle_of_Saint_Cast	"1758-09-11"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Invasion_of_the_Waikato	"1863-07-17"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Battle_of_Almaraz	"1812-05-19"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/2014_Svenska_Supercupen	"2014-11-09"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Liberation_of_Jurf_Al_Sakhar	"2014-10-26"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Battle_of_Rowlett's_Station	"1861-12-17"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Bellator_MMA:_Season_Nine__Bellator_109__1	"2013-11-22"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/1995_Supercupa_României	"1995-08-05"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Akbaba_(periodical)	"1922-12-07"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Ugandan_Bush_War	"1986-01-25"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Siege_of_Groenlo_(1595)	"1595-07-24"^^<http://www.w3.org/2001/XMLSchema#date>
+   http://dbpedia.org/resource/Battle_of_Praga	"1794-11-04"^^<http://www.w3.org/2001/XMLSchema#date>
+http://dbpedia.org/ontology/place
+   http://dbpedia.org/resource/Operation_Obviate	http://dbpedia.org/resource/Tromsø
+   http://dbpedia.org/resource/Operation_Colorado	http://dbpedia.org/resource/Quảng_Nam_Province
+   http://dbpedia.org/resource/Siege_of_Bergen_op_Zoom_(1814)	http://dbpedia.org/resource/Bergen_op_Zoom
+   http://dbpedia.org/resource/Battle_of_Bankusay_Channel	http://dbpedia.org/resource/Philippines
+   http://dbpedia.org/resource/Spillover_of_the_Syrian_Civil_War	http://dbpedia.org/resource/Israeli-occupied_territories
+   http://dbpedia.org/resource/Siege_of_Fallujah_(2016)	http://dbpedia.org/resource/Al-Karmah
+   http://dbpedia.org/resource/Battle_of_Focșani	http://dbpedia.org/resource/Romania
+   http://dbpedia.org/resource/Invasion_of_Algiers_in_1830	http://dbpedia.org/resource/Algiers
+   http://dbpedia.org/resource/Battle_of_Fort_Driant	http://dbpedia.org/resource/Metz
+   http://dbpedia.org/resource/Capture_of_Monterey	http://dbpedia.org/resource/Mexico
+   http://dbpedia.org/resource/Mughal–Safavid_War_(1622–23)	http://dbpedia.org/resource/Afghanistan
+   http://dbpedia.org/resource/Battle_of_Philiphaugh	http://dbpedia.org/resource/Selkirk,_Scottish_Borders
+   http://dbpedia.org/resource/Battle_of_Cassano_(1705)	http://dbpedia.org/resource/Lombardy
+   http://dbpedia.org/resource/Battle_of_the_Baztan_Valley	http://dbpedia.org/resource/Baztan_(valley)
+   http://dbpedia.org/resource/Tenentism	http://dbpedia.org/resource/Rio_Grande_do_Sul
+   http://dbpedia.org/resource/Battle_of_Marj_Dabiq	http://dbpedia.org/resource/Syria
+   http://dbpedia.org/resource/Sistan_and_Baluchestan_insurgency	http://dbpedia.org/resource/Sistan_and_Baluchestan_Province
+   http://dbpedia.org/resource/Battle_of_the_Crna_Bend_(1916)	http://dbpedia.org/resource/Crna_(river)
+   http://dbpedia.org/resource/Battle_of_Olompali	http://dbpedia.org/resource/California_Republic
+   http://dbpedia.org/resource/Capture_of_Arendal	http://dbpedia.org/resource/Arendal
+http://dbpedia.org/ontology/commander
+   http://dbpedia.org/resource/Siege_of_Gush_Halav	http://dbpedia.org/resource/Vespasian
+   http://dbpedia.org/resource/Action_of_14_August_1564	http://dbpedia.org/resource/Herluf_Trolle
+   http://dbpedia.org/resource/Lao_rebellion_(1826–28)	http://dbpedia.org/resource/Anouvong
+   http://dbpedia.org/resource/War_in_Vietnam_(1954–59)	http://dbpedia.org/resource/Trường_Chinh
+   http://dbpedia.org/resource/Battle_of_Motien_Pass	http://dbpedia.org/resource/Kuroki_Tamemoto
+   http://dbpedia.org/resource/Battle_of_Vĩnh_Yên	http://dbpedia.org/resource/Võ_Nguyên_Giáp
+   http://dbpedia.org/resource/School_of_Army_Aviation_(Germany)	http://dbpedia.org/resource/Colonel
+   http://dbpedia.org/resource/Palestinian_insurgency_in_South_Lebanon	http://dbpedia.org/resource/Hafez_al-Assad
+   http://dbpedia.org/resource/2008_Indo-Pakistani_standoff	http://dbpedia.org/resource/Chief_of_Air_Staff_(India)
+   http://dbpedia.org/resource/Battle_of_Hellzapoppin_Ridge_and_Hill_600A	http://dbpedia.org/resource/Allen_H._Turnage
+   http://dbpedia.org/resource/Battle_off_Endau	http://dbpedia.org/resource/Shintarō_Hashimoto
+   http://dbpedia.org/resource/Battle_of_Konitsa	http://dbpedia.org/resource/Konstantinos_Dovas
+   http://dbpedia.org/resource/Invasion_of_Elba	http://dbpedia.org/resource/General
+   http://dbpedia.org/resource/1982_Lebanon_War	http://dbpedia.org/resource/George_Hawi
+   http://dbpedia.org/resource/Mongol_invasions_of_Vietnam	http://dbpedia.org/resource/Trần_Hưng_Đạo
+   http://dbpedia.org/resource/Ten_Great_Campaigns	http://dbpedia.org/resource/Cäbdan-jab
+   http://dbpedia.org/resource/1971_Ugandan_coup_d'état	http://dbpedia.org/resource/Milton_Obote
+   http://dbpedia.org/resource/Air_Force_of_the_Democratic_Republic_of_the_Congo	http://dbpedia.org/resource/Numbi_Ngoie_Enoch
+   http://dbpedia.org/resource/Operation_Autumn_Clouds	http://dbpedia.org/resource/Dan_Halutz
+   http://dbpedia.org/resource/Siege_of_Madras	http://dbpedia.org/resource/Thomas_Arthur,_comte_de_Lally
+http://dbpedia.org/ontology/title
+   http://dbpedia.org/resource/Polythene_(album)__1	"\"Waterfall\""@en
+   http://dbpedia.org/resource/Stevan_Ognenovski__1	"Computer applications"@en
+   http://dbpedia.org/resource/John_Mein_(publisher)	"-"@en
+   http://dbpedia.org/resource/Wang_Renmei__1	"Actress, singer"@en
+   http://dbpedia.org/resource/Maurice_Ransford__1	"Art director"@en
+   http://dbpedia.org/resource/Dutugamunu	"King of Ruhuna"@en
+   http://dbpedia.org/resource/Vakpatiraja_I	"Maharaja"@en
+   http://dbpedia.org/resource/Marcelle_Werbrouck__1	"Egyptologist"@en
+   http://dbpedia.org/resource/Joel_Engardio__1	"Journalist, documentary filmmaker, writer"@en
+   http://dbpedia.org/resource/Jakub_Gierszał__1	"Actor"@en
+   http://dbpedia.org/resource/Roz_Abrams__1	"News journalist"@en
+   http://dbpedia.org/resource/Jemima_Parry-Jones__1	"Director of International Centre for Birds of Prey"@en
+   http://dbpedia.org/resource/Marc_Brickman__1	"Artist"@en
+   http://dbpedia.org/resource/B._Jaya_(actress)__1	"Actress"@en
+   http://dbpedia.org/resource/Gabriel_of_Białystok	"Martyr"@en
+   http://dbpedia.org/resource/Vladan_Dinić__1	"journalist"@en
+   http://dbpedia.org/resource/Rena_Molho__1	"Historian"@en
+   http://dbpedia.org/resource/Fulco_Ruffo_di_Calabria	"6th Duke of Guardia Lombarda"@en
+   http://dbpedia.org/resource/Irfan_Hysenbelliu__1	"Chairman of Hysenbelliu Group"@en
+   http://dbpedia.org/resource/Lucille_Teasdale-Corti__1	"Medical doctor and pediatric surgeon"@en
+http://dbpedia.org/ontology/residence
+   http://dbpedia.org/resource/Jeff_Gordon	http://dbpedia.org/resource/Charlotte,_North_Carolina
+   http://dbpedia.org/resource/Elly_Blanksma-van_den_Heuvel	http://dbpedia.org/resource/Netherlands
+   http://dbpedia.org/resource/William_L._Dill	http://dbpedia.org/resource/Paterson,_New_Jersey
+   http://dbpedia.org/resource/M._Mohanan	http://dbpedia.org/resource/Kerala
+   http://dbpedia.org/resource/Tom_Kočevar-Desman	http://dbpedia.org/resource/Ljubljana
+   http://dbpedia.org/resource/Harry_Mount	http://dbpedia.org/resource/London
+   http://dbpedia.org/resource/Sirajuddin_Ajmal	http://dbpedia.org/resource/Hojai
+   http://dbpedia.org/resource/Brendan_Iribe	http://dbpedia.org/resource/Menlo_Park,_California
+   http://dbpedia.org/resource/Ned_R._Healy	http://dbpedia.org/resource/California
+   http://dbpedia.org/resource/Christopher_Cook_(writer)	http://dbpedia.org/resource/Mexico
+   http://dbpedia.org/resource/Konstantin_Jireček	http://dbpedia.org/resource/Vienna
+   http://dbpedia.org/resource/Prabir_Sandell	http://dbpedia.org/resource/Delhi
+   http://dbpedia.org/resource/Iqra_Khalid	http://dbpedia.org/resource/Ontario
+   http://dbpedia.org/resource/Edwin_Adams_(politician)	http://dbpedia.org/resource/South_Norwalk
+   http://dbpedia.org/resource/Ernest_Bai_Koroma	http://dbpedia.org/resource/Sierra_Leone
+   http://dbpedia.org/resource/Nigar_Hatun	http://dbpedia.org/resource/Manisa
+   http://dbpedia.org/resource/Adrian_Grant_(squash_player)	http://dbpedia.org/resource/England
+   http://dbpedia.org/resource/Michael_P._McAuliffe	http://dbpedia.org/resource/United_States
+   http://dbpedia.org/resource/Jim_Keane_(politician)	http://dbpedia.org/resource/Butte,_Montana
+   http://dbpedia.org/resource/Joe_Duarte	http://dbpedia.org/resource/San_Diego,_California
+http://dbpedia.org/ontology/status
+   http://dbpedia.org/resource/War_in_Somalia_(2006–09)	"* Enforcement of Sharia Law by Sharif Ahmed administration"
+   http://dbpedia.org/resource/Beta_BASIC	"Historic"
+   http://dbpedia.org/resource/Crossrail_2	"Proposed"
+   http://dbpedia.org/resource/ND4S	"active"
+   http://dbpedia.org/resource/Pinta_(software)	"Active"
+   http://dbpedia.org/resource/Tarong_North_Power_Station	"Operating"
+   http://dbpedia.org/resource/HMS_Trollope_(K575)	"Transferred to United Kingdom 10 January 1944"
+   http://dbpedia.org/resource/HMVS_Victoria_(1855)	"Sold into civilian service"
+   http://dbpedia.org/resource/SS_Ionic_(1902)	"Scrapped in 1936,Osaka, Japan"
+   http://dbpedia.org/resource/Roger_Dunbrack	"Retired"
+   http://dbpedia.org/resource/Mpv_(media_player)	"Active"
+   http://dbpedia.org/resource/Glenlee_(ship)	"Museum ship"
+   http://dbpedia.org/resource/SS_Baychimo	"*Abandoned and lost, 1931"
+   http://dbpedia.org/resource/USS_Kearsarge_(1861)	"Wrecked, 2 February 1894"
+   http://dbpedia.org/resource/SS_Dunraven	"Sunk 22 April 1876"
+   http://dbpedia.org/resource/Shree_Amarsingh_Model_Higher_Secondary_School	"Running"
+   http://dbpedia.org/resource/Guntakal–Vasco_da_Gama_section	"Operational"
+   http://dbpedia.org/resource/HMS_Jervis_Bay	"Sunk, 5 November 1940"
+   http://dbpedia.org/resource/Poolbeg_Generating_Station	"Decommissioned"
+   http://dbpedia.org/resource/French_ship_Algésiras_(1804)	"Broken up in 1826"
