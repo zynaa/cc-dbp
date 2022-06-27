@@ -90,7 +90,7 @@ public class SaveCommonCrawlHdfs extends SaveCommonCrawlBase {
        -config cc-dbp/cc-dbp.properties
        OR
        -hdfsBase hdfs://hostname:8020 
-       -urlList https://commoncrawl.s3.amazonaws.com/crawl-data/CC-MAIN-2017-43/warc.paths.gz 
+       -urlList https://data.commoncrawl.org/crawl-data/CC-MAIN-2017-43/warc.paths.gz
        -logDir /somewhere/june2017-logs 
        -out /common-crawl/oct2017-docs.json.gz.b64
        -config cc-dbp/cc-dbp.properties

@@ -25,7 +25,7 @@ public class CommonCrawlConfig extends PropertyStruct {
     /**
      * URL prefix to add to the WARC file list
      */
-    public String urlPrefix = "https://commoncrawl.s3.amazonaws.com/";
+    public String urlPrefix = "https://data.commoncrawl.org/";
     
     /**
      * To download only a portion of common crawl, limited to this many files.

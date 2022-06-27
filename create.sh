@@ -11,7 +11,7 @@ baseDir=$1
 # Configuration file to use
 config=${2:-config.properties}
 #the list of warc files, get from http://commoncrawl.org/connect/blog/
-warcUrlList=${3:-https://commoncrawl.s3.amazonaws.com/crawl-data/CC-MAIN-2017-51/warc.paths.gz}
+warcUrlList=${3:-https://data.commoncrawl.org/crawl-data/CC-MAIN-2017-51/warc.paths.gz}
 
 mvn clean compile package install
 
